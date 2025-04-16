@@ -3,7 +3,7 @@ name: Fetch Facebook Posts
 on:
   schedule:
     - cron: '0 * * * *' # Cada hora
-  workflow_dispatch: # También puedes ejecutarlo manualmente
+  workflow_dispatch:
 
 jobs:
   fetch-posts:
