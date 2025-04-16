@@ -1,0 +1,57 @@
+name: Fetch Facebook Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Cada hora
+  workflow_dispatch: # También puedes ejecutarlo manualmente
+
+jobs:
+  fetch-posts:
+    runs-on: ubuntu-latest
+    env:
+      FACEBOOK_ACCESS_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install node-fetch
+        run: npm install node-fetch@2
+
+      - name: Ejecutar script en línea
+        run: |
+          node -e "
+            const fetch = require('node-fetch');
+            const fs = require('fs');
+
+            console.log(process.env.FACEBOOK_ACCESS_TOKEN)
+            
+            const url = 'https://graph.facebook.com/103328941578464' + '/posts?fields=message,created_time,full_picture,permalink_url&access_token=' + process.env.FACEBOOK_ACCESS_TOKEN;
+      
+            fetch(url)
+              .then(res => res.json())
+              .then(data => {
+                if (data.error) {
+                  console.error('⚠️ Facebook API error:', data.error);
+                  process.exit(1);
+                }
+                fs.writeFileSync('posts.json', JSON.stringify(data.data, null, 2));
+                console.log('✅ Posts guardados en posts.json');
+              })
+              .catch(err => {
+                console.error('❌ Error:', err);
+                process.exit(1);
+              });
+          "
+
+      - name: Commit and push JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add posts.json
+          git commit -m "Update Facebook posts [bot]" || echo "No changes to commit"
+          git push
