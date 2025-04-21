@@ -28,7 +28,7 @@ jobs:
             const fetch = require('node-fetch');
             const fs = require('fs');
             
-            const url = 'https://graph.facebook.com/145812602695267' + '/posts?fields=message,created_time,full_picture,permalink_url&access_token=' + process.env.FACEBOOK_ACCESS_TOKEN;
+            const url = 'https://graph.facebook.com/145812602695267' + '/posts?fields=message,created_time,full_picture,permalink_url,attachments&access_token=' + process.env.FACEBOOK_ACCESS_TOKEN;
       
             fetch(url)
               .then(res => res.json())
