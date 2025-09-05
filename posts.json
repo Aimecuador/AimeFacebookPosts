@@ -1,8 +1,36 @@
 [
   {
+    "message": "Evento conmemorativo",
+    "created_time": "2025-09-05T23:04:40+0000",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/543277256_2459488917769581_5699689340692907045_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=df2c94&_nc_ohc=hmNVB1v6uJkQ7kNvwHOH3ik&_nc_oc=Adn7XB5bEIPB7bytAwvIBbSl60t2DvP3ymto6-pHSe7-hOd62kkKCbX92ijF1JSPXSg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZRTTslMRKszhYHGQAXx6L9OsY7hpV_ZnaNNwiZ4zqFHQ&oe=68C13416",
+    "permalink_url": "https://www.facebook.com/686939690652511/videos/3697886203849139",
+    "attachments": {
+      "data": [
+        {
+          "media": {
+            "image": {
+              "height": 405,
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/543277256_2459488917769581_5699689340692907045_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=df2c94&_nc_ohc=hmNVB1v6uJkQ7kNvwHOH3ik&_nc_oc=Adn7XB5bEIPB7bytAwvIBbSl60t2DvP3ymto6-pHSe7-hOd62kkKCbX92ijF1JSPXSg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbUbsJQsC_zAr7HOtvUjKsFC0rsVrA2gn7BEWO3kD2uJw&oe=68C13416",
+              "width": 720
+            },
+            "source": "https://scontent-iad3-1.xx.fbcdn.net/hvideo-eag-prn/_nc_cat-109/_nc_sr_t-4/v/rASf6o_s4yQWAlvippY3GL6tZBeAerQ2bOU2hHKuxY0bSRA/_nc_ohc-_SPZ2A3rNm0Q7kNvwGBN_Bj/live-dash/dash-abr-ibr-audio/795225786490567.mpd?_nc_zt=28&ccb=2-4&ms=m_CT&sc_t=1&oh=00_AfYpqkhdCEmHmZrhAV0ZCJxOrgbtv77n-9MY9__9cI4-8Q&oe=68BD4AA0"
+          },
+          "target": {
+            "id": "3697886203849139",
+            "url": "https://www.facebook.com/686939690652511/videos/3697886203849139"
+          },
+          "title": "Dia del trabajador minero",
+          "type": "video_inline",
+          "url": "https://www.facebook.com/686939690652511/videos/3697886203849139"
+        }
+      ]
+    },
+    "id": "145812602695267_3697886203849139"
+  },
+  {
     "message": "DIA DEL  TRABAJADOR MINERO ECUATORIANO",
     "created_time": "2025-09-05T22:03:20+0000",
-    "full_picture": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/543320210_1076630551253753_6060626038816454672_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=df2c94&_nc_ohc=rBOvkK3zWpoQ7kNvwH3laib&_nc_oc=Adnz6TTLpgBbnDHQ83boD1aSryBf4e3J5fxw434Zuy8kWhr47_l7xO590eEQhKEvTZc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbRC9i-yACVuGvex8smnKV0QCcIyQv1Aqc5RTR6qURKtQ&oe=68C14D4A",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/543933685_1076631584586983_5141182205202218706_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=032300&_nc_ohc=B-n_tnPDfRkQ7kNvwHCkRwn&_nc_oc=AdlobVjg-ZvnAyf-wfemxMbjQJc2KGvMxEZyQEZy9KDLnFPa1B4KKp7tjzAyTNZgeSA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afb-IgYH7ZAiqmconMvfz_72OmHp6QcORLHJj5D5t5izow&oe=68C15275",
     "permalink_url": "https://www.facebook.com/686939690652511/videos/797211449351182",
     "attachments": {
       "data": [
@@ -10,10 +38,10 @@
           "media": {
             "image": {
               "height": 405,
-              "src": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/543320210_1076630551253753_6060626038816454672_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=df2c94&_nc_ohc=rBOvkK3zWpoQ7kNvwH3laib&_nc_oc=Adnz6TTLpgBbnDHQ83boD1aSryBf4e3J5fxw434Zuy8kWhr47_l7xO590eEQhKEvTZc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfYfbGrPEVPNuVcYVrS5OH8k49dme07iCtI10SQU6Coojg&oe=68C14D4A",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/543933685_1076631584586983_5141182205202218706_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=032300&_nc_ohc=B-n_tnPDfRkQ7kNvwHCkRwn&_nc_oc=AdlobVjg-ZvnAyf-wfemxMbjQJc2KGvMxEZyQEZy9KDLnFPa1B4KKp7tjzAyTNZgeSA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbWscJGSB_Biz72YvLPtT9OMXey82tQ2xRVky5QWPL3LA&oe=68C15275",
               "width": 720
             },
-            "source": "https://scontent-ord5-3.xx.fbcdn.net/hvideo-eag-vll/_nc_cat-107/_nc_sr_t-4/v/rASeb0gVTFSI1WlTpOxDza1V812PjlliMS73Z0l1hYJqmLw/_nc_ohc-CuaxH3JavmwQ7kNvwEqZg9H/live-dash/dash-abr-ibr-audio/795195146493631.mpd?_nc_zt=28&ccb=2-4&ms=m_CT&sc_t=1&oh=00_AfaHx0shDTWknwy3l3lrt4o1Z8XFdFfjBPmUuOTSRrps0Q&oe=68BD34F1"
+            "source": "https://scontent-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m311/AQMBGNyuH7xkUC5-gIanFZtZdZySQpbT5FQPzcpun1M4TK3Lgvp_2-L7luz0IlaiY5OLr7oMmOM4iinqW7p3vM3WVmy_QA2zHiupT2YFHiWdvndu4A.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.xx.fbcdn.net&_nc_ohc=5yKZ3J0LGcsQ7kNvwGQ8S_Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLmRhc2hfbGl2ZV9tZF9mcmFnXzJfdmlkZW8iLCJ4cHZfYXNzZXRfaWQiOjc5Mjk3NTEzMDA4NDEzMCwidmlfdXNlY2FzZV9pZCI6MTAxMjUsImR1cmF0aW9uX3MiOjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d2e0ad0848333a5a&_nc_vs=HBksFQIYUHdhc2xpdmVfZmJfcGVybWFuZW50L0RENEY3RjkxMjIyOEEzNjQzRjI4OUVCNzdDNjZEQ0JFX3Jvb3QtdmlkZW9fb3V0cHV0X2Rhc2gubXA0FQACyAESABUCGFB3YXNsaXZlX2ZiX3Blcm1hbmVudC81NDREQTlFQTdEMDRBMjQ2QTY2Mjg2RkVEOEI3NzU4Ql9yb290LWF1ZGlvX291dHB1dF9kYXNoLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEjI6Pnc3oAhUCKAJDMywXQJfWiTdLxqgYGWRhc2hfbGl2ZV9tZF9mcmFnXzJfdmlkZW8RAHUCZZqeAQA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHLDFev0nUf-N_jJt2Wkgwbie1i7Sdl6rTzv7xW-fnQHeeXkRpydAL3NBwsSz2ohHNrj_m8_m2qKw&oh=00_AfZ2OaubvdjhkZBJSEPZnXbPaNRuQd9yKzv560uL_X_SRg&oe=68BD3BAE&bitrate=195971&tag=dash_live_md_frag_2_video"
           },
           "target": {
             "id": "797211449351182",
@@ -30,7 +58,7 @@
   {
     "message": "🌍👷‍♀️👷‍♂️ La minería del futuro se construye con el trabajo y la dedicación de su gente.\nEste 5 de septiembre realizamos un evento especial en honor al Día del Trabajador Minero Ecuatoriano, que se celebra oficialmente el 7 de septiembre.\n🙌 Gracias a Datamine  por unirse a este reconocimiento.\n\n📲 Conéctate a la transmisión en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-04T17:00:47+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QG5FsGGwS6oQ7kNvwFCzJ4j&_nc_oc=AdmltevD_Lwlc6l89kv-mgfdARGVtfpy-w5MN3mPhdp5HVvAaLKXVVseb6t2ass0TRk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afb1xyqwRkD1tkAXjzk3wwZpFz9iTxm7ibir6FpCH1HW1g&oe=68C12A0E",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QG5FsGGwS6oQ7kNvwFi4aIq&_nc_oc=AdkUH6ERfs_Qqgcf0OlwvdNK8rizznk3QwfvxINZNDNIrC3XWGd_-Ctc99kyF3dlpi8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZsQy3caJLIOF9xam4S8xZ4O6d91mygQrecUFcivLXItQ&oe=68C12A0E",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/794262683253544",
     "attachments": {
       "data": [
@@ -48,7 +76,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QG5FsGGwS6oQ7kNvwFCzJ4j&_nc_oc=AdmltevD_Lwlc6l89kv-mgfdARGVtfpy-w5MN3mPhdp5HVvAaLKXVVseb6t2ass0TRk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afb1xyqwRkD1tkAXjzk3wwZpFz9iTxm7ibir6FpCH1HW1g&oe=68C12A0E",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QG5FsGGwS6oQ7kNvwFi4aIq&_nc_oc=AdkUH6ERfs_Qqgcf0OlwvdNK8rizznk3QwfvxINZNDNIrC3XWGd_-Ctc99kyF3dlpi8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZsQy3caJLIOF9xam4S8xZ4O6d91mygQrecUFcivLXItQ&oe=68C12A0E",
               "width": 719
             }
           },
@@ -66,7 +94,7 @@
   {
     "message": "⚒️💛 El corazón de la minería late gracias al esfuerzo incansable de sus trabajadores.\nEste 5 de septiembre rendimos homenaje en el marco del Día del Trabajador Minero Ecuatoriano, conmemorado oficialmente el 7 de septiembre.\n🙌 Agradecemos a Solaris Resources Inc. por apoyar esta celebración.\n\n📲 Síguelo en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-04T16:07:02+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qGegWtjQ9UcQ7kNvwGcGETR&_nc_oc=Adky4MPvsA8Z3gXtFN-9xStj84Gyk_39TcuOBgP4kmTgQQn2jpDXlj2WBI0ZsDvyzkY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZ4ACLMQWwCUmmpINJO7h62kRPM5oVfUIk6JzXJ2EbPEQ&oe=68C13075",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qGegWtjQ9UcQ7kNvwGL0HjV&_nc_oc=Adluw9lRjI3FXhr_u9JyFJEgAp156Mhr9K8N9pJeDfo2wP0eLJu2RoD6Et4HuHOJLTs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYSkZCIxkn-V_1-9vZJvElttmsMUgRkKuXEIeJuU7Fszw&oe=68C13075",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/794228459923633",
     "attachments": {
       "data": [
@@ -84,7 +112,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qGegWtjQ9UcQ7kNvwGcGETR&_nc_oc=Adky4MPvsA8Z3gXtFN-9xStj84Gyk_39TcuOBgP4kmTgQQn2jpDXlj2WBI0ZsDvyzkY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZ4ACLMQWwCUmmpINJO7h62kRPM5oVfUIk6JzXJ2EbPEQ&oe=68C13075",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qGegWtjQ9UcQ7kNvwGL0HjV&_nc_oc=Adluw9lRjI3FXhr_u9JyFJEgAp156Mhr9K8N9pJeDfo2wP0eLJu2RoD6Et4HuHOJLTs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYSkZCIxkn-V_1-9vZJvElttmsMUgRkKuXEIeJuU7Fszw&oe=68C13075",
               "width": 719
             }
           },
@@ -102,7 +130,7 @@
   {
     "message": "🌟👷‍♀️👷‍♂️ La minería responsable tiene como pilar la entrega y compromiso de sus trabajadores.\nEste 5 de septiembre conmemoramos juntos el Día del Trabajador Minero Ecuatoriano, que se celebra oficialmente el 7 de septiembre.\n🤝 Gracias a 𝐒𝐀𝐋𝐀𝐙𝐀𝐑 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 𝐋𝐓𝐃. por respaldar este homenaje.\n\n📲 Conéctate y vive la transmisión en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-04T15:41:16+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tMB6_wy1pNgQ7kNvwFtSULz&_nc_oc=Admo0V6YhMDH-0gunh-GIKQZwn0_tiIFPTORMA_27c-kTg4cZZ4DeFZKCtvnpU0UH5c&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbCfN-3_vW6CC6kfwxxby3FnU116OlZXtopwcV8AhhTCA&oe=68C137E2",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z7G4Zyj4dL0Q7kNvwH4QN4s&_nc_oc=AdmwditQRCyH9qWld40-yJU2NEK5KUvyQCgPrzAi-5_XAuosxQMOclFK_xPGRJbZMZE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbjXvf-OA4PAeyMKpUhp6wRt6w9HdW3bMXAzNf9q4XHgw&oe=68C137E2",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/794210863258726",
     "attachments": {
       "data": [
@@ -111,7 +139,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tMB6_wy1pNgQ7kNvwFtSULz&_nc_oc=Admo0V6YhMDH-0gunh-GIKQZwn0_tiIFPTORMA_27c-kTg4cZZ4DeFZKCtvnpU0UH5c&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbCfN-3_vW6CC6kfwxxby3FnU116OlZXtopwcV8AhhTCA&oe=68C137E2",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z7G4Zyj4dL0Q7kNvwH4QN4s&_nc_oc=AdmwditQRCyH9qWld40-yJU2NEK5KUvyQCgPrzAi-5_XAuosxQMOclFK_xPGRJbZMZE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbjXvf-OA4PAeyMKpUhp6wRt6w9HdW3bMXAzNf9q4XHgw&oe=68C137E2",
               "width": 719
             }
           },
@@ -129,7 +157,7 @@
   {
     "message": "👷‍♀️👷‍♂️ La grandeza de la minería ecuatoriana está en el esfuerzo de sus trabajadores.\nEste 5 de septiembre celebramos un evento especial en homenaje al Día del Trabajador Minero Ecuatoriano, instituido oficialmente el 7 de septiembre.\n🙌 Nuestro agradecimiento a Tecnovoladuras S.A por sumarse a este reconocimiento.\n\n📲 Vive esta conmemoración en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-03T19:44:01+0000",
-    "full_picture": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ie_7f053jQsQ7kNvwG9CWYM&_nc_oc=AdnUZc79-EW2nodQzKY2X-oNy_pnWm5h37z69tRhQYMVaSD-zlz-vt7R_SxLcXbcbKo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZSt3NTqHjbPRniNdLmQ4jcdEBrjJnACYyq-CG4QToelg&oe=68C14901",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ie_7f053jQsQ7kNvwF4CclD&_nc_oc=Adnw0ZsCJLArCIZjYbpDib7yx2Ykq6PZYFbv7jjRXN92IPthaWKXjs-Q1NqnGqw33pY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afa5qh4Vt_vSfcL0ILSEe4ixLQEn9xOozps7b_pbdfazig&oe=68C14901",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793577683322044",
     "attachments": {
       "data": [
@@ -147,7 +175,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ie_7f053jQsQ7kNvwG9CWYM&_nc_oc=AdnUZc79-EW2nodQzKY2X-oNy_pnWm5h37z69tRhQYMVaSD-zlz-vt7R_SxLcXbcbKo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZSt3NTqHjbPRniNdLmQ4jcdEBrjJnACYyq-CG4QToelg&oe=68C14901",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ie_7f053jQsQ7kNvwF4CclD&_nc_oc=Adnw0ZsCJLArCIZjYbpDib7yx2Ykq6PZYFbv7jjRXN92IPthaWKXjs-Q1NqnGqw33pY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afa5qh4Vt_vSfcL0ILSEe4ixLQEn9xOozps7b_pbdfazig&oe=68C14901",
               "width": 719
             }
           },
@@ -164,7 +192,7 @@
   },
   {
     "created_time": "2025-09-03T18:16:05+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwHWm0jZ&_nc_oc=AdlOoIxZvzTz5GFfcEa6DakDFiFxmVv4ybTqOhiChKWQsuLV_Bah0Sn3wktn736MeFo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afav9gRt6fqGyTZkBipJokgCFe38yIQMFJSenXpf8KWibQ&oe=68C1367D",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwFROdIP&_nc_oc=Adn1kAGEsxna6NwOPlN_bDZt8HmA5YY4KEYbhhCuC2_oNqXinsuuhf37XM6yn3x3jUM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afby5juZiOhHdh3DI5PeQWH7v1_3OCCc00Ih9E1TbLWCoA&oe=68C1367D",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793532893326523",
     "attachments": {
       "data": [
@@ -173,7 +201,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwHWm0jZ&_nc_oc=AdlOoIxZvzTz5GFfcEa6DakDFiFxmVv4ybTqOhiChKWQsuLV_Bah0Sn3wktn736MeFo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afav9gRt6fqGyTZkBipJokgCFe38yIQMFJSenXpf8KWibQ&oe=68C1367D",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwFROdIP&_nc_oc=Adn1kAGEsxna6NwOPlN_bDZt8HmA5YY4KEYbhhCuC2_oNqXinsuuhf37XM6yn3x3jUM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afby5juZiOhHdh3DI5PeQWH7v1_3OCCc00Ih9E1TbLWCoA&oe=68C1367D",
               "width": 720
             }
           },
@@ -191,7 +219,7 @@
   {
     "message": "⛏️✨ Un Solo Corazón Minero ✨⛏️\nEl 7 de septiembre celebramos el Día del Trabajador Minero Ecuatoriano, fecha establecida por el Acuerdo Ministerial Nro. MERNNR-MERNNR-2021-0016-AM como un reconocimiento al esfuerzo, compromiso y valentía de quienes impulsan el desarrollo del país.\n\nEste 5 de septiembre de 2025, en el Hotel Holiday Inn de Quito, la Asociación de Ingenieros de Minas del Ecuador – AIME llevará a cabo el Evento Conmemorativo, rindiendo homenaje a todos los trabajadores que con pasión y entrega construyen una minería responsable y sostenible.\n\n💛 Porque en cada mina, en cada proyecto y en cada trabajador…\n¡Nos une un mismo latido: Un Solo Corazón Minero!\n\n#DíaDelTrabajadorMinero #UnSoloCorazónMinero #AIME",
     "created_time": "2025-09-03T18:14:09+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwHWm0jZ&_nc_oc=AdlOoIxZvzTz5GFfcEa6DakDFiFxmVv4ybTqOhiChKWQsuLV_Bah0Sn3wktn736MeFo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afav9gRt6fqGyTZkBipJokgCFe38yIQMFJSenXpf8KWibQ&oe=68C1367D",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwFROdIP&_nc_oc=Adn1kAGEsxna6NwOPlN_bDZt8HmA5YY4KEYbhhCuC2_oNqXinsuuhf37XM6yn3x3jUM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afby5juZiOhHdh3DI5PeQWH7v1_3OCCc00Ih9E1TbLWCoA&oe=68C1367D",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793531859993293",
     "attachments": {
       "data": [
@@ -200,7 +228,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwHWm0jZ&_nc_oc=AdlOoIxZvzTz5GFfcEa6DakDFiFxmVv4ybTqOhiChKWQsuLV_Bah0Sn3wktn736MeFo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afav9gRt6fqGyTZkBipJokgCFe38yIQMFJSenXpf8KWibQ&oe=68C1367D",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_SAaTaLB0T8Q7kNvwFROdIP&_nc_oc=Adn1kAGEsxna6NwOPlN_bDZt8HmA5YY4KEYbhhCuC2_oNqXinsuuhf37XM6yn3x3jUM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afby5juZiOhHdh3DI5PeQWH7v1_3OCCc00Ih9E1TbLWCoA&oe=68C1367D",
               "width": 720
             }
           },
@@ -218,7 +246,7 @@
   {
     "message": "🌍👷‍♀️👷‍♂️ El verdadero valor de la minería está en su gente.\nEste 5 de septiembre rendimos homenaje a quienes con esfuerzo y dedicación construyen el futuro del país en el marco del Día del Trabajador Minero Ecuatoriano, conmemorado oficialmente el 7 de septiembre.\n💛 Gracias a Dundee Precious Metals Ecuador por apoyar este reconocimiento.\n\n📲 Acompáñanos y sigue la transmisión en vivo por Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-03T15:30:23+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KP2nDxCXmb0Q7kNvwFMPkaX&_nc_oc=AdkUBtjtLq-DsNxp2eLslGKlq8O7aVoE81huNrwVFfpwNMQsZ9MZrAJg2zanhKoR108&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbcJAaAEbJ9KEjQEz4-TzL3H3q0ZWsEnZtbA2E9DG7srg&oe=68C123A8",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KP2nDxCXmb0Q7kNvwF8R0Nt&_nc_oc=AdnRDerQLf9HY7otB6Hfa-6alWTQmr-vDaMDsrrs0CO2No6Ho137eD4BWJU3AfXSvMc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afa4s9pYPyi5sQo-OQQ4A6c_EfJ9Lvy2PRwDRG2iWr-_dw&oe=68C15BE8",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793433536669792",
     "attachments": {
       "data": [
@@ -236,7 +264,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KP2nDxCXmb0Q7kNvwFMPkaX&_nc_oc=AdkUBtjtLq-DsNxp2eLslGKlq8O7aVoE81huNrwVFfpwNMQsZ9MZrAJg2zanhKoR108&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbcJAaAEbJ9KEjQEz4-TzL3H3q0ZWsEnZtbA2E9DG7srg&oe=68C123A8",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KP2nDxCXmb0Q7kNvwF8R0Nt&_nc_oc=AdnRDerQLf9HY7otB6Hfa-6alWTQmr-vDaMDsrrs0CO2No6Ho137eD4BWJU3AfXSvMc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afa4s9pYPyi5sQo-OQQ4A6c_EfJ9Lvy2PRwDRG2iWr-_dw&oe=68C15BE8",
               "width": 719
             }
           },
@@ -254,7 +282,7 @@
   {
     "message": "✨👷‍♀️👷‍♂️ El motor de la minería responsable en Ecuador son sus trabajadores.\nEste 5 de septiembre realizaremos un evento especial en homenaje al Día del Trabajador Minero Ecuatoriano, que se conmemora oficialmente el 7 de septiembre.\n🤝 Agradecemos a Kluane Drilling LTD. por sumarse a este reconocimiento.\n\n📲 No te lo pierdas, conéctate en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-02T21:04:02+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YhOV8Vv0DssQ7kNvwHgiOr9&_nc_oc=Adnc7YJvkRC9sBTTV-P6HrZXl_CrO2SFLDO0ebz8Hmxtt3MjU5NmDSILBP1_IRv8jN8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfafXxtCAo2m2ChAhJ_8AgiguK04Vtq3MA1i85XS8esXEw&oe=68C149BF",
+    "full_picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YhOV8Vv0DssQ7kNvwFXQlH6&_nc_oc=AdnV3OBAKMwPi5j-8YZ99UH7ajLGy2Nn_XECamfkqUCnvsE53ntPGO2ESGz0Hl5hcrM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZyd9W-RDEwG2znVsd5vECc1_k8GIP6adBV3ig1JE2mUQ&oe=68C149BF",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/792850496728096",
     "attachments": {
       "data": [
@@ -262,7 +290,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YhOV8Vv0DssQ7kNvwHgiOr9&_nc_oc=Adnc7YJvkRC9sBTTV-P6HrZXl_CrO2SFLDO0ebz8Hmxtt3MjU5NmDSILBP1_IRv8jN8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfafXxtCAo2m2ChAhJ_8AgiguK04Vtq3MA1i85XS8esXEw&oe=68C149BF",
+              "src": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YhOV8Vv0DssQ7kNvwFXQlH6&_nc_oc=AdnV3OBAKMwPi5j-8YZ99UH7ajLGy2Nn_XECamfkqUCnvsE53ntPGO2ESGz0Hl5hcrM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZyd9W-RDEwG2znVsd5vECc1_k8GIP6adBV3ig1JE2mUQ&oe=68C149BF",
               "width": 719
             }
           },
@@ -280,7 +308,7 @@
   {
     "message": "💛👷‍♀️👷‍♂️ La fuerza de la minería ecuatoriana está en sus trabajadores.\nEste 5 de septiembre celebramos un evento especial en honor al Día del Trabajador Minero Ecuatoriano, fecha instituida el 7 de septiembre.\n🙌 Gracias a SolGold Ecuador por hacerlo posible.\n\n📲 ¡Sigue la transmisión en vivo por Facebook Live en nuestra cuenta @aime_ecuador!\n#UnSoloCorazónMinero",
     "created_time": "2025-09-02T20:06:29+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NLG9MMCuYA8Q7kNvwG06kzV&_nc_oc=Admu3Q_T7vYw6jSorj6A8CwSq2rRZNC1ywBiWqZaN3pyz_d8NzH2UAz5g9iIoVFNAiI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfYG_24evg77CPrki_lcueBg4YBZImiKZZbmA0L8y3u_Pg&oe=68C132E8",
+    "full_picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NLG9MMCuYA8Q7kNvwFEvzZD&_nc_oc=Adnz0MW_vLdmXY0ugQMGi4WWx6F5ZniGSO7mlEMI_b-M_RKBtrAgJAvQSaEAuaLtzJk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbZUlyve8az8c7lWV3SYiwjsznRWT5h14zBN1KC_uis9w&oe=68C132E8",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/792820013397811",
     "attachments": {
       "data": [
@@ -298,7 +326,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NLG9MMCuYA8Q7kNvwG06kzV&_nc_oc=Admu3Q_T7vYw6jSorj6A8CwSq2rRZNC1ywBiWqZaN3pyz_d8NzH2UAz5g9iIoVFNAiI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfYG_24evg77CPrki_lcueBg4YBZImiKZZbmA0L8y3u_Pg&oe=68C132E8",
+              "src": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NLG9MMCuYA8Q7kNvwFEvzZD&_nc_oc=Adnz0MW_vLdmXY0ugQMGi4WWx6F5ZniGSO7mlEMI_b-M_RKBtrAgJAvQSaEAuaLtzJk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbZUlyve8az8c7lWV3SYiwjsznRWT5h14zBN1KC_uis9w&oe=68C132E8",
               "width": 719
             }
           },
@@ -315,7 +343,7 @@
   },
   {
     "created_time": "2025-09-01T17:47:27+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwFQAeLN&_nc_oc=AdlKKuJTc6W3LY16l8JRkVsQMF4EC1BkbV1qFWDcd2QtR-7u4ayMJ_1y1JrskT_evpI&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbiEdgNO7s1BziQAvF9J4swMW_nAA9jgeWRi6gSWZKuQA&oe=68C14715",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwGg0k1O&_nc_oc=AdmFjjoe1iA6p1-K7YiyVLerxPaFjSvY3R6zhDZPcJl0pHdz66P_WmTtcaElrhcSAck&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfaihSBc8YnYSafHzx1uthvMKwdaPQPU2TBR37cI-BPY0Q&oe=68C14715",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/791989823480830",
     "attachments": {
       "data": [
@@ -323,7 +351,7 @@
           "media": {
             "image": {
               "height": 400,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwFQAeLN&_nc_oc=AdlKKuJTc6W3LY16l8JRkVsQMF4EC1BkbV1qFWDcd2QtR-7u4ayMJ_1y1JrskT_evpI&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbiEdgNO7s1BziQAvF9J4swMW_nAA9jgeWRi6gSWZKuQA&oe=68C14715",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwGg0k1O&_nc_oc=AdmFjjoe1iA6p1-K7YiyVLerxPaFjSvY3R6zhDZPcJl0pHdz66P_WmTtcaElrhcSAck&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfaihSBc8YnYSafHzx1uthvMKwdaPQPU2TBR37cI-BPY0Q&oe=68C14715",
               "width": 1082
             }
           },
@@ -341,7 +369,7 @@
   },
   {
     "created_time": "2025-08-31T18:58:47+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwFQAeLN&_nc_oc=AdlKKuJTc6W3LY16l8JRkVsQMF4EC1BkbV1qFWDcd2QtR-7u4ayMJ_1y1JrskT_evpI&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbiEdgNO7s1BziQAvF9J4swMW_nAA9jgeWRi6gSWZKuQA&oe=68C14715",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwGg0k1O&_nc_oc=AdmFjjoe1iA6p1-K7YiyVLerxPaFjSvY3R6zhDZPcJl0pHdz66P_WmTtcaElrhcSAck&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfaihSBc8YnYSafHzx1uthvMKwdaPQPU2TBR37cI-BPY0Q&oe=68C14715",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/4268458916812750?substory_index=4268458916812750",
     "attachments": {
       "data": [
@@ -349,7 +377,7 @@
           "media": {
             "image": {
               "height": 400,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwFQAeLN&_nc_oc=AdlKKuJTc6W3LY16l8JRkVsQMF4EC1BkbV1qFWDcd2QtR-7u4ayMJ_1y1JrskT_evpI&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbiEdgNO7s1BziQAvF9J4swMW_nAA9jgeWRi6gSWZKuQA&oe=68C14715",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xQv9hFcx_owQ7kNvwGg0k1O&_nc_oc=AdmFjjoe1iA6p1-K7YiyVLerxPaFjSvY3R6zhDZPcJl0pHdz66P_WmTtcaElrhcSAck&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfaihSBc8YnYSafHzx1uthvMKwdaPQPU2TBR37cI-BPY0Q&oe=68C14715",
               "width": 1082
             }
           },
@@ -374,10 +402,10 @@
           "media": {
             "image": {
               "height": 335,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t15.5256-10/540457610_1139110251462306_1833563856891135040_n.jpg?stp=dst-jpg_s235x350_tt6&_nc_cat=106&ccb=1-7&_nc_sid=73dd82&_nc_ohc=-97EJr6KTjMQ7kNvwHgM4fn&_nc_oc=AdkfMYQQlNQLgKPBYTlixxxIB--ZDGAG-I4tuOiq6dG8vk_gKrtciUeywn2IenkrxEc&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfYnxNcno6elRqScIGsAEWZU07ydI5dyBLkbrpRYI04IFw&oe=68C13206",
+              "src": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/540457610_1139110251462306_1833563856891135040_n.jpg?stp=dst-jpg_s235x350_tt6&_nc_cat=106&ccb=1-7&_nc_sid=73dd82&_nc_ohc=-97EJr6KTjMQ7kNvwGnFqt7&_nc_oc=AdlDgv-GOvwf86BlX49Xc6WfQce3Hl5U653U_ITiCCbKEHj3wFlWKubGZaHAJNtY1yM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbAzeMsxDmWo2H9jPyXF7FqJkJnH_d07DPrZ-WT-CcmfQ&oe=68C13206",
               "width": 250
             },
-            "source": "https://scontent-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMhUi00CylYMxsIttgN2RXFS0iXb1cD6xcZ3EzCJ4MzDmtujsptmYuXDmhNJqny0ov0a7VFJqkHKPmUJCxbp70mExdi2gAiQaFzHFhGiOYEcA.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.xx.fbcdn.net&_nc_ohc=yXgOyKlUIuAQ7kNvwEFoixb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzM3NjIyMDE5NzExODQsInZpX3VzZWNhc2VfaWQiOjEwMTIwLCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=78a186e8f9ce8f24&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9DODQwMEYyREFCREY5MjFGNTI0MzZGMUU2NTM2Q0Q5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgp_fU0smDBBUCKAJDMywXQExu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZCeAQA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFgppLi6sjoqt582N144LwnVLIB2qYd5Xen-baLS6JF_7Inqkap5MWfQ61sSMnFWcvxRtCyE8nEcg&oh=00_AfaXe8xaeeS0-XY0iApin9UkwggXgnmekvt3kmrEf0khpA&oe=68C1344C&bitrate=1375430&tag=dash_h264-basic-gen2_720p"
+            "source": "https://scontent-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMhUi00CylYMxsIttgN2RXFS0iXb1cD6xcZ3EzCJ4MzDmtujsptmYuXDmhNJqny0ov0a7VFJqkHKPmUJCxbp70mExdi2gAiQaFzHFhGiOYEcA.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.xx.fbcdn.net&_nc_ohc=yXgOyKlUIuAQ7kNvwHA_EJ3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzM3NjIyMDE5NzExODQsInZpX3VzZWNhc2VfaWQiOjEwMTIwLCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=78a186e8f9ce8f24&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9DODQwMEYyREFCREY5MjFGNTI0MzZGMUU2NTM2Q0Q5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgp_fU0smDBBUCKAJDMywXQExu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZCeAQA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGnmNCvTDd3hUIO5q7Kv2Q0Fljn7SlDLh1uUJxGJNXHe6W-pq_Sv2T15MCU1QUdLqze2E_S8SlTVQ&oh=00_Afai7ZlBuy4V1DP3-up9CDrumX86orkG8Q6XjjIZGxxZrw&oe=68C1344C&bitrate=1375430&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "740909078916605",
@@ -394,7 +422,7 @@
   {
     "message": "📢 Hoy en nuestro 1er Curso de Seguridad Minera – Modalidad Online\n👨‍🏫 Contaremos con la participación de Lauro Cordero (IdealAlambrec), quien compartirá sus conocimientos sobre:\n🔶 Estabilidad de excavaciones superficiales y subterráneas.\n\n⚒️ ¡Un espacio de aprendizaje clave para fortalecer la seguridad en la minería!\n#SeguridadMinera #MineríaResponsable #FormaciónTécnica",
     "created_time": "2025-08-27T20:30:10+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/540908461_788235103856302_4042605653627467111_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vOsscYTtp1sQ7kNvwEW2rSV&_nc_oc=AdmUwtrEUgBUec1HjFCjtsgjGpn_VWyN2ocSX-lgB_-kjbMxcxKDx-NmRykdO-do2P4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfalYMo8p9W4WS_Nzam9QVtpZSipgclHQYrFQZ_j68AhLw&oe=68C119C1",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540908461_788235103856302_4042605653627467111_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vOsscYTtp1sQ7kNvwFMEo-s&_nc_oc=AdlGdq-WFMdJ5l5H533Q5_aRqP5YL-kQtNGPltyEVVQZYTkdjlfO8fJ6Ke_t_DkxrYg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afa9aSaywBb7BnCB9WnqjRj4GTuoIKvGflpi6E1Xcq6MYw&oe=68C15201",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/788235143856298",
     "attachments": {
       "data": [
@@ -403,7 +431,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/540908461_788235103856302_4042605653627467111_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vOsscYTtp1sQ7kNvwEW2rSV&_nc_oc=AdmUwtrEUgBUec1HjFCjtsgjGpn_VWyN2ocSX-lgB_-kjbMxcxKDx-NmRykdO-do2P4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfalYMo8p9W4WS_Nzam9QVtpZSipgclHQYrFQZ_j68AhLw&oe=68C119C1",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/540908461_788235103856302_4042605653627467111_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vOsscYTtp1sQ7kNvwFMEo-s&_nc_oc=AdlGdq-WFMdJ5l5H533Q5_aRqP5YL-kQtNGPltyEVVQZYTkdjlfO8fJ6Ke_t_DkxrYg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afa9aSaywBb7BnCB9WnqjRj4GTuoIKvGflpi6E1Xcq6MYw&oe=68C15201",
               "width": 720
             }
           },
@@ -421,7 +449,7 @@
   {
     "message": "🚨 ¡Minería más segura para el Ecuador! ⚒️\nLa Asociación de Ingenieros de Minas del Ecuador – AIME inauguró el 1er Curso de Seguridad Minera en modalidad online, con el respaldo académico de la Universidad del Pacífico.\n\nUn espacio de formación para fortalecer la prevención, la normativa y las buenas prácticas en seguridad y salud ocupacional, reafirmando nuestro compromiso con una minería formal, responsable y sostenible.\n\n👉 Seguimos construyendo conocimiento con #UnSoloCorazónMinero ❤️⛏️\n\n#OrgulloMineroEC #SeguridadMinera #AIMEcuador",
     "created_time": "2025-08-26T22:57:42+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/539100107_787483973931415_4651072761686061222_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R60Wa3YLOdAQ7kNvwGWC1kG&_nc_oc=AdmGyp_5TXS331voZTGeLcdLnVe_RnfAjXdkb-X8D_nEI8kkkKWcy4jV0LfQjb5m0vk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afanoby9s4rVv4y5rcRDM3WFoQ_DNbMXSvK3SUMa1pbKoA&oe=68C14BA7",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/539100107_787483973931415_4651072761686061222_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R60Wa3YLOdAQ7kNvwFxeD_0&_nc_oc=AdmpNhvCGrYFSYfcnDPLoGQ4WbI2e6FgXgCq2HBhCHCcmsTMSeLKxQughPeEThlzDPU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZLyW9bt2VsxikmqV8uIdrMMeB_gKom0CqEox_KI-uaEA&oe=68C14BA7",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/787484087264737",
     "attachments": {
       "data": [
@@ -429,7 +457,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/539100107_787483973931415_4651072761686061222_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R60Wa3YLOdAQ7kNvwGWC1kG&_nc_oc=AdmGyp_5TXS331voZTGeLcdLnVe_RnfAjXdkb-X8D_nEI8kkkKWcy4jV0LfQjb5m0vk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afanoby9s4rVv4y5rcRDM3WFoQ_DNbMXSvK3SUMa1pbKoA&oe=68C14BA7",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/539100107_787483973931415_4651072761686061222_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R60Wa3YLOdAQ7kNvwFxeD_0&_nc_oc=AdmpNhvCGrYFSYfcnDPLoGQ4WbI2e6FgXgCq2HBhCHCcmsTMSeLKxQughPeEThlzDPU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZLyW9bt2VsxikmqV8uIdrMMeB_gKom0CqEox_KI-uaEA&oe=68C14BA7",
               "width": 720
             }
           },
@@ -439,7 +467,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/539100107_787483973931415_4651072761686061222_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R60Wa3YLOdAQ7kNvwGWC1kG&_nc_oc=AdmGyp_5TXS331voZTGeLcdLnVe_RnfAjXdkb-X8D_nEI8kkkKWcy4jV0LfQjb5m0vk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afanoby9s4rVv4y5rcRDM3WFoQ_DNbMXSvK3SUMa1pbKoA&oe=68C14BA7",
+                    "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/539100107_787483973931415_4651072761686061222_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R60Wa3YLOdAQ7kNvwFxeD_0&_nc_oc=AdmpNhvCGrYFSYfcnDPLoGQ4WbI2e6FgXgCq2HBhCHCcmsTMSeLKxQughPeEThlzDPU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZLyW9bt2VsxikmqV8uIdrMMeB_gKom0CqEox_KI-uaEA&oe=68C14BA7",
                     "width": 720
                   }
                 },
@@ -454,7 +482,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/539359539_787483983931414_1479425943786288855_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Msgx601FLhUQ7kNvwGjsrdY&_nc_oc=Adn8VNFSJLlzqdew04Pr-WFbBzJbOaLiI5REuAWiudIM3PUaUoinBuh0AAw0FLu5bM8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfY9yeSLTfo8PisewEqcjSWx2LEX37B3kWJ5XLnCXJMh_w&oe=68C14364",
+                    "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/539359539_787483983931414_1479425943786288855_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Msgx601FLhUQ7kNvwF4TwPl&_nc_oc=Adm2bedfpxOoSU0Giz0b_ut2XqSMovm1FMKeFyElyua5m03Edhus5ZeHpL25eiLFTFk&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYKWfzEmw0kOq7FAED3SmJhB9Osu39VXsy0NlOv_H7TyQ&oe=68C14364",
                     "width": 720
                   }
                 },
@@ -482,7 +510,7 @@
   {
     "message": "🚨 ¡Hoy damos inicio al 1er Curso de Seguridad Minera – Modalidad Online! ⚒️\nUn espacio de aprendizaje para fortalecer conocimientos en prevención, normativa y buenas prácticas que impulsan una minería más segura y responsable.\n\n⏰ Horario: 18h30 – 21h30\n📍 Plataforma: Zoom\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n\n👉 ¡Gracias a todos los inscritos por ser parte de esta experiencia formativa!\n\n#SeguridadMinera #MineríaResponsable #AIMEcuador #FormaciónContinua",
     "created_time": "2025-08-25T19:24:30+0000",
-    "full_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/539661659_786563967356749_6204774303606797152_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tY1VmMrRYA4Q7kNvwFLlHWp&_nc_oc=Adk01afHrwbV5KNAkjrNuTDmNcWYXpCYMPoSz0Tnp32cARNAtufJJ0ICtj6jupnU17Y&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfajZ0l2CPGBG0ez1K5HM8ZiH4PCktLAqDNSdCyCFKNFjA&oe=68C120B0",
+    "full_picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/539661659_786563967356749_6204774303606797152_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tY1VmMrRYA4Q7kNvwGUKniK&_nc_oc=AdnvQd327SepEm8kaZ4hmPxWBXNz5iCrO16M8BJIFiagJkzOl9INj9_L9bPDjZ96eWo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfY5SBCR3WZcz0KthUM07vgArE8bwVWwqqGBmq5qx-2HbA&oe=68C158F0",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/786564067356739",
     "attachments": {
       "data": [
@@ -491,7 +519,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/539661659_786563967356749_6204774303606797152_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tY1VmMrRYA4Q7kNvwFLlHWp&_nc_oc=Adk01afHrwbV5KNAkjrNuTDmNcWYXpCYMPoSz0Tnp32cARNAtufJJ0ICtj6jupnU17Y&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfajZ0l2CPGBG0ez1K5HM8ZiH4PCktLAqDNSdCyCFKNFjA&oe=68C120B0",
+              "src": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/539661659_786563967356749_6204774303606797152_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tY1VmMrRYA4Q7kNvwGUKniK&_nc_oc=AdnvQd327SepEm8kaZ4hmPxWBXNz5iCrO16M8BJIFiagJkzOl9INj9_L9bPDjZ96eWo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfY5SBCR3WZcz0KthUM07vgArE8bwVWwqqGBmq5qx-2HbA&oe=68C158F0",
               "width": 725
             }
           },
@@ -509,7 +537,7 @@
   {
     "message": "⚒️ Fortalece tus conocimientos en seguridad minera ⚒️\nEn nuestro 1er Curso de Seguridad Minera – Online, aprenderás sobre:\n📌 Evolución de la seguridad en equipos para minería subterránea\n\n👨‍🏫 Instructor: Edson Vargas – Epiroc Ecuador S.A.\n📅 Del 25 de agosto al 4 de septiembre\n🎓 Con el aval de la Universidad del Pacífico – Ecuador\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n\n👉 ¡No te quedes fuera! Capacítate con expertos y aporta a una minería más segura y responsable.\n\n#Minería #SeguridadMinera #CapacitaciónAIME",
     "created_time": "2025-08-24T22:37:15+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/536279494_785842120762267_2259366797678647019_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0wYlxSaC7Y0Q7kNvwGJ0u0h&_nc_oc=AdkfRbrfbZ7zneQfcmvkQI_vtNwFEZzCGRj_t4erSNG1jpm1jBVRDgesA074c8GfymU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbDJiJ21EyDk8o5Lh3vXCocJuqro0aU2t28zdRAsD3aKA&oe=68C11DAF",
+    "full_picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/536279494_785842120762267_2259366797678647019_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0wYlxSaC7Y0Q7kNvwEBVq1M&_nc_oc=AdmhmzOfEY-I9-sJewBZ2diiVkFNQDNTe6JrqSjMUYs6LeGLChaRJjcJXENpOUJfIAM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYnbrjzeuB70oJeQC6TLVERjNbKQe0MJHHhaoLvx8fjcA&oe=68C155EF",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/785842284095584",
     "attachments": {
       "data": [
@@ -518,7 +546,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/536279494_785842120762267_2259366797678647019_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0wYlxSaC7Y0Q7kNvwGJ0u0h&_nc_oc=AdkfRbrfbZ7zneQfcmvkQI_vtNwFEZzCGRj_t4erSNG1jpm1jBVRDgesA074c8GfymU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbDJiJ21EyDk8o5Lh3vXCocJuqro0aU2t28zdRAsD3aKA&oe=68C11DAF",
+              "src": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/536279494_785842120762267_2259366797678647019_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0wYlxSaC7Y0Q7kNvwEBVq1M&_nc_oc=AdmhmzOfEY-I9-sJewBZ2diiVkFNQDNTe6JrqSjMUYs6LeGLChaRJjcJXENpOUJfIAM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYnbrjzeuB70oJeQC6TLVERjNbKQe0MJHHhaoLvx8fjcA&oe=68C155EF",
               "width": 720
             }
           },
@@ -536,7 +564,7 @@
   {
     "message": "⏳ ¡La cuenta regresiva sigue!🚨🚨\nFALTAN 2 DÍAS para el inicio del 1er Curso de Seguridad Minera – Modalidad Online, organizado por la Comisión Técnica SSA de AIME ⚒️\n📅 Del 25 de agosto al 4 de septiembre\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n👉 Capacítate con expertos y fortalece tus conocimientos en normativa, prevención y buenas prácticas para una minería segura y responsable.\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n📩 Más información: secretaria@aimecuador.org\n📲 Whatsapp: 096 820 4060",
     "created_time": "2025-08-23T23:43:47+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/535964879_785063520840127_4158009993167366837_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SXRh1GpQsdgQ7kNvwGLxfdr&_nc_oc=AdneinaJzGN27xFRBByyQC5TGNYC0oRc3Aj_fqwZOgWvYZ672aJHxXZx7ODjGReWAcQ&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfY-z9rDGFPIQYOh-XKM9u_rrdf9VRcGLjwI84PWPiKPhQ&oe=68C14D7A",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/535964879_785063520840127_4158009993167366837_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SXRh1GpQsdgQ7kNvwEasXBS&_nc_oc=Adm_TTFenRtXQkYbCjI3f3_232bZFWJLxFQTK5SYZpwTtjlK0_uExz3ZdMuhHNRgr1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZ2KWZseuoS20cMIz9ErXw2YB0rpH4ixjJtEZ9y4sdbAQ&oe=68C14D7A",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/785063824173430",
     "attachments": {
       "data": [
@@ -553,7 +581,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/535964879_785063520840127_4158009993167366837_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SXRh1GpQsdgQ7kNvwGLxfdr&_nc_oc=AdneinaJzGN27xFRBByyQC5TGNYC0oRc3Aj_fqwZOgWvYZ672aJHxXZx7ODjGReWAcQ&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfY-z9rDGFPIQYOh-XKM9u_rrdf9VRcGLjwI84PWPiKPhQ&oe=68C14D7A",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/535964879_785063520840127_4158009993167366837_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SXRh1GpQsdgQ7kNvwEasXBS&_nc_oc=Adm_TTFenRtXQkYbCjI3f3_232bZFWJLxFQTK5SYZpwTtjlK0_uExz3ZdMuhHNRgr1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfZ2KWZseuoS20cMIz9ErXw2YB0rpH4ixjJtEZ9y4sdbAQ&oe=68C14D7A",
               "width": 720
             }
           },
@@ -571,7 +599,7 @@
   {
     "message": "⚒️ ¡Seguimos fortaleciendo la seguridad minera!\nEn el 1er Curso de Seguridad Minera – Modalidad Online, contaremos con la participación de Gustavo Delgado (ISG pit to ship), quien compartirá su experiencia en:\n\n📌 Manejo integral de exportaciones de concentrados minerales bajo esquemas de seguridad física, laboral y ocupacional del sistema australiano de embarque limpio\n\n🗓️ Del 25 de agosto al 4 de septiembre\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n\n👉 Asegura tu cupo y capacítate con expertos internacionales en minería responsable.\n\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n🌏 www.aimecuador.org\n📧 secretaria@aimecuador.org\n📱 Whatsapp: +593 96 820 4060\n\n#MineríaResponsable #SeguridadMinera",
     "created_time": "2025-08-23T22:30:03+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/537374076_784995480846931_2883736346583958619_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VlyRV1X5eIwQ7kNvwFS1M9U&_nc_oc=AdmCIZgmuuelEPbw4UklF-neBV_ChfNjZtn-AW7st7hn6MoGWhOiHMBrYtG1fv09KOY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfYGm_MK1NCogZQ74_Hq3CL0vq6hV4kfF35mjjQowq07cA&oe=68C1497F",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/537374076_784995480846931_2883736346583958619_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VlyRV1X5eIwQ7kNvwEuuTMy&_nc_oc=AdkYOgU0ynPtK64mtHVNTULancluO2Tqg0VcdCeSThX7z4tGh0lPAzK6S1twhpwiLYM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afaxhrxhd3ija1R37Y9W71FZqMcxmT9DPXGHQ6ij9qX1MA&oe=68C1497F",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/785031620843317",
     "attachments": {
       "data": [
@@ -580,7 +608,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/537374076_784995480846931_2883736346583958619_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VlyRV1X5eIwQ7kNvwFS1M9U&_nc_oc=AdmCIZgmuuelEPbw4UklF-neBV_ChfNjZtn-AW7st7hn6MoGWhOiHMBrYtG1fv09KOY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfYGm_MK1NCogZQ74_Hq3CL0vq6hV4kfF35mjjQowq07cA&oe=68C1497F",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/537374076_784995480846931_2883736346583958619_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VlyRV1X5eIwQ7kNvwEuuTMy&_nc_oc=AdkYOgU0ynPtK64mtHVNTULancluO2Tqg0VcdCeSThX7z4tGh0lPAzK6S1twhpwiLYM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_Afaxhrxhd3ija1R37Y9W71FZqMcxmT9DPXGHQ6ij9qX1MA&oe=68C1497F",
               "width": 720
             }
           },
@@ -598,7 +626,7 @@
   {
     "message": "⚒️ ¡La seguridad minera es nuestra prioridad!\nEn el 1er Curso de Seguridad Minera – Modalidad Online, aprende de la mano del Ing. Javier Goyes, profesional sénior en Salud, Seguridad y Medio Ambiente, sobre:\n\n📌 Normativa internacional de seguridad y salud aplicada a la minería.\n\n📅 Del 25 de agosto al 4 de septiembre\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n\n👉 Capacítate con expertos y fortalece tus conocimientos para una minería responsable y segura.\n\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n🔗 Más información: www.aimecuador.org\n✉️ secretaria@aimecuador.org\n📲 WhatsApp: +593 96 820 4060",
     "created_time": "2025-08-23T20:54:10+0000",
-    "full_picture": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/537749604_784988447514301_2891000129159649705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nrF91rMkCN8Q7kNvwHwzV1b&_nc_oc=AdlLmQ_dj1W1HrAzCuyVbUXDYAfJuk-H4LkyvQsSjh-zYIb1Pjs1gQyvcvnjgedcQdE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbxuJo5bCfl1NejmMCZAjfuPdqSJXwIZRs14zMaeO3brA&oe=68C12E15",
+    "full_picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/537749604_784988447514301_2891000129159649705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nrF91rMkCN8Q7kNvwFTvw8X&_nc_oc=AdnbFxbczBg0WuLHBThFl4bcF4OELX_83vx8toNXg_D0kz7u3RBjWffALHA-uxmitts&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYBe-Ovod6w62QxJpJJp7pcUgx4kcuxyAyP01ltKywX9A&oe=68C12E15",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/784988524180960",
     "attachments": {
       "data": [
@@ -607,7 +635,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/537749604_784988447514301_2891000129159649705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nrF91rMkCN8Q7kNvwHwzV1b&_nc_oc=AdlLmQ_dj1W1HrAzCuyVbUXDYAfJuk-H4LkyvQsSjh-zYIb1Pjs1gQyvcvnjgedcQdE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfbxuJo5bCfl1NejmMCZAjfuPdqSJXwIZRs14zMaeO3brA&oe=68C12E15",
+              "src": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/537749604_784988447514301_2891000129159649705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nrF91rMkCN8Q7kNvwFTvw8X&_nc_oc=AdnbFxbczBg0WuLHBThFl4bcF4OELX_83vx8toNXg_D0kz7u3RBjWffALHA-uxmitts&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYBe-Ovod6w62QxJpJJp7pcUgx4kcuxyAyP01ltKywX9A&oe=68C12E15",
               "width": 720
             }
           },
@@ -625,7 +653,7 @@
   {
     "message": "⚠️ La seguridad minera no admite descuidos.\nEn el 1er Curso de Seguridad Minera – Online aprenderás sobre:\n“Accidentes Mayores en Minería: Casos de Estudio y Lecciones Aprendidas” 🛡️\n\n👨‍🏫 Instructor: René Ayala – Gerente General de FERLAT\n📅 Del 25 de agosto al 4 de septiembre\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n\n👉 Organiza: AIME – Comisión Técnica SSA\n🔗 www.aimecuador.org\n\n#MineríaSegura #AIMEcuador #SeguridadMinera",
     "created_time": "2025-08-23T00:30:06+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/535225648_784232160923263_2279329035702255796_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7dPUDsFd2cAQ7kNvwF5Ug6V&_nc_oc=AdmHSbd2taxcbQgVE6Z4nF5kKgzT9u1Db7KKYyWB0L3G6VgDq_fVYt9Ruap1rkZFUXI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afb34ULuTmtRae_-BHjgYq7ZQJUo1VpKw-RXDRpou8RQew&oe=68C13250",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/535225648_784232160923263_2279329035702255796_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7dPUDsFd2cAQ7kNvwEgO3tj&_nc_oc=Adk1eWhVcDTkf3C6enMGPlTflaygCWOEmOCKIq-Of4MIHa49BpVsP95vNwlTMaPOijg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYrVdVbdBzGBIpcz8PWjy_stRTM72fWyItdclNBLSSxDw&oe=68C13250",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/784297844250028",
     "attachments": {
       "data": [
@@ -634,7 +662,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/535225648_784232160923263_2279329035702255796_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7dPUDsFd2cAQ7kNvwF5Ug6V&_nc_oc=AdmHSbd2taxcbQgVE6Z4nF5kKgzT9u1Db7KKYyWB0L3G6VgDq_fVYt9Ruap1rkZFUXI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_Afb34ULuTmtRae_-BHjgYq7ZQJUo1VpKw-RXDRpou8RQew&oe=68C13250",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/535225648_784232160923263_2279329035702255796_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7dPUDsFd2cAQ7kNvwEgO3tj&_nc_oc=Adk1eWhVcDTkf3C6enMGPlTflaygCWOEmOCKIq-Of4MIHa49BpVsP95vNwlTMaPOijg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfYrVdVbdBzGBIpcz8PWjy_stRTM72fWyItdclNBLSSxDw&oe=68C13250",
               "width": 720
             }
           },
@@ -652,7 +680,7 @@
   {
     "message": "⚒️ ¡Seguimos fortaleciendo la seguridad minera!\nEn el 1er Curso de Seguridad Minera – Modalidad Online, tendremos la participación de Ángel Rosas (Wood PLC), quien compartirá su experiencia en:\n\n📌 Gestión de Riesgos del negocio en proyectos mineros\n🗓️ Del 25 de agosto al 4 de septiembre\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n👉 Asegura tu cupo y capacítate con expertos internacionales en minería responsable.\n\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n🌏 www.aimecuador.org\n📧 secretaria@aimecuador.org\n📱 Whatsapp: +593 96 820 4060",
     "created_time": "2025-08-22T21:53:21+0000",
-    "full_picture": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/515440083_784223710924108_8107508944896302630_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kiB834l7mR0Q7kNvwFQAd7q&_nc_oc=AdlZb_FlC8k_5NQb-vOgSpC5sTTwEq9Ogd-0Ly9ef1ZTn9bpth-sWffZ1AfDUUOziI8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZRYLRUObBVEmA9u4JnVBFgz9hKtuDQZbjH5AAUKqcsAA&oe=68C14790",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/515440083_784223710924108_8107508944896302630_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kiB834l7mR0Q7kNvwHuwbeT&_nc_oc=AdlHWGDYNDj1M_PpImKKDTHDqBTfh-dDu5Sq9SZN-jOMQS0HTnzKylUGdh-e9nIasjk&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbKtGNeogB-9kOAJOT-qjANssNI4c8o0kHzBP_VqDDjLQ&oe=68C14790",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/784225950923884",
     "attachments": {
       "data": [
@@ -661,7 +689,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/515440083_784223710924108_8107508944896302630_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kiB834l7mR0Q7kNvwFQAd7q&_nc_oc=AdlZb_FlC8k_5NQb-vOgSpC5sTTwEq9Ogd-0Ly9ef1ZTn9bpth-sWffZ1AfDUUOziI8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZRYLRUObBVEmA9u4JnVBFgz9hKtuDQZbjH5AAUKqcsAA&oe=68C14790",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/515440083_784223710924108_8107508944896302630_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kiB834l7mR0Q7kNvwHuwbeT&_nc_oc=AdlHWGDYNDj1M_PpImKKDTHDqBTfh-dDu5Sq9SZN-jOMQS0HTnzKylUGdh-e9nIasjk&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbKtGNeogB-9kOAJOT-qjANssNI4c8o0kHzBP_VqDDjLQ&oe=68C14790",
               "width": 720
             }
           },
@@ -679,7 +707,7 @@
   {
     "message": "⏳ ¡La cuenta regresiva sigue!🚨🚨\nFALTAN 3 DÍAS para el inicio del 1er Curso de Seguridad Minera – Modalidad Online, organizado por la Comisión Técnica SSA de AIME ⚒️\n📅 Del 25 de agosto al 4 de septiembre\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n👉 Capacítate con expertos y fortalece tus conocimientos en normativa, prevención y buenas prácticas para una minería segura y responsable.\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n📩 Más información: secretaria@aimecuador.org\n📲 Whatsapp: 096 820 4060",
     "created_time": "2025-08-22T16:30:43+0000",
-    "full_picture": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/532023555_784044277608718_2637221521931238212_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9JSCmpk_Iy4Q7kNvwF7JV1_&_nc_oc=AdmRwOH42QkZKufb6LJxGciqtBFAKnjrvy_wCrtasfwdQtt5IxWFZ3AUWY5iOaTlTsc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfY-al_8UMpAgbn8HRs3PcdbJNtCL96G40x9IAp3lCmnsQ&oe=68C11C97",
+    "full_picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/532023555_784044277608718_2637221521931238212_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9JSCmpk_Iy4Q7kNvwGTR1SI&_nc_oc=AdlzkM2yn0rK9nGWpfVJeHUVMX6G-z5x_f-eCSbseiV9-u9Q7jU2evXNh1-faln0L6U&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfaRlpaO3XCfEzxZxQ8vNEYbJ71fCXwaruqrROppMmzx9g&oe=68C154D7",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/784047444275068",
     "attachments": {
       "data": [
@@ -696,7 +724,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/532023555_784044277608718_2637221521931238212_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9JSCmpk_Iy4Q7kNvwF7JV1_&_nc_oc=AdmRwOH42QkZKufb6LJxGciqtBFAKnjrvy_wCrtasfwdQtt5IxWFZ3AUWY5iOaTlTsc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfY-al_8UMpAgbn8HRs3PcdbJNtCL96G40x9IAp3lCmnsQ&oe=68C11C97",
+              "src": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/532023555_784044277608718_2637221521931238212_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9JSCmpk_Iy4Q7kNvwGTR1SI&_nc_oc=AdlzkM2yn0rK9nGWpfVJeHUVMX6G-z5x_f-eCSbseiV9-u9Q7jU2evXNh1-faln0L6U&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfaRlpaO3XCfEzxZxQ8vNEYbJ71fCXwaruqrROppMmzx9g&oe=68C154D7",
               "width": 720
             }
           },
@@ -713,7 +741,7 @@
   },
   {
     "created_time": "2025-08-21T18:11:11+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/536270941_783285241017955_5062306135111455694_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lsG_NUY9tt4Q7kNvwGaolaj&_nc_oc=AdnbNtQenwHrAvyQzNCdG544pc0QErw-yKMM42DuAm9Lziy_MWchMVtURR8PM00VBZ4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZucxGHVqHXqMM4OvnhSWPm49HGTNaS4ACw_AtruIS0Cg&oe=68C11949",
+    "full_picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/536270941_783285241017955_5062306135111455694_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lsG_NUY9tt4Q7kNvwFzpZi7&_nc_oc=AdnD3cRBczSZnLBmD7kbQ62ckedvudGqi2IhhZUireETolDrXVYnVNBMMoLyKkOE7_g&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbdyIiQOQVIAE3gyzkcUo1vxSIXRJvcCuF4iw_KL4Oi_A&oe=68C15189",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/783296027683543",
     "attachments": {
       "data": [
@@ -722,7 +750,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/536270941_783285241017955_5062306135111455694_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lsG_NUY9tt4Q7kNvwGaolaj&_nc_oc=AdnbNtQenwHrAvyQzNCdG544pc0QErw-yKMM42DuAm9Lziy_MWchMVtURR8PM00VBZ4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZucxGHVqHXqMM4OvnhSWPm49HGTNaS4ACw_AtruIS0Cg&oe=68C11949",
+              "src": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/536270941_783285241017955_5062306135111455694_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lsG_NUY9tt4Q7kNvwFzpZi7&_nc_oc=AdnD3cRBczSZnLBmD7kbQ62ckedvudGqi2IhhZUireETolDrXVYnVNBMMoLyKkOE7_g&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=Khh28xQmhRvCFTRyXXCoSA&oh=00_AfbdyIiQOQVIAE3gyzkcUo1vxSIXRJvcCuF4iw_KL4Oi_A&oe=68C15189",
               "width": 720
             }
           },
@@ -736,32 +764,5 @@
       ]
     },
     "id": "145812602695267_783296027683543"
-  },
-  {
-    "message": "⏳ ¡ATENCIÓN!🚨🚨\nFALTAN 4 DÍAS para el inicio del 1er Curso de Seguridad Minera – Modalidad Online, organizado por la Comisión Técnica SSA de AIME ⚒️\n\n📅 Del 25 de agosto al 4 de septiembre\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n\n👉 Capacítate con expertos y fortalece tus conocimientos en normativa, prevención y buenas prácticas para una minería segura y responsable.\n\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n📩 Más información: secretaria@aimecuador.org\n📲 Whatsapp: +593 96 820 4060 Ver meno",
-    "created_time": "2025-08-21T18:06:10+0000",
-    "full_picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/536270941_783285241017955_5062306135111455694_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lsG_NUY9tt4Q7kNvwGaolaj&_nc_oc=AdnbNtQenwHrAvyQzNCdG544pc0QErw-yKMM42DuAm9Lziy_MWchMVtURR8PM00VBZ4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZucxGHVqHXqMM4OvnhSWPm49HGTNaS4ACw_AtruIS0Cg&oe=68C11949",
-    "permalink_url": "https://www.facebook.com/686939690652511/posts/783293231017156",
-    "attachments": {
-      "data": [
-        {
-          "description": "⏳ ¡ATENCIÓN!🚨🚨\nFALTAN 4 DÍAS para el inicio del 1er Curso de Seguridad Minera – Modalidad Online, organizado por la Comisión Técnica SSA de AIME ⚒️\n\n📅 Del 25 de agosto al 4 de septiembre\n🎓 Con el aval académico de la Universidad del Pacífico – Ecuador\n\n👉 Capacítate con expertos y fortalece tus conocimientos en normativa, prevención y buenas prácticas para una minería segura y responsable.\n\n🔗 Regístrate aquí: https://forms.gle/2MNfgMrzuvxtF7NC8\n📩 Más información: secretaria@aimecuador.org\n📲 Whatsapp: +593 96 820 4060 Ver meno",
-          "media": {
-            "image": {
-              "height": 720,
-              "src": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/536270941_783285241017955_5062306135111455694_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lsG_NUY9tt4Q7kNvwGaolaj&_nc_oc=AdnbNtQenwHrAvyQzNCdG544pc0QErw-yKMM42DuAm9Lziy_MWchMVtURR8PM00VBZ4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=OFmBQDOjjwZpDwCmHvQUmQ&oh=00_AfZucxGHVqHXqMM4OvnhSWPm49HGTNaS4ACw_AtruIS0Cg&oe=68C11949",
-              "width": 720
-            }
-          },
-          "target": {
-            "id": "783285234351289",
-            "url": "https://www.facebook.com/photo.php?fbid=783285234351289&set=a.247201474626337&type=3"
-          },
-          "type": "photo",
-          "url": "https://www.facebook.com/photo.php?fbid=783285234351289&set=a.247201474626337&type=3"
-        }
-      ]
-    },
-    "id": "145812602695267_783293231017156"
   }
 ]
