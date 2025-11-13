@@ -1,7 +1,7 @@
 [
   {
     "created_time": "2025-11-07T23:08:19+0000",
-    "full_picture": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=KymNL27-AvEQ7kNvwHltOyr&_nc_oc=Adkj_3RhCtfZwu5CBZgfgqzBGQulosRfbU9-QDJhOrdTbcUpWTggcqf7hYIXempoIIk&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHI_GfYLMTPqURsFAv8hg6ednMq1mrlo7XDDH2PMdNj7efqrwGQZKLQuK1wn4-F-H-dfLtb4udT3A&oh=00_AfiAa3tUMpZ6gk_rxU0JznXM4lEUz9-1z9paGDdfUlAuNA&oe=691B5DDE",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=KymNL27-AvEQ7kNvwHavutL&_nc_oc=Adl8WubagFtz72IoSY34Qz-Jfj7_SkLN_6NXpXG58gSzgsBQvmLMSod1QO8qDwSPnis&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFatrhkmkbsUBWgdi1rZt8tXCf-d5o0UjicdvbPK5Ug6AkK1GBKchcPOfuK9GQlcUWDLmPjTSoYDA&oh=00_AfjrUtk6CvXnFgadbEgzjc1tGYsbWrTzJfauVm7NJfNPtg&oe=691B961E",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/1457433945317511?substory_index=1457433945317511",
     "attachments": {
       "data": [
@@ -9,7 +9,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=KymNL27-AvEQ7kNvwHltOyr&_nc_oc=Adkj_3RhCtfZwu5CBZgfgqzBGQulosRfbU9-QDJhOrdTbcUpWTggcqf7hYIXempoIIk&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGQy5wRQ7XQXpQUbupSL4rSIZY_R3CAacPoRZbUKOqu25gkSVPUuMFn_KaZ0MpSsNtvV395fPL7lQ&oh=00_AfgvFX2xy47s_4lR7pZ1dVq9lgGTFA_xBb4yIwu-WDvCdQ&oe=691B5DDE",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=KymNL27-AvEQ7kNvwHavutL&_nc_oc=Adl8WubagFtz72IoSY34Qz-Jfj7_SkLN_6NXpXG58gSzgsBQvmLMSod1QO8qDwSPnis&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEkJd9kDfLKM7By4Lgx1L-mpABvwQcY3AKgYd4aYaMGnO1X14AD5YwA9iGtwccof5Sn8wJdTJ-Gyw&oh=00_AfgGJDnQjC2o_yQEJuUenoyaFA0DNJYmoCAFa-52SqVxPQ&oe=691B961E",
               "width": 1943
             }
           },
@@ -28,7 +28,7 @@
   {
     "message": "💬 ¡Llega el evento que transformará tu visión sobre la minería!\n\n🌎 La Asociación de Ingenieros de Minas del Ecuador (AIME) presenta el FORO MINERÍA 360°, un espacio donde la innovación, la sostenibilidad y el conocimiento se unen para construir el futuro del sector minero.\n\n🗓  10 y 11 de diciembre de 2025\n💻 Modalidad: Online\n🎥 Transmisión en vivo por Facebook Live\n\n👷‍♀👷‍♂ Sé parte de una experiencia diferente:\n✅ Escucha a expertos nacionales e internacionales.\n✅ Descubre nuevas tecnologías y tendencias.\n✅ Conecta con profesionales, estudiantes y empresas del sector.\n✅ Participa y aporta tu visión hacia una minería más humana y sostenible.\n\n📚 Ejes a tratar:\n1️⃣ Educación y Ambiente: Pilares para el Desarrollo Minero Sostenible\n🟢 Formando talento y gestionando el ambiente: la dualidad esencial de la minería moderna.\n\n2️⃣ Seguridad y Responsabilidad Social: Impulsando Emprendimientos Comunitarios\n🟣 Construyendo confianza y desarrollo local: la minería como catalizador de oportunidades.\n\n👉 ¡No te quedes fuera!\n📲 Regístrate ahora escaneando el QR \n\n💬 Comparte esta publicación y únete al cambio.\nPorque la minería del futuro se construye hoy. 🌱\n\n#ForoMinería360 #AIMEcuador #MineríaSostenible #InnovaciónMinera #MineríaConPropósito #EventoVirtual",
     "created_time": "2025-11-07T23:03:27+0000",
-    "full_picture": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/578614799_849620937717718_2223943703728702690_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHHNxNBo0KX35T0azyUjD8TjGHmGvOS812MYeYa85LzXZKKvKBwtzM3rdxffObFxI7K6lQs2_e4RIJ0IzJ7XmYc&_nc_ohc=PkoRApO69aEQ7kNvwGbe5K_&_nc_oc=AdlhdropaaDCyUYZz2R7COM0tu58stBG5_23cShfN6wZrZIJDawNKy0-Z8S2R5e4Uas&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFu_m7V1NQ_r5-oFv90Ih1DoCtX4ZnCvXo-D427KFkGu4dco9v68-WkRz-8saP0EGfT4yF4dEKV2g&oh=00_AfhWKDeChJxP9EQK-hIFGTAW4Zlsm1rRFdw51gbUVh0UEQ&oe=691B64F0",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/578614799_849620937717718_2223943703728702690_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHHNxNBo0KX35T0azyUjD8TjGHmGvOS812MYeYa85LzXZKKvKBwtzM3rdxffObFxI7K6lQs2_e4RIJ0IzJ7XmYc&_nc_ohc=PkoRApO69aEQ7kNvwGW9QPL&_nc_oc=AdmPEgrnNetxgvZQZeX9gcAbih1tNPTpb1DktxjGqJfGb5PRvqKtfEcJJEgn84no-Mg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQH0vdoJzdfXoxpiPetKm8vd7joUB5czcB_WgDB5DwNBulczOwuokCgKCwuZqiq9AN1qwwR7kT9fsw&oh=00_AfhtLsv5cxyjHn_h-RFpclYdEPkNiJLN9dQ3s5lYZ7B2Qw&oe=691B9D30",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/849621237717688",
     "attachments": {
       "data": [
@@ -37,7 +37,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/578614799_849620937717718_2223943703728702690_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHHNxNBo0KX35T0azyUjD8TjGHmGvOS812MYeYa85LzXZKKvKBwtzM3rdxffObFxI7K6lQs2_e4RIJ0IzJ7XmYc&_nc_ohc=PkoRApO69aEQ7kNvwGbe5K_&_nc_oc=AdlhdropaaDCyUYZz2R7COM0tu58stBG5_23cShfN6wZrZIJDawNKy0-Z8S2R5e4Uas&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGL9BNhqTiGrdGAyQ9hsZt7pxFDbHbVmPsfyaTyLezXumoOOKMnXyfQDKl_uV1EgqThJZEX_nJdDA&oh=00_AfiqOBcu0hqkmdqrsoUmNktLgYyae9JX7KP6njNdG5vhzg&oe=691B64F0",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/578614799_849620937717718_2223943703728702690_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHHNxNBo0KX35T0azyUjD8TjGHmGvOS812MYeYa85LzXZKKvKBwtzM3rdxffObFxI7K6lQs2_e4RIJ0IzJ7XmYc&_nc_ohc=PkoRApO69aEQ7kNvwGW9QPL&_nc_oc=AdmPEgrnNetxgvZQZeX9gcAbih1tNPTpb1DktxjGqJfGb5PRvqKtfEcJJEgn84no-Mg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEEInt6tYE0KR4_FByeeawSZ7GZYvzMdXBvjC2aMTAkmikhP1sOVLNU5YqcG3St-fZzgzW9_6T_Yg&oh=00_Afh13zYbM8J6s21y3AVq0b_byVd-ZM1jqBbGH_sVLTGnOQ&oe=691B9D30",
               "width": 720
             }
           },
@@ -55,7 +55,7 @@
   {
     "message": "🤝 ¡Un paso más hacia el fortalecimiento del talento técnico en el país!\nEl Servicio Ecuatoriano de Capacitación Profesional (SECAP) y la Asociación de Ingenieros de Minas del Ecuador (AIME) firmaron un Convenio de Cooperación Interinstitucional que permitirá desarrollar, actualizar y validar programas formativos especializados en el sector minero. ⛏📚\n\nEste acuerdo tiene como objetivo potenciar las competencias laborales, impulsar la empleabilidad y promover la transferencia de conocimientos técnicos y metodológicos en una industria clave para el desarrollo nacional. 🇪🇨✨\n\n#SECAP #AIME #Capacitación #MineríaEcuador #FormaciónTécnica #ConvenioInstitucional #talentoecuatoriano Secap.Ec",
     "created_time": "2025-11-07T19:58:42+0000",
-    "full_picture": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/579642845_849522037727608_8903401070937208177_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEFzVxThLfQNwTMncOOZSM0gu8REW2q8pmC7xERbarymfxqrrkxMfMJXmC_3ehE3NSQeBA4hncXQzhUDuQN_P1_&_nc_ohc=PbjIgMvDVroQ7kNvwEDTN1t&_nc_oc=AdlloMaec-RQR2fcppKqD7GV4EumvFaCRR3PFeuEE_Gzsah5Jj9Er-4TaGfEeqVvCp4&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHS0YIS4wExx5u_qDmXVm5f8HPxz6_chnYVDS7obc8v2rBdR1iVP_5X5PzhJBA9Z1rv8kO9GZFkjA&oh=00_AfhyAZessOS_XnKbzMbRhyr5PrU7vX5P_uvm0ynWipgf9Q&oe=691B728A",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/579642845_849522037727608_8903401070937208177_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEFzVxThLfQNwTMncOOZSM0gu8REW2q8pmC7xERbarymfxqrrkxMfMJXmC_3ehE3NSQeBA4hncXQzhUDuQN_P1_&_nc_ohc=PbjIgMvDVroQ7kNvwHZS43w&_nc_oc=AdlkJaGvVUdvx2QKFUYLPWCPqeSsyK6o9zPWtBTr7qSRx_MmSeWlIJlTxsuFZ7avtkg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEAahOrdn99b1niF998DsRu_67Ew-5aXXFIAkOw_I0g7geiDOECV6WjfIRhHcSemMQSHE0ImaL1lw&oh=00_AfgyRAooRyi3uftVSJkePrxA6CX6ugphzjMBSuCCywyNbg&oe=691B728A",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/849522954394183",
     "attachments": {
       "data": [
@@ -63,7 +63,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/579642845_849522037727608_8903401070937208177_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEFzVxThLfQNwTMncOOZSM0gu8REW2q8pmC7xERbarymfxqrrkxMfMJXmC_3ehE3NSQeBA4hncXQzhUDuQN_P1_&_nc_ohc=PbjIgMvDVroQ7kNvwEDTN1t&_nc_oc=AdlloMaec-RQR2fcppKqD7GV4EumvFaCRR3PFeuEE_Gzsah5Jj9Er-4TaGfEeqVvCp4&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGBaIL1kQOAsE5TgTdaLrJj84YF9egkU3zOK-acTBZI8aRZPK2_pM-eFZ711y7IbGNi03Y0YGkmfw&oh=00_AfjdoSdGfA1zt2UWwJUOTB6natSuw4-2fTD6cveZt6XwLA&oe=691B728A",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/579642845_849522037727608_8903401070937208177_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEFzVxThLfQNwTMncOOZSM0gu8REW2q8pmC7xERbarymfxqrrkxMfMJXmC_3ehE3NSQeBA4hncXQzhUDuQN_P1_&_nc_ohc=PbjIgMvDVroQ7kNvwHZS43w&_nc_oc=AdlkJaGvVUdvx2QKFUYLPWCPqeSsyK6o9zPWtBTr7qSRx_MmSeWlIJlTxsuFZ7avtkg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEL3jWqbF5reKDcQjVq5h9_6IrGxxB1E0A_Vk8HbxerYzv0E3h83Nko7e5-16UIrvS5xWTLmdwZjg&oh=00_AfiLNRdIHeFTGIIYKy0Z1EshY8vRM02evM-u5Hfo0R_hjw&oe=691B728A",
               "width": 720
             }
           },
@@ -73,7 +73,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/579642845_849522037727608_8903401070937208177_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEFzVxThLfQNwTMncOOZSM0gu8REW2q8pmC7xERbarymfxqrrkxMfMJXmC_3ehE3NSQeBA4hncXQzhUDuQN_P1_&_nc_ohc=PbjIgMvDVroQ7kNvwEDTN1t&_nc_oc=AdlloMaec-RQR2fcppKqD7GV4EumvFaCRR3PFeuEE_Gzsah5Jj9Er-4TaGfEeqVvCp4&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGwk_SPNgHzte5zslLjv33rfdLgd35c4YJ5cMgh7pvpTrbkHwkFCNWa7ECdKhNKgyqDB_HUXtj9dg&oh=00_AfjMrcxjd_sXihBrasbHuaYZ6Rhf8uzmVQiakZO2m-Zg1Q&oe=691B728A",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/579642845_849522037727608_8903401070937208177_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEFzVxThLfQNwTMncOOZSM0gu8REW2q8pmC7xERbarymfxqrrkxMfMJXmC_3ehE3NSQeBA4hncXQzhUDuQN_P1_&_nc_ohc=PbjIgMvDVroQ7kNvwHZS43w&_nc_oc=AdlkJaGvVUdvx2QKFUYLPWCPqeSsyK6o9zPWtBTr7qSRx_MmSeWlIJlTxsuFZ7avtkg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHZuD68LBX0BxBcMapSK1Ml5P7YZSo6VaXGlARFcEzG0uSVG7LVqHdH4bbCsncfc2QhobZpQ2j0KA&oh=00_Afj_T1lz6OO-4dFuqAjVESmD_ze0NDuJSVWzcWzH3fU38w&oe=691B728A",
                     "width": 720
                   }
                 },
@@ -88,7 +88,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/577721938_849522087727603_6169023042677968324_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFRO14Ucv_TKCEG-Vj1zYxZuqsk7Q606Mq6qyTtDrToygT4WolQxl-Kwr9fJkrIO49OqH8bfGT4hwu1flIfLfRW&_nc_ohc=HeTb3Z-0_DgQ7kNvwHczjBl&_nc_oc=AdlBkQmNJ-aVt1HSgrqcTBVZeY7r-iqrj6Ym3jiCZLcvT0QmaW3cEbEHxwQm_0bRZvA&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQG30rUPLvplSNKGgBaTqq54OBnsmHOSTIpHFalWXhohhHH7xi39SNhM4Ngojd0V4ArPKnubn6OnZA&oh=00_AfiV4ZFWeHY4bpwKK3L9i224kL1W1edujY7c83okb73g_w&oe=691B7F45",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/577721938_849522087727603_6169023042677968324_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFRO14Ucv_TKCEG-Vj1zYxZuqsk7Q606Mq6qyTtDrToygT4WolQxl-Kwr9fJkrIO49OqH8bfGT4hwu1flIfLfRW&_nc_ohc=HeTb3Z-0_DgQ7kNvwEuZLe6&_nc_oc=AdmOURjZxvhifkD8Vpr52rYHahNZ9BA971bVoRdJbexH0zJtyuJHu-ovgAvj32rHiCA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEFXLj2z66gsYDSlMn6L38NLv-I4xKN5TqCak-vu-dNj5cbeQ1C5eS62DvxT0RHbSS7Yvkeu9rKhg&oh=00_AfijbLFqkN_CRJVxgYtLVBGFyKIZhtDRTgVYNfMFeG2DzA&oe=691B7F45",
                     "width": 720
                   }
                 },
@@ -103,7 +103,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/578610690_849522021060943_265553343529894108_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2J8j0-OByiGVee5-doJeCBZC46CNSk4QFkLjoI1KThKq_V4PPR6mZVW_Z4ephFLtJT6DrMYa3Z77a_Fs3Jbpd&_nc_ohc=0DpbRAF0hUYQ7kNvwFNpwGn&_nc_oc=Adlz9-V3d8v1HbvN65jv17CvMzOtSUOSErX5mewNBvLa1DoO7mVh1-9gx7r-9RAGvVg&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFBKK7pqiXk45mU6or5yFD2X1jciBnyiHwzaAR2ta3n-uDdMxJ1P2OWvDHVJFCRaDVA9YnSEQMWUQ&oh=00_AfijZxaBSC2TmGshu20rCWdkbjQCa_PPZ4VD4BFtpxrlBA&oe=691B6833",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/578610690_849522021060943_265553343529894108_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2J8j0-OByiGVee5-doJeCBZC46CNSk4QFkLjoI1KThKq_V4PPR6mZVW_Z4ephFLtJT6DrMYa3Z77a_Fs3Jbpd&_nc_ohc=0DpbRAF0hUYQ7kNvwEmMWhQ&_nc_oc=AdlowYd7lp36J9N95xMHaJoXKafZtBDoQHNEF4b44mSOV4S0xim2epcsA1FvAkW57Jk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEnijnhHWssVmCmMoPLWxTy8HxsXo2VyNQyssuyLkfELCI3lXs2VZzwWCZWKRGvxjtnMubTZmkqyw&oh=00_AfguxAWFLj1IJQBusIzVX_ehoWHlgG01dNyOv9vYk7rO8w&oe=691B6833",
                     "width": 720
                   }
                 },
@@ -118,7 +118,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/577450351_849522071060938_3151652344376315526_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEj2eI6TXhwSh670T1vAtoymNbIee2FFB-Y1sh57YUUH90rcNboDhgDDLgMytDzMbXMvUQORhvr62_S3ahJDwMw&_nc_ohc=caTq5_jqgLEQ7kNvwGlE7md&_nc_oc=AdmUMa4qp8P2riuKb3nEb14B8zd7KbWlQVPSGrlI7lOs8uOzD5UFXyktJKmvNcRTTcs&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEezWrVYhvjRo3BPe1uyiJrKfSz7tjFvRkgtgx-qyOYdREqDeNOXJJsc0jM5IBIQplGVpZ65qopqA&oh=00_AfhbIPlao3MEKY9rX-jHku2pdwUQ5aaZZ0qThZ2Gy1jb0Q&oe=691B8127",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/577450351_849522071060938_3151652344376315526_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEj2eI6TXhwSh670T1vAtoymNbIee2FFB-Y1sh57YUUH90rcNboDhgDDLgMytDzMbXMvUQORhvr62_S3ahJDwMw&_nc_ohc=caTq5_jqgLEQ7kNvwGqA7ep&_nc_oc=AdkrUSO7UpfWOChMXDgWSAeb2nNYy8lqxSZrKSMnQQrOdySlpKVoHS1CzFCcPVuB_6g&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQF0qOnXFFpnmphAlPKqXfyVv8fvw1IDS7psLwTL1c81geZy6uBihxwyIqwyDRtB8sHCcs-MSocwIA&oh=00_AfgX9U4pEuouOAQ1wjkG9ifgwa1HNSpSASW21WXYy34ZHg&oe=691B8127",
                     "width": 720
                   }
                 },
@@ -133,7 +133,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/576952459_849522057727606_4556042024238757127_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGlqFMEnaUOXz_U68SFyiOLsSxfN-mlGwGxLF836aUbAYVIEic6A-dEPOjnATpVqtaoB77xR1MXs2FDSaJvR0qh&_nc_ohc=5ZJdTIoQFfsQ7kNvwECifK-&_nc_oc=AdmGJ2y2ioELkgmGNi2ozCeQcE6R6g5ID4U61gkiJa1x7i2blNzhaIv8pkUDa-7FK1M&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHJdOObVuq-DyIGosTE_JVMi61qn5oKXv7xuzTQn4WXQwTqRQMcWMimlktFFBbs_Ev0eWbjouVXrw&oh=00_AfhCu5ZGafjXeAOS3PvWTxqfybdJWL1is9z3G3utcpnJAQ&oe=691B8AE0",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/576952459_849522057727606_4556042024238757127_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGlqFMEnaUOXz_U68SFyiOLsSxfN-mlGwGxLF836aUbAYVIEic6A-dEPOjnATpVqtaoB77xR1MXs2FDSaJvR0qh&_nc_ohc=5ZJdTIoQFfsQ7kNvwHgu5Nk&_nc_oc=AdktfLkfQ-o3jHGdASEHkQ218wsZF8c4I_IpkGMEJezM0b0t4Ks1jNBs1J0xoY2OJp4&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHfwCzK_WLYePCfwOeTKF9nzaGQlAz3TaeLWtnxNErbbB1WeHfdBi0eqEw_OOaJk2H4B7cMtdSSRw&oh=00_AfiydwtcUBJuN_wbpeDRWFvZV_lwDVbspw1e6PiWHxKB1w&oe=691B8AE0",
                     "width": 720
                   }
                 },
@@ -160,7 +160,7 @@
   },
   {
     "created_time": "2025-11-06T02:20:23+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/427796430_402305149115968_2382000359118265941_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE-X_SEmrwPKyTvZycbaEQxjxkXMPk7wYSPGRcw-TvBhFsnikeiCc2ZDblnzPdVG8_MvRuhzh0FSptEaxnoz7RW&_nc_ohc=iTXks0SQ7wYQ7kNvwHVVw1V&_nc_oc=AdlgMTYaF1qysmkSYeqPZxFQ0X_EB4Ejw4kmXHgPBZh175NH36ob8dAYSZUMlbGi9RE&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEMY7a5SDwm_kI-pNHztbWKdNpRG6y2ZfAQdjjFbNyAbG-bsq8ZuLXdODAU-e04JaN0znpaqaQiBg&oh=00_Afhb_0gZj1oGubH17WtCGQ4TZxT6OlSf35i_zUscOi8Xag&oe=691B7546",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/427796430_402305149115968_2382000359118265941_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE-X_SEmrwPKyTvZycbaEQxjxkXMPk7wYSPGRcw-TvBhFsnikeiCc2ZDblnzPdVG8_MvRuhzh0FSptEaxnoz7RW&_nc_ohc=iTXks0SQ7wYQ7kNvwHUPhel&_nc_oc=AdkAQSNolZBjbBQM6cWdaqU79zwyQwasJrfJ1P-o9Q8NFW9QXvaZP8b3N1Q4Ee77yto&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFcQLPgMV8REGyxeklYz6wG7OrjBBPHz3WbUVnCQEwUV1EeCh2kH2TZF6AzZNLdrTudKk8S0NqYCQ&oh=00_AfhMZkvW9OUtaNDeJDj5TfyLMx32l0goDDr8lxTdQ4xrzw&oe=691B7546",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/711316488107821?substory_index=711316488107821",
     "attachments": {
       "data": [
@@ -168,7 +168,7 @@
           "media": {
             "image": {
               "height": 500,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/427796430_402305149115968_2382000359118265941_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE-X_SEmrwPKyTvZycbaEQxjxkXMPk7wYSPGRcw-TvBhFsnikeiCc2ZDblnzPdVG8_MvRuhzh0FSptEaxnoz7RW&_nc_ohc=iTXks0SQ7wYQ7kNvwHVVw1V&_nc_oc=AdlgMTYaF1qysmkSYeqPZxFQ0X_EB4Ejw4kmXHgPBZh175NH36ob8dAYSZUMlbGi9RE&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGQ6Tgynggm-6VmgByIquvZW2EyoFWJuli6r3Mrs_ljWnKkyMZfVKYHVumHeRx7Yg5Xv80T6Js-gA&oh=00_AfhviShR_l9ULYlk2ybZOS4uk_XAubPfYnpci0NkCP7-zg&oe=691B7546",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/427796430_402305149115968_2382000359118265941_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE-X_SEmrwPKyTvZycbaEQxjxkXMPk7wYSPGRcw-TvBhFsnikeiCc2ZDblnzPdVG8_MvRuhzh0FSptEaxnoz7RW&_nc_ohc=iTXks0SQ7wYQ7kNvwHUPhel&_nc_oc=AdkAQSNolZBjbBQM6cWdaqU79zwyQwasJrfJ1P-o9Q8NFW9QXvaZP8b3N1Q4Ee77yto&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHTiQb40nL_NqOIzwweNxf9CJO3PW3-w1vUjAV08k5gwoIW3_8TO8YqUo3cRg5auG2d8YuvAlD-3w&oh=00_Afge8s3SEenkF2s6fu1Y6amaOp732BiVULhbN_EtxnNQgw&oe=691B7546",
               "width": 1500
             }
           },
@@ -187,7 +187,7 @@
   {
     "message": "✨🇪🇨 En el aniversario de la Independencia de Cuenca, la AIME rinde homenaje a una ciudad emblemática por su historia 📜, cultura 🎨 y liderazgo en el desarrollo del país 🏛️.\nQue su ejemplo inspire a seguir construyendo un Ecuador próspero 💎, sostenible 🌱 y comprometido con el bienestar de sus comunidades 🤝. 🇪🇨\n#IndependenciaDeCuenca #AIME #DesarrolloSostenible #mineríaformal",
     "created_time": "2025-11-03T20:26:27+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/576913446_845973071415838_825490373158564895_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHfToHh9NQ1egbmo5qEB_odSLUVKEyy5TBItRUoTLLlMMSmsgtAgnTwVfmHpDRzJsh2PnAgTGquBMF-lKd4Wtsm&_nc_ohc=V-BBGzlKz3IQ7kNvwHztAIq&_nc_oc=Adkjb9ecuqcS7XdiwLalKBXt7PwLsPzm5E9ugHq53-DiNlvH-UT17OqoGIy4Bpwrhss&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFpz8SYnp8Fxj7LQwwaVoYYijtVQ0LR8bE5zt1_v26SF-u3cm-Dx9WO9vaM7eShSI6r4WMz5zSveA&oh=00_Afj8R27YehMrxE989x_9y-I9d6RXmwsBHc33-8Ag1Z0zPg&oe=691B860B",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/576913446_845973071415838_825490373158564895_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHfToHh9NQ1egbmo5qEB_odSLUVKEyy5TBItRUoTLLlMMSmsgtAgnTwVfmHpDRzJsh2PnAgTGquBMF-lKd4Wtsm&_nc_ohc=V-BBGzlKz3IQ7kNvwEpiRXv&_nc_oc=AdkaDUdpKhmaJTsXAqK8Tl1CSEWoBI-rS0cWhS6Nqk-5m-6Kt0qSvjpT1ijyUo6-D0E&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGC6KxSVP42jJLJr8JkklrHAjE1YL09hTolvhAN3xE1E3oe6mPh8UIttpHzwPRGwb1EbrRrocbxsw&oh=00_Afh7toO0w5-zeDXZToJRefk6AdToe8Rq45dgyXul3WVBLQ&oe=691B860B",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/845973198082492",
     "attachments": {
       "data": [
@@ -196,7 +196,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/576913446_845973071415838_825490373158564895_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHfToHh9NQ1egbmo5qEB_odSLUVKEyy5TBItRUoTLLlMMSmsgtAgnTwVfmHpDRzJsh2PnAgTGquBMF-lKd4Wtsm&_nc_ohc=V-BBGzlKz3IQ7kNvwHztAIq&_nc_oc=Adkjb9ecuqcS7XdiwLalKBXt7PwLsPzm5E9ugHq53-DiNlvH-UT17OqoGIy4Bpwrhss&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHZ0v2psXCiaiPbILV2qGIuJ9zzTNU8I9DbWhltxGdOC7IFlO6_TpIM5A1gySHBpAAtPXVMi_4pVQ&oh=00_AfgyS96m5ALVsYTPpdQS5NIdI2bacAUvGgW-u7PYWvt_nA&oe=691B860B",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/576913446_845973071415838_825490373158564895_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHfToHh9NQ1egbmo5qEB_odSLUVKEyy5TBItRUoTLLlMMSmsgtAgnTwVfmHpDRzJsh2PnAgTGquBMF-lKd4Wtsm&_nc_ohc=V-BBGzlKz3IQ7kNvwEpiRXv&_nc_oc=AdkaDUdpKhmaJTsXAqK8Tl1CSEWoBI-rS0cWhS6Nqk-5m-6Kt0qSvjpT1ijyUo6-D0E&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGK62oyKa3mZL5RkYRG35H-JJHgytfE_obwE91TsWj4eRyYnPw4lH2P-PYBTSx6Sto6lqNjSKdDJA&oh=00_AfikI-rJc6CKUaVgpknOF0g-n_tGqbLY4p-gT9zwDAqEEw&oe=691B860B",
               "width": 720
             }
           },
@@ -214,7 +214,7 @@
   {
     "message": "🇪🇨 En el Día del Escudo Nacional, la AIME rinde homenaje a este símbolo de identidad y soberanía que refleja la grandeza del Ecuador. 🏛️\nSu historia nos recuerda que la fuerza 💪 y la unión 🤝 de los ecuatorianos son el motor para construir un país que avanza con responsabilidad y compromiso. 🌄⚒️\n\n#DíaDelEscudoNacional #AIME #MineríaResponsable #EcuadorConOrgullo 🇪🇨",
     "created_time": "2025-10-31T16:33:08+0000",
-    "full_picture": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/573904246_843078881705257_3079490965710248629_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH81z_wyAPUrD7vc8chjEONXA_1RVpzHBlcD_VFWnMcGXVe0DQbbBhKXna317vRTW7U9RenDD6LK4h0wGCz__Np&_nc_ohc=AtxqEUZpkxEQ7kNvwFGDx-M&_nc_oc=AdkI7ke-b6rTNS845cxIWL6sLKGXE8MED5evNXaM3VXp01ukll8fEhdQiMspwxpDY30&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFiHV1oKpGy0i-CmkbMLlDZ4I_gIaMD8tnUoUvg8HcN8ZI2bER0gDNbISpQGFA1sg-4p5yMrUSNzw&oh=00_AfhOlTmKOAJc6w49z1P_r5zJewDnN6xMdrqFWg4ieDUQgw&oe=691B8A2B",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/573904246_843078881705257_3079490965710248629_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH81z_wyAPUrD7vc8chjEONXA_1RVpzHBlcD_VFWnMcGXVe0DQbbBhKXna317vRTW7U9RenDD6LK4h0wGCz__Np&_nc_ohc=AtxqEUZpkxEQ7kNvwGOwYy6&_nc_oc=AdmtL3JtFEmApQI2U_99zNXiOOlUI1J_j_WgNb32pe1KrSHcVwEpBH2zAYcsMeDH3vw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEEcXUNxDk6KmdkTHwq4Gr1sxasTTFL42S4ELb6GhOkYMd_7euLQ8opTxNxFo2fvu8By6fftsvp6g&oh=00_AfiRBXv7q2B9g5HG6saOTyGbdvvCJnHdcS31I_ibiKMNWg&oe=691B8A2B",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/843080665038412",
     "attachments": {
       "data": [
@@ -223,7 +223,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/573904246_843078881705257_3079490965710248629_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH81z_wyAPUrD7vc8chjEONXA_1RVpzHBlcD_VFWnMcGXVe0DQbbBhKXna317vRTW7U9RenDD6LK4h0wGCz__Np&_nc_ohc=AtxqEUZpkxEQ7kNvwFGDx-M&_nc_oc=AdkI7ke-b6rTNS845cxIWL6sLKGXE8MED5evNXaM3VXp01ukll8fEhdQiMspwxpDY30&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGI0kFiubk-EyNEsSdwIG3phO3nttYDfIrHc4g0tsKuxq99mwGI9ai4Ia95WnqVKM3cNmEBDm8AJQ&oh=00_AfgQSV_TtQqyHUE6OB81ChkFoJwF6GZCKQoqDgE6bFOvBA&oe=691B8A2B",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/573904246_843078881705257_3079490965710248629_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH81z_wyAPUrD7vc8chjEONXA_1RVpzHBlcD_VFWnMcGXVe0DQbbBhKXna317vRTW7U9RenDD6LK4h0wGCz__Np&_nc_ohc=AtxqEUZpkxEQ7kNvwGOwYy6&_nc_oc=AdmtL3JtFEmApQI2U_99zNXiOOlUI1J_j_WgNb32pe1KrSHcVwEpBH2zAYcsMeDH3vw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQH3H9Z08SNSq43hhIVaEP4bCrDddf536mAZWK5av6mkaWnWCa5bMAW-CtYDwUx_qrLKnbjqoTIyeQ&oh=00_Afi5Ya-ADZZq4TGmBzR-98JC6_TSbUnJCahK-xo__O6kAg&oe=691B8A2B",
               "width": 720
             }
           },
@@ -241,7 +241,7 @@
   {
     "message": "📢AIME presente en el Datamine Day Ecuador 2025 🇪🇨\n\nLa Asociación de Ingenieros de Minas del Ecuador participó en el foro “Tecnología e innovación para transformar la minería en Ecuador”, realizado el 23 de octubre en Quito, durante el Datamine Day 2025.\n\n🤝 Este encuentro reunió a expertos, instituciones y empresas que impulsan la transformación digital del sector minero, fortaleciendo la eficiencia, sostenibilidad y competitividad de la industria.\n\nDesde AIME reafirmamos nuestro compromiso con una minería formal, responsable y tecnológicamente avanzada, que contribuya al desarrollo sostenible del país 🌱⚙\n\n#AIME #MineríaEcuatoriana #DatamineDay2025 #InnovaciónMinera #TransformaciónDigital #MineríaResponsable #IngenieríaDeMinas #EcuadorMinería\nDatamine",
     "created_time": "2025-10-24T22:30:03+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/570382957_837250775621401_6690934976453636538_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa3vD0JMltJoqOJQnSRQ9gHwK7_xyBGKQfArv_HIEYpCFzl2Cl_6bw67qE9_tXuJ5-_uy4xMzz9w86ZXbjKr_m&_nc_ohc=dyWtbLcZ7UcQ7kNvwGXI9LF&_nc_oc=AdmIqcB-o98accKbD6o8Pw4sKJ-YgV0Scz-bWFC3fD4hFh0BtISE8iQy0D49PHUECl4&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHnzg7tzKa1UYQLAemGG9-hoxM1cqWXF0M05gHGaiT65UnuUGpOdf8T54v7hXme_90KryariPLwYg&oh=00_AfhhUY9z4PxJWjQQ7vOnm3drxln8e2-RPrN7xf970ZDwQw&oe=691B865F",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/570382957_837250775621401_6690934976453636538_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa3vD0JMltJoqOJQnSRQ9gHwK7_xyBGKQfArv_HIEYpCFzl2Cl_6bw67qE9_tXuJ5-_uy4xMzz9w86ZXbjKr_m&_nc_ohc=dyWtbLcZ7UcQ7kNvwEj-ZTF&_nc_oc=AdmHwg7BhZLN2I0f5ytOSxReXOX4EuatsLELkq6jlSagRVv5a_FaxAQLhwFfqgN3_DY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFSihLk64sJxa2f3Hn61gkXFUcGOBboDFwY_zq6Fp5mxxY_db8aiDC6KhEvyulaZCyy9dg68lJQYw&oh=00_AfjGCNo_SD6X3FEbW8YXMSIgtVVNlm-w75tSeOgwMRE45A&oe=691B865F",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/837251518954660",
     "attachments": {
       "data": [
@@ -249,7 +249,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/570382957_837250775621401_6690934976453636538_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa3vD0JMltJoqOJQnSRQ9gHwK7_xyBGKQfArv_HIEYpCFzl2Cl_6bw67qE9_tXuJ5-_uy4xMzz9w86ZXbjKr_m&_nc_ohc=dyWtbLcZ7UcQ7kNvwGXI9LF&_nc_oc=AdmIqcB-o98accKbD6o8Pw4sKJ-YgV0Scz-bWFC3fD4hFh0BtISE8iQy0D49PHUECl4&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFm8hDQ1BRstVUiuCQ01mt0tSnY3VQGtTWrLEdPjQ_t7_7Dxp_xfJ1_RPfmFzFQ1jJjHO7yQc4CgQ&oh=00_Afj-1UYHkyUJpEy7Zpb_aPDlTkmJzK6p58YNj5BXNOj9wQ&oe=691B865F",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/570382957_837250775621401_6690934976453636538_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa3vD0JMltJoqOJQnSRQ9gHwK7_xyBGKQfArv_HIEYpCFzl2Cl_6bw67qE9_tXuJ5-_uy4xMzz9w86ZXbjKr_m&_nc_ohc=dyWtbLcZ7UcQ7kNvwEj-ZTF&_nc_oc=AdmHwg7BhZLN2I0f5ytOSxReXOX4EuatsLELkq6jlSagRVv5a_FaxAQLhwFfqgN3_DY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGar09N2AQoZvLs3p2-VCXYw6xnSZXxVYYfjmuwt0QyffEII7zNLvpRCjMFwde60pXC5Rkd9geQhg&oh=00_AfgtQTmO-iQPEC3NEYlY_UwBdAIq8XLJIJBgBD0eEToq-A&oe=691B865F",
               "width": 720
             }
           },
@@ -259,7 +259,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/570382957_837250775621401_6690934976453636538_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa3vD0JMltJoqOJQnSRQ9gHwK7_xyBGKQfArv_HIEYpCFzl2Cl_6bw67qE9_tXuJ5-_uy4xMzz9w86ZXbjKr_m&_nc_ohc=dyWtbLcZ7UcQ7kNvwGXI9LF&_nc_oc=AdmIqcB-o98accKbD6o8Pw4sKJ-YgV0Scz-bWFC3fD4hFh0BtISE8iQy0D49PHUECl4&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFB4Nk3i3OeSzijZHVTKPl-iPXyZ0E_zLHqPpED4YfqINBB8G3xVgJPRSd0_rVjiQsHIUFvbfA-3w&oh=00_Afj2k8g-AwekkgG_6teZ-aRSn-A4YGBum6xmzAd98pm5GQ&oe=691B865F",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/570382957_837250775621401_6690934976453636538_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa3vD0JMltJoqOJQnSRQ9gHwK7_xyBGKQfArv_HIEYpCFzl2Cl_6bw67qE9_tXuJ5-_uy4xMzz9w86ZXbjKr_m&_nc_ohc=dyWtbLcZ7UcQ7kNvwEj-ZTF&_nc_oc=AdmHwg7BhZLN2I0f5ytOSxReXOX4EuatsLELkq6jlSagRVv5a_FaxAQLhwFfqgN3_DY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFgcTRy_T-g8h8eGQ_ONQ8-_mi8ZQ1m1M6pMZySh3vk6TigCNuk6apBQcMTFPC7cs8JrOFHh5HwvQ&oh=00_Afi6BkL5bukjYrWaGvro7Vk6x-OS6Nb0vPIovHwyqP14SQ&oe=691B865F",
                     "width": 720
                   }
                 },
@@ -274,7 +274,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/571437914_837253625621116_5266581710092996033_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEpejiVHkZtvymFR1mtRXf-jJtvIUkjWACMm28hSSNYAOTD647lQWQ70P3X_d0ANzIxCJz9m0OSWkahcPCN15we&_nc_ohc=7qUmOzBNoe0Q7kNvwF2qvby&_nc_oc=Adny0zfj_NBxvvE4Eg9UdlnGGJ4GKK4QcvEMJyOG7Gfq7ItQED8hAUUowyQT1bfkx6k&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFxQAU2VhloWINdXG1CIIofNPi38vGaGbrUb8a76ugcPB8ME3aGzWVdzhKyZP2GlB2NFg6Rt3YfsQ&oh=00_Afirxer-3HY7O0n0tRWJOg_fTwqt3fb0c8lIozGD4FYL0Q&oe=691B6AD5",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/571437914_837253625621116_5266581710092996033_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEpejiVHkZtvymFR1mtRXf-jJtvIUkjWACMm28hSSNYAOTD647lQWQ70P3X_d0ANzIxCJz9m0OSWkahcPCN15we&_nc_ohc=7qUmOzBNoe0Q7kNvwEaNkPF&_nc_oc=AdnYckG5AZVCf4i8LugXgtyTTiHMLJ7iPlNa-RBsCTbGJt2Vw5FS6F4Zp-drj5jRRnA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEmy-m3hZZvGVlImmEVvsd2a38QxW88DAGsfZJGm4LRLkj1tMejtUTvb5WAzoqXKqDEQWRTz3G45w&oh=00_Afgw_xNGU3VGzC97QnBGEY_aSUzSaYn2qUCQnzvfw3ym8Q&oe=691B6AD5",
                     "width": 720
                   }
                 },
@@ -289,7 +289,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/572225569_837250782288067_8114204304608695949_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFiliRAaLKwvpTQRPhfqcpoOIMsipLFbgo4gyyKksVuCjT7wQb4RifuyVCcCHrAIrKNoOFyFKFAttPuE5aXfCrO&_nc_ohc=twC6r6Kkjm4Q7kNvwFxj6pZ&_nc_oc=AdkFeeM-n5gxXc2jQGwifm-wPegEBNUx7QxKWxRxkdPE82DTFk8IMGg2nKU_4qZa0xY&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHKOwC-qgAMCViACXtF3qJgoiTURjeG5gK1R5ZBKn_t4BTqsKl6KHemN9HnQhqz2sglGEk5Jw3IFQ&oh=00_AfjTGt5i_YBnO0GkRcMucBDGP-_lkeyg33VMz-1Sh-Izvw&oe=691B5CEE",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/572225569_837250782288067_8114204304608695949_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFiliRAaLKwvpTQRPhfqcpoOIMsipLFbgo4gyyKksVuCjT7wQb4RifuyVCcCHrAIrKNoOFyFKFAttPuE5aXfCrO&_nc_ohc=twC6r6Kkjm4Q7kNvwELkV6I&_nc_oc=Adlevml4aL0tg-SHLfExs06fa8PqJGbtkrdUDX44dvfXOzxm0OcbQndBcJ_TPFfw3wY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEgYA8WZ4bUMuiF4Lsy6HqnB4zbb5ob9Q27Kl3NUTwT8EFGCMBFPyiiQTTChsEidjUGNnZEU2HhrQ&oh=00_Afh6cl5mPYAqbIND4wWkT-DhQ25FS5sosOtRWBrr0N7ocw&oe=691B952E",
                     "width": 720
                   }
                 },
@@ -317,7 +317,7 @@
   {
     "message": "🇪🇨✨ ¡Viva Guayaquil libre!\nHoy celebramos el espíritu valiente y visionario de quienes forjaron la independencia del Puerto Principal el 9 de octubre de 1820.\nSu legado de libertad, progreso y determinación sigue inspirando a todo el Ecuador a construir un futuro con desarrollo, unión y esperanza.",
     "created_time": "2025-10-09T19:56:42+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/559121150_824053150274497_2314286532067468795_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGIhkopT6uNmblqxxVU_z_vflyH9Apd07h-XIf0Cl3TuPefwnkMpXOQkJwS-1XgeK03aSluiVM-178oz23cfLmJ&_nc_ohc=Gp9pd7r6OcoQ7kNvwG2ytdB&_nc_oc=Adnbf_bhkqztVNmOpVQQIlGzifefMGwBUKARCk5ZjvQjs36bPW7hlW0MvkFZy-w-lpg&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGO6ZO0JPIqJOXWHHoMej34FfYs36vH7Ayhpj2JGgb9FLIMds7KaLxNAaKm9qpIYKhOOx7egFFdvA&oh=00_AfgSEceiZObCQDgdxVCjSjcGjsS-eEHT3MmlrPH4o_kTsQ&oe=691B576E",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/559121150_824053150274497_2314286532067468795_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGIhkopT6uNmblqxxVU_z_vflyH9Apd07h-XIf0Cl3TuPefwnkMpXOQkJwS-1XgeK03aSluiVM-178oz23cfLmJ&_nc_ohc=Gp9pd7r6OcoQ7kNvwFfHkBT&_nc_oc=AdneRpDADRwEGvAd6LCEiG2bCPUZLZbXvoRuKqj-WOOSVSuIydsxzNL-f0njDkDv-w0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQF6Pxpw4DjWuQCimkKMccGsm5N_vZxTdyrimXaL13D_42dkZkn8duYdYeogNhY_64kS3ttd4LQH6w&oh=00_AfjKFMZ-clCceUYBK2gIoblJ3ecY8PmAQYdKFolXGGhJDg&oe=691B8FAE",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/824053133607832",
     "attachments": {
       "data": [
@@ -326,7 +326,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/559121150_824053150274497_2314286532067468795_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGIhkopT6uNmblqxxVU_z_vflyH9Apd07h-XIf0Cl3TuPefwnkMpXOQkJwS-1XgeK03aSluiVM-178oz23cfLmJ&_nc_ohc=Gp9pd7r6OcoQ7kNvwG2ytdB&_nc_oc=Adnbf_bhkqztVNmOpVQQIlGzifefMGwBUKARCk5ZjvQjs36bPW7hlW0MvkFZy-w-lpg&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQG8-xnTXZMPnNumDbRmYt8hI1mZOc1LlFw9jOHZvP2r9DGBn1NRNUyXieYlLMkSkj1kugYdZdw4jQ&oh=00_AfgMHz_oMT9fm4FKqNAJszHQz14AkfwsAibW8UMRyD2RLg&oe=691B576E",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/559121150_824053150274497_2314286532067468795_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGIhkopT6uNmblqxxVU_z_vflyH9Apd07h-XIf0Cl3TuPefwnkMpXOQkJwS-1XgeK03aSluiVM-178oz23cfLmJ&_nc_ohc=Gp9pd7r6OcoQ7kNvwFfHkBT&_nc_oc=AdneRpDADRwEGvAd6LCEiG2bCPUZLZbXvoRuKqj-WOOSVSuIydsxzNL-f0njDkDv-w0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFnOcZR-KTHAUwcQn0VR_MRdSFYFlUNf8-dzi3p3uNMHxAQE0SFKuxvaWt4dB_QSeXcYl4h5yqbcA&oh=00_Afh4SfCtH4Q6HVQ6YvMY3RJmZcOoKi0S03Brg5WbGnFVdA&oe=691B8FAE",
               "width": 720
             }
           },
@@ -344,7 +344,7 @@
   {
     "message": "📢 COMUNICADO OFICIAL\nLa Asociación de Ingenieros de Minas del Ecuador (AIME) hace un llamado al diálogo técnico y al respeto del debido proceso en torno al proyecto Loma Larga.",
     "created_time": "2025-10-08T03:13:43+0000",
-    "full_picture": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/558495532_822403443772801_7230753516947279231_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEagoZN-wz6pOFHCXjFwh3N_Behth1Ca078F6G2HUJrTmwGTr9wux98-WUiG2UZ9xFknPotZq0S7umoizgKU5Rn&_nc_ohc=VGPK8bQV-rMQ7kNvwHdDVCn&_nc_oc=AdmWPCMo77TM-CCmyM-GPh-bR8i6-ih5LYzKP4uEZV5r6cawp2H76R3dSY_DTvBhr9g&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEqz5Z0bW_IqjgfuyY40XQij-oR73UTq2h_kS25PD6kVA6Q3ya2n8Je1LV__PLFe7warPpQuqZ0jg&oh=00_AfjZz9mMkMh_bBgS4SuGeVu26lU1wiXzn_nL8aCGtfuglA&oe=691B7DF7",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558495532_822403443772801_7230753516947279231_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEagoZN-wz6pOFHCXjFwh3N_Behth1Ca078F6G2HUJrTmwGTr9wux98-WUiG2UZ9xFknPotZq0S7umoizgKU5Rn&_nc_ohc=VGPK8bQV-rMQ7kNvwEHioLX&_nc_oc=AdkXKlgYUiMF2Ljb2ciuSWL2JTH_znDQI_Ikf00tEWOBjXYR7LddJyxED9qqwYeqXuw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQE1yxymeBApzGWsisAqJjprJRdDZ-Fswd2Mq1Rd2tHdWkdwUFeVZU514qQgQrhJMBUttcgwBHmbOg&oh=00_AfiT3MgswpU0cmtSPrBFPtX9actww-f12DOhOFDYaO5k8g&oe=691B7DF7",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/822405357105943",
     "attachments": {
       "data": [
@@ -353,7 +353,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/558495532_822403443772801_7230753516947279231_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEagoZN-wz6pOFHCXjFwh3N_Behth1Ca078F6G2HUJrTmwGTr9wux98-WUiG2UZ9xFknPotZq0S7umoizgKU5Rn&_nc_ohc=VGPK8bQV-rMQ7kNvwHdDVCn&_nc_oc=AdmWPCMo77TM-CCmyM-GPh-bR8i6-ih5LYzKP4uEZV5r6cawp2H76R3dSY_DTvBhr9g&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHqEbiueDFjEj-KDLLdGIbdykBhwZjJ5W8XXsTVyW_tbkNwpsY53PXDaPT9n7zt3lX4Nd2sGwm2dA&oh=00_Afhb9dyOgV2CYcSufe4QiffYuJTNP__ZpYZ0d-dxR_mGuQ&oe=691B7DF7",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558495532_822403443772801_7230753516947279231_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEagoZN-wz6pOFHCXjFwh3N_Behth1Ca078F6G2HUJrTmwGTr9wux98-WUiG2UZ9xFknPotZq0S7umoizgKU5Rn&_nc_ohc=VGPK8bQV-rMQ7kNvwEHioLX&_nc_oc=AdkXKlgYUiMF2Ljb2ciuSWL2JTH_znDQI_Ikf00tEWOBjXYR7LddJyxED9qqwYeqXuw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEd-NCmfipPhywVL6joJaI0lb6Htds9TO3IpHpOBKG1XwVcfVNsZj8loBbwK4MoZP4oRenv8yr_6w&oh=00_AfjXSAc4UhsUDbiFqERvNYH91mi6jV_SbV6O_ZrcWqTBFQ&oe=691B7DF7",
               "width": 720
             }
           },
@@ -371,7 +371,7 @@
   {
     "message": "En el marco del Convenio de Cooperación Interinstitucional entre la Asociación de Ingenieros de Minas del Ecuador (AIME) y la Facultad de Ingeniería en Geología, Minas, Petróleos y Ambiental de la Universidad Central del Ecuador (FIGEMPA-UCE) 🏛️, se llevó a cabo una reunión de trabajo enfocada en fortalecer la vinculación académica y técnica entre ambas instituciones.\n\n📘 Durante el encuentro se definió una agenda conjunta de capacitación 📅 en temas especializados del ámbito minero 🪨 y en competencias laborales, dirigida a profesionales del sector y estudiantes universitarios 👷‍♀️👷‍♂️🎓.\n\n🌎 Además, se anunció la convocatoria al Programa de Intercambio Internacional de Estudiantes Universitarios – Segundo Capítulo: Chile 2026 🇨🇱✈️, una iniciativa que promueve el intercambio académico y la transferencia de conocimientos entre Ecuador y Chile, fortaleciendo la formación técnica y profesional de las nuevas generaciones 💼📚.\n\n💪 Esta reunión reafirma el compromiso de AIME y FIGEMPA-UCE con la formación de talento humano calificado, la cooperación institucional y el desarrollo sostenible de la minería ecuatoriana 🌱⚒️🇪🇨.\n\n#AIME #FIGEMPAUCE #MineríaEcuatoriana #FormaciónContinua #IntercambioInternacional #PIIMU #SegundoCapítulo #Chile2026 #MineríaSostenible #EducaciónSuperior #CooperaciónAcadémica #Embajadachile",
     "created_time": "2025-10-07T21:51:51+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/558861648_822211677125311_8671195794430051615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHwMBFkEqjvfNQRKk5vxgzP-l2WBMEXSvf6XZYEwRdK98bJ1nX21SlhGtYpRfBiKBc13A36nqzXv0rYlVCVvHBG&_nc_ohc=zsYunbGwJAgQ7kNvwHFf-x0&_nc_oc=AdmhefWstUTm4BDXQicj510uPYlY-Ab8wT5f9bu_SXyyj4r6A0DdV18lKwbbh-Kze6A&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFWeCcvyG_Z2HUO5Yiu54o2KCn_WnW6SObycTV5vhUMbbQxtwydCRW0ls_acdZI2-9mFfEtLW-Alw&oh=00_AfhpqB34gxAgz9xF-MSeofw7xdYOHWHSC1RQfefu4NvKXQ&oe=691B57A0",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558861648_822211677125311_8671195794430051615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHwMBFkEqjvfNQRKk5vxgzP-l2WBMEXSvf6XZYEwRdK98bJ1nX21SlhGtYpRfBiKBc13A36nqzXv0rYlVCVvHBG&_nc_ohc=zsYunbGwJAgQ7kNvwEX6Ahc&_nc_oc=AdlzavbigYgYw5_BF7P8nzod6CKshHw9_4ApTtr7lVbT5LfwazuFWW9foatirvxfcp0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEE_QSWiF95CW5RxwqwxNMT8r3RmgIQ6KReqDJxS1EKRLA-nJlaniIeAgZJ9K2f59zuDWOhR3uWXw&oh=00_Afi53qdNcKb95eawf1bL2YfmDyg3w-YRcmULu-0jdDWVlg&oe=691B8FE0",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/822213900458422",
     "attachments": {
       "data": [
@@ -380,7 +380,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/558861648_822211677125311_8671195794430051615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHwMBFkEqjvfNQRKk5vxgzP-l2WBMEXSvf6XZYEwRdK98bJ1nX21SlhGtYpRfBiKBc13A36nqzXv0rYlVCVvHBG&_nc_ohc=zsYunbGwJAgQ7kNvwHFf-x0&_nc_oc=AdmhefWstUTm4BDXQicj510uPYlY-Ab8wT5f9bu_SXyyj4r6A0DdV18lKwbbh-Kze6A&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGMa7lohcaZDoVfzynI2Z6Wr7QbXFfeHjqjhWWSJnumrDjok0-LDfxGlYu8jcIHWMxEA2KOVE49Bg&oh=00_AfhNIQDA661oGrNuzw-WcZQuiG5103TSyXvP1vih6Tl_Kw&oe=691B57A0",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558861648_822211677125311_8671195794430051615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHwMBFkEqjvfNQRKk5vxgzP-l2WBMEXSvf6XZYEwRdK98bJ1nX21SlhGtYpRfBiKBc13A36nqzXv0rYlVCVvHBG&_nc_ohc=zsYunbGwJAgQ7kNvwEX6Ahc&_nc_oc=AdlzavbigYgYw5_BF7P8nzod6CKshHw9_4ApTtr7lVbT5LfwazuFWW9foatirvxfcp0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQG4eUrzChBZ_R4Uhd-Y60d0YBOPmdEX285ZXwq-TIvzLOKwM_BOrPQTt6JP-vaOkr0mMebhbwdHFg&oh=00_Afg_Upzp0yt4ZrmbT2edEYFFyoyTdp_pSn4sovyzkmxjMg&oe=691B8FE0",
               "width": 720
             }
           },
@@ -398,7 +398,7 @@
   {
     "message": "🤝✨ La Asociación de Ingenieros de Minas del Ecuador (AIME) y el Servicio Ecuatoriano de Capacitación Profesional (SECAP) firmaron un importante convenio de cooperación técnica interinstitucional.\n\n📚 Este acuerdo tiene como objetivo impulsar el diseño y actualización de programas formativos y currículos especializados en el sector minero ⛏️, fortaleciendo el talento humano 👷‍♀️👷‍♂️ y dinamizando la formación profesional conforme a la normativa vigente y a las necesidades del país 🇪🇨.\n\n🌍 Con esta alianza, reafirmamos nuestro compromiso con una minería responsable, sostenible y con profesionales altamente capacitados para los retos del futuro.\n\n#AIME #SECAP #MineríaResponsable #CapacitaciónProfesional #TalentoHumano",
     "created_time": "2025-10-03T21:43:00+0000",
-    "full_picture": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/557624941_818599597486519_7859918234207033565_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFu8W5-zAxb95j9WSdlTZfqB79lj67C3XoHv2WPrsLdetAGooS5R627fuzFsGq6tlhn_d26ZOyt71Z_BarluiUa&_nc_ohc=ecxIV6nFokkQ7kNvwFVyDuO&_nc_oc=Adm2qQcZwc377-4kJRKaMiLuSvQfGFhLhJH89ZfAvfMKpyM_JI7Vl_owaSbtnLxnNqU&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEOZUIgTYRQa2pfBKMnj9IKIjCrML7-qK7V51tHPiCE_VkRlsyn__ZmaNC7W3TyJFfegVJ308PpcA&oh=00_AfjLim2Wi6RO7ANi5M3Su0dhrROjwaV1zsJH6ADFxGqr9Q&oe=691B76A8",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/557624941_818599597486519_7859918234207033565_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFu8W5-zAxb95j9WSdlTZfqB79lj67C3XoHv2WPrsLdetAGooS5R627fuzFsGq6tlhn_d26ZOyt71Z_BarluiUa&_nc_ohc=ecxIV6nFokkQ7kNvwGOuhTp&_nc_oc=AdnSgXTbF_YHvnmqtuJDz7JeM0ACTdzYPILDYKqp20Ck1TQTIuBGJXZ3-x8AmqHeQuw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHkzHhGkCkv-CDjGNl4cxJVc3RN3lwh7rYQlKtzbd8u5VD_MMmo4hDBBaAdypw6gCMWV5nTxeYoiQ&oh=00_AfirB7zq1UMHw3Sdh2q27PFdUKbeMQVaXwlAyJ83MJdtKw&oe=691B76A8",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/818601877486291",
     "attachments": {
       "data": [
@@ -406,7 +406,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/557624941_818599597486519_7859918234207033565_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFu8W5-zAxb95j9WSdlTZfqB79lj67C3XoHv2WPrsLdetAGooS5R627fuzFsGq6tlhn_d26ZOyt71Z_BarluiUa&_nc_ohc=ecxIV6nFokkQ7kNvwFVyDuO&_nc_oc=Adm2qQcZwc377-4kJRKaMiLuSvQfGFhLhJH89ZfAvfMKpyM_JI7Vl_owaSbtnLxnNqU&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFsViUPAA68-kCGhd-vaPeo_v3NlhOIhANSiQZZTq7yfERCg05eHLVYR4BgEyjhPIPugtjH7-jZeg&oh=00_AfinEXs6bg8Gay6o8aGuT2Iz6H46k-9yezVqR8sNBh1TjA&oe=691B76A8",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/557624941_818599597486519_7859918234207033565_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFu8W5-zAxb95j9WSdlTZfqB79lj67C3XoHv2WPrsLdetAGooS5R627fuzFsGq6tlhn_d26ZOyt71Z_BarluiUa&_nc_ohc=ecxIV6nFokkQ7kNvwGOuhTp&_nc_oc=AdnSgXTbF_YHvnmqtuJDz7JeM0ACTdzYPILDYKqp20Ck1TQTIuBGJXZ3-x8AmqHeQuw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQE5Rju7x2qq6YRymXg5TbU-Gwe-orkKa3Fth1_BIbOzVj5Mzy1CyTtGgZQ284_yN8aF_pIlqOq8Zg&oh=00_AfiWC1VgrootcJtvM7reIXko1JwOTbXLk5c6ZPOPk5iEkQ&oe=691B76A8",
               "width": 720
             }
           },
@@ -416,7 +416,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/557624941_818599597486519_7859918234207033565_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFu8W5-zAxb95j9WSdlTZfqB79lj67C3XoHv2WPrsLdetAGooS5R627fuzFsGq6tlhn_d26ZOyt71Z_BarluiUa&_nc_ohc=ecxIV6nFokkQ7kNvwFVyDuO&_nc_oc=Adm2qQcZwc377-4kJRKaMiLuSvQfGFhLhJH89ZfAvfMKpyM_JI7Vl_owaSbtnLxnNqU&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFXJyGySI7fmblDsHlNjDzgzTsFOKuuup_KmFBp7BtM40m_Hy4Uk8KhAiGgl3E8ElqGi9Yi665V9A&oh=00_AfgAvMTonLXIwVSFbPgN0uWQiAK5_GbCbsDirpT6GyRI0g&oe=691B76A8",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/557624941_818599597486519_7859918234207033565_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFu8W5-zAxb95j9WSdlTZfqB79lj67C3XoHv2WPrsLdetAGooS5R627fuzFsGq6tlhn_d26ZOyt71Z_BarluiUa&_nc_ohc=ecxIV6nFokkQ7kNvwGOuhTp&_nc_oc=AdnSgXTbF_YHvnmqtuJDz7JeM0ACTdzYPILDYKqp20Ck1TQTIuBGJXZ3-x8AmqHeQuw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEk4kbEUEmVawY5AsyQS5i14PYn5SyJTdhWUArZosjZog9bF3FAVlsi63HGx6RVdSYP6Kf3hViBZw&oh=00_Afj58O25AJoGt_KxQ2ZjBoftpbd09WQX7HPOmqfqd2uJoQ&oe=691B76A8",
                     "width": 720
                   }
                 },
@@ -431,7 +431,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/557338002_818599547486524_3342838016222440311_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH7nIv9Ut1PL-wehUFoPM7K4x3xYbsHVJ3jHfFhuwdUnRAdNVi1mrfO2qT6JV_7c_LfXU1nmtpk_3W_h0VFT6PZ&_nc_ohc=dhlZDkgXYk8Q7kNvwHuW66l&_nc_oc=Adkxg0Mf0a7bhJexhAM8erFFNXrqWWnJCHHyGvhUMO4kGxIFh6vpqRJnJtDSmQSfXuM&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQG8eETJmJR7yvR_SNh-2tnVw6m9R6cKv_b51XX9vTB-eDRWOlxbMJNKUTVM49r_9b0YY1NcjabhyQ&oh=00_AfiO6sMbpiXkFtiOj1b8ojkVFn8a7pEAhS5Z2TQH5suWWQ&oe=691B7A6D",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/557338002_818599547486524_3342838016222440311_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH7nIv9Ut1PL-wehUFoPM7K4x3xYbsHVJ3jHfFhuwdUnRAdNVi1mrfO2qT6JV_7c_LfXU1nmtpk_3W_h0VFT6PZ&_nc_ohc=dhlZDkgXYk8Q7kNvwGlidBD&_nc_oc=Adl9PUawgdOuS--LpmlxFC0xBDWsK-BBGJyrrCKyDT1heLgpKtE8-IMyqg1AL8v_8lg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHVCYMXMiGwsTRtoYYagajqhlOqG7AFdsA3lhESJOM5OnC7pk1ifWO0HVgYDeeV_OhWPFAgmG7BMw&oh=00_AfhX21WX1fLlSKRj_oOlq7GvoLCTDb3OAI0OHwyR5Hfkaw&oe=691B7A6D",
                     "width": 720
                   }
                 },
@@ -446,7 +446,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/557635992_818599577486521_1605085020153972655_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHhK0AlnZyd1ThxY-9nrp07hfZFgQ5ZtWKF9kWBDlm1YnUHNYNMQVCaZNxjs4gZwE156G1UTegN_KaHBaMFUmjh&_nc_ohc=9A0Xu5ioL5gQ7kNvwFJmWYr&_nc_oc=AdlrJ8f23qtzqoxz7_DI8rDCpUlBltRToa4gT5kOm8_JHPW4TPWlAyhEgi9uHsJPAuc&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHU-GJf8pN_oTSicIPR-PzFSC4XVt4KaYiiJTkhGdL-b76AOq3MYDr7Az28BfW4Nte_gj6NaHIR7w&oh=00_Afhtv4UEIST7E1ZFAf41V2e6edL9nZHftIDddZ86Rh5gvg&oe=691B842E",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/557635992_818599577486521_1605085020153972655_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHhK0AlnZyd1ThxY-9nrp07hfZFgQ5ZtWKF9kWBDlm1YnUHNYNMQVCaZNxjs4gZwE156G1UTegN_KaHBaMFUmjh&_nc_ohc=9A0Xu5ioL5gQ7kNvwEGWN6u&_nc_oc=AdlZOVFw8g0u-FoKWZiIOuwNx3pnJIE8Da2jjWRc1UrMdlrQHPhpztkcL6B_N8KQwoQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHuzzy-2Tz7xGhGb5bas1nJvRQcaPRBPm_Bb_IoZv_LOulCm0hwD3WwK7Khc_qhlWOA6_BDgA7G-g&oh=00_AfiQ49Kzt6mepOvc0Ze2G0eUrKcAhzFC9K6y-t7v_RSs5Q&oe=691B842E",
                     "width": 720
                   }
                 },
@@ -461,7 +461,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/557588134_818599557486523_261129874282836641_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHzL1OAt2qExj3TpIWQEVykWIEL2kJr8AdYgQvaQmvwB6EgSIr3xsS9kQ7VoFKKXtF3vhKeO6blHF3QnDZ0A1yg&_nc_ohc=odKMUscsxg0Q7kNvwHfdIaF&_nc_oc=AdnJQO2CU_zXQXb9pm4LCRNOnX6c65OZ-Ogd3wh_dyPWA4rdmY4Xpd3hq1xOQxW3kR8&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQE_yJhxOqO_KWOVukk7qGm40bXo9LKirhOQqpo21phJdjY8LnRUpgw9lXZnU1WS0cbhq8cyCucSGA&oh=00_AfgPQ1eLBZGVsafFV26dJVEHmkqA-bcR8Kf-5yvpYeREjg&oe=691B73BD",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/557588134_818599557486523_261129874282836641_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHzL1OAt2qExj3TpIWQEVykWIEL2kJr8AdYgQvaQmvwB6EgSIr3xsS9kQ7VoFKKXtF3vhKeO6blHF3QnDZ0A1yg&_nc_ohc=odKMUscsxg0Q7kNvwFXWIRa&_nc_oc=AdnoiiG5ZuXFpR6mMkYWaqDyd7wQ9TK3_VlEPCJkmpwtF4sOPj28EXsnw7psfUGnVbI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQF3jdnS8tL2k-sS8cNhvfCj3-luHtpIXUpi0AJvnbcmEKM9q4cKt160YDc8j7B5mxJ93cBEUEMmbg&oh=00_Afg0bnlIRFVWUF08JvDMjOKPbyOe23y6FfzQ57xJ9w1nlA&oe=691B73BD",
                     "width": 720
                   }
                 },
@@ -476,7 +476,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/558870638_818671190812693_2152980436081694646_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG5GX1cSRXSxGl6kNakU7KRgHuU2TdRkb-Ae5TZN1GRvwDHSROB-xy3yLEIYQGwzV6DqUIpl82mMkjbw9raGOvT&_nc_ohc=AR5WJSARVqAQ7kNvwEnAAIi&_nc_oc=AdnELL1Js9I1ZEAYrOIqn7-o0FNNFjmMMj0jn_IEW3pK6ii_OfQSLxg_wasoJZlcMVw&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFFV_86pRxhKJ3l-h2TSkdbeeu6B4fJBsLZSpcWX6wMldo7UH0jgDTpd5Cj1nTcz7EPSqgpMvUTgA&oh=00_Afi4OzGILVK4p9A316hbkZ2NmdfuHRaqcWkYUkPnSwJMag&oe=691B85E8",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/558870638_818671190812693_2152980436081694646_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG5GX1cSRXSxGl6kNakU7KRgHuU2TdRkb-Ae5TZN1GRvwDHSROB-xy3yLEIYQGwzV6DqUIpl82mMkjbw9raGOvT&_nc_ohc=AR5WJSARVqAQ7kNvwGKSHed&_nc_oc=AdmTpJPsMdbjjA0eFpQ9V-I3P7hgSPAkkyvK3UvGPrcHkxMsPamXN0EDiVMLLHhFejM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFd7hSSE8RJkm5pzKbwlnhhBEWuAfeKwhkRMXIUMoi3L0qnTUF9vbPKM7z-4QVFevTs1IzLquYvjg&oh=00_Afgxw-3wANzmGjD9CbYe8FBgcg2J-2AVWF79DBeygCzIWA&oe=691B85E8",
                     "width": 720
                   }
                 },
@@ -491,7 +491,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/557356455_818671204146025_39390548039531797_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHCzRoBEneM7QMwcKzQHTHgnRZUqPWYhrudFlSo9ZiGu6FkBf42yBc_jKfCmxN62-wyw5Yrs8L6P7uERPwaFnHS&_nc_ohc=dUraDsrbiwsQ7kNvwE-kjsw&_nc_oc=AdkKdJ0iHledJrwogKW9LUxGbuHMwqMIbFFXcUS_Z2uL7Sy-uOsc7A4GAKBuN2jrT9M&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHw2m6kKYOU7J2FE4j-X4bv26vGPgo72safSLI76b8FIdMWvP4cw9NbCDDZjcchlKMC_TCF_kTmsg&oh=00_AfgED2pycEW8qjJKbj3nQbHE0H1tSRocCkCHgvXz89iGZg&oe=691B5DEA",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/557356455_818671204146025_39390548039531797_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHCzRoBEneM7QMwcKzQHTHgnRZUqPWYhrudFlSo9ZiGu6FkBf42yBc_jKfCmxN62-wyw5Yrs8L6P7uERPwaFnHS&_nc_ohc=dUraDsrbiwsQ7kNvwHmL-Sk&_nc_oc=AdmT3pFPvk2xUCi080Sclsm9pnvctzKb70WAHznrocvmWX3QkQSvRSX1ObN275qWgoA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQH5ANIqiGVieIaCzVxfNC9yCNxJEHzIqL8NwQWTEYMDcnVGhvLwDzrQWyX2Sx2S_Yeqvhmc7SIpHA&oh=00_AfhG6cI_wEBxXrYOmEuq6COhYt4pzqEBKxOWLrmenMUIyw&oe=691B962A",
                     "width": 720
                   }
                 },
@@ -519,7 +519,7 @@
   {
     "message": "✨👷‍♂️👷‍♀️ En este Evento Conmemorativo del Día del Trabajador Minero Ecuatoriano, rendimos homenaje a los ingenieros de minas, técnicos y profesionales del sector, quienes con conocimiento 📚, ética 🤝 y compromiso 💪 impulsan el desarrollo responsable de la minería en el Ecuador 🇪🇨.\n\n⚒️ La ingeniería de minas no solo resuelve desafíos técnicos; también es innovación 💡, seguridad 🛡️, sostenibilidad 🌍 y un aporte fundamental a la construcción de políticas públicas que fortalecen a nuestro país.\n\n📖🎓 Nuestro reto es seguir consolidando una minería moderna y responsable, basada en la investigación 🔬, la formación académica 🎓 y la excelencia profesional ⭐, que abra nuevas oportunidades para las próximas generaciones 👦👧.\n\nSigamos adelante 🚀, con visión 👁️ y unidad 🤲, con un solo corazón minero ❤️⚒️, para que la minería ecuatoriana sea siempre sinónimo de progreso 📈, conocimiento 📘 y desarrollo sostenible 🌱.\n\n💛⚒️ ¡Feliz Día del Trabajador Minero Ecuatoriano! 🇪🇨",
     "created_time": "2025-09-07T18:44:48+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t15.5256-10/544737184_1782831305771121_2033617122514353258_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeGGOIS_qpNfltOYIN6y57iNyVh7-ixRaOXJWHv6LFFo5XoYkFSjCSQ5GEHrwO9CbELKOwZvlBYPNOljVT2S49F6&_nc_ohc=dERHRaw5m_QQ7kNvwGA-cnZ&_nc_oc=AdlmFX3rp9TJqzdujnB2G_rIN_z0PNIZEsD9HY-yRlSFx5XfYjuPy24hsFqDYaHyuho&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQE3Yzpjd2AYBMglWC7Cev4HclLj1GVl2D_AuxdFZ1VZMhU9bjqYffii2ATIJHvSkHnkhkm4QKhDnw&oh=00_Afgc1JeneLPtSZQAQ-Q_gGQxjhJfNg-xTNlP4tzlHw2gKA&oe=691B7043",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/544737184_1782831305771121_2033617122514353258_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeGGOIS_qpNfltOYIN6y57iNyVh7-ixRaOXJWHv6LFFo5XoYkFSjCSQ5GEHrwO9CbELKOwZvlBYPNOljVT2S49F6&_nc_ohc=dERHRaw5m_QQ7kNvwHwQIaw&_nc_oc=AdlDZPdDVEbbvgP82I2XTXHncUPq_EZGCP4Vam7jFz1Znj6MzSgT6XXm8chinPx1w4Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHpdb5zPEeTSWyDJnSpYSoESXFnj7OTTbmVp7ZQGjEtALPfJpXs-2xyzKavyeL70aoASRe1otNrcQ&oh=00_Afh2PDkbMMG5k5LNS51qC4obOdmrz5gSKPB_dCQlTXOEVQ&oe=691B7043",
     "permalink_url": "https://www.facebook.com/686939690652511/videos/755922647434786",
     "attachments": {
       "data": [
@@ -527,10 +527,10 @@
           "media": {
             "image": {
               "height": 400,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t15.5256-10/544737184_1782831305771121_2033617122514353258_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeGGOIS_qpNfltOYIN6y57iNyVh7-ixRaOXJWHv6LFFo5XoYkFSjCSQ5GEHrwO9CbELKOwZvlBYPNOljVT2S49F6&_nc_ohc=dERHRaw5m_QQ7kNvwGA-cnZ&_nc_oc=AdlmFX3rp9TJqzdujnB2G_rIN_z0PNIZEsD9HY-yRlSFx5XfYjuPy24hsFqDYaHyuho&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGQrxZ85y1rhMC5xYrVxfA05q9chUyFdnILr5wV3y6OzEmm1D35qOOfl_0RCYx2bSnge9jc9kG7nQ&oh=00_AfiNVbTOgsZmX78Vs0k5e9nPkTJmyGAae6H2i5XKWMdNjA&oe=691B7043",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/544737184_1782831305771121_2033617122514353258_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeGGOIS_qpNfltOYIN6y57iNyVh7-ixRaOXJWHv6LFFo5XoYkFSjCSQ5GEHrwO9CbELKOwZvlBYPNOljVT2S49F6&_nc_ohc=dERHRaw5m_QQ7kNvwHwQIaw&_nc_oc=AdlDZPdDVEbbvgP82I2XTXHncUPq_EZGCP4Vam7jFz1Znj6MzSgT6XXm8chinPx1w4Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQE3aZNQ1WRm2GF9Nhmq8rrMsuC6l0Y2ThFrF5poJ2tR1DFadEWWyNOoQNWXMn7bvZwK-bWpMBp_dQ&oh=00_AfhWbtLpW8MLUYiESZoeq0RKtIpUCRVvZXcSSVfHBpuEcg&oe=691B7043",
               "width": 720
             },
-            "source": "https://scontent-lhr6-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQObzW2KAmrIuA87qqKkRRbyHWYQnsT-E0CBZAwdMu43Gt5IrV0Ue6QJsnaM8NnHch5KvLQbU8YKx90iehLyD2w7ZBqcjHyo95aCovA0SOQTKw.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.xx.fbcdn.net&_nc_ohc=fRx3dR3jnj8Q7kNvwE1Y-7d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzEwOTY1MDY3MzkxMDg4LCJhc3NldF9hZ2VfZGF5cyI6NjYsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjozMDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=84851a2af5610679&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MjQ2RkUxQThENjVBMkU4NDI3NENEMzFBNkFCODdCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQxNDRCNUQzM0FDODk4MjQyOEUyNEZDMzJBOUJCOEFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbggb3ympTUBBUCKAJDMywXQHMPdLxqfvoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeECZD466OxWK1f4hnhzt_PjwFZINndn3RTAVkg2d2fdFLr1QBQaCLPv0UWIc4Eys5Ga_ndK-g_HTm-QdKgyLEML&_nc_tpa=Q5bMBQH2rAHh0Ewb4yl6lxwAR1I_6zHWlxdGTkSol42XgjFutKjftPX651-Uik-Ycjn4-edkf_Lu846stw&oh=00_Afif7EEyJkbrYGWYsG-kvMqxoTkBZAXVPqV2124dfF0BVw&oe=691B81FC&bitrate=1260338&tag=dash_h264-basic-gen2_720p"
+            "source": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQObzW2KAmrIuA87qqKkRRbyHWYQnsT-E0CBZAwdMu43Gt5IrV0Ue6QJsnaM8NnHch5KvLQbU8YKx90iehLyD2w7ZBqcjHyo95aCovA0SOQTKw.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=fRx3dR3jnj8Q7kNvwEK_1X4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzEwOTY1MDY3MzkxMDg4LCJhc3NldF9hZ2VfZGF5cyI6NjYsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjozMDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=84851a2af5610679&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MjQ2RkUxQThENjVBMkU4NDI3NENEMzFBNkFCODdCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQxNDRCNUQzM0FDODk4MjQyOEUyNEZDMzJBOUJCOEFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbggb3ympTUBBUCKAJDMywXQHMPdLxqfvoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=stTKECqovgI4YUez6mtCPw&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeECZD466OxWK1f4hnhzt_PjwFZINndn3RTAVkg2d2fdFLr1QBQaCLPv0UWIc4Eys5Ga_ndK-g_HTm-QdKgyLEML&_nc_tpa=Q5bMBQEWJrvYA4-3R7S6dDw7rjlb-Vty37kE_441eb0uSRpWRfN4t4nC43HWbhH6_k44vqoodlgIiPy7oA&oh=00_AfgxiobYnCKj3Ao6hqsmi8_heQNcxsyLhLevoObm98cPnw&oe=691B81FC&bitrate=1260338&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "755922647434786",
@@ -552,10 +552,10 @@
           "media": {
             "image": {
               "height": 335,
-              "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t15.5256-10/540457610_1139110251462306_1833563856891135040_n.jpg?stp=dst-jpg_s235x350_tt6&_nc_cat=106&ccb=1-7&_nc_sid=73dd82&_nc_eui2=AeFXughW0e4AEHt51BtTGF_yFRA4SqQFEawVEDhKpAURrLLya9KZ7P5DP1SN4C4ZdsDb54wSXa3d19urSCvQNztQ&_nc_ohc=AB47Nlg5tooQ7kNvwGd7MNI&_nc_oc=AdkqVOuhr97hzosmyZzjtj1TtiXXu1zMTXa5RR6MMezP65PjAd1C3hZw9Qww2RfPkMw&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFxvb_c--dLAxR86L6L1vG1g0GviPVhloHKVyrPotnfPwU7brV3lUyLPToP2Tgx01_8dn7oYloYgg&oh=00_Afi7ky00zN0WR61M8XxfNAmoqPZfiNifIQBZUPpEwiMJ9A&oe=691B80C6",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/540457610_1139110251462306_1833563856891135040_n.jpg?stp=dst-jpg_s235x350_tt6&_nc_cat=106&ccb=1-7&_nc_sid=73dd82&_nc_eui2=AeFXughW0e4AEHt51BtTGF_yFRA4SqQFEawVEDhKpAURrLLya9KZ7P5DP1SN4C4ZdsDb54wSXa3d19urSCvQNztQ&_nc_ohc=AB47Nlg5tooQ7kNvwFhm7pH&_nc_oc=AdlbjOp51ow-d2qpzMSO5JkKVomjr3JGsij_w5RQFWnYxSUMtfgFA3I7cs5f5RTQkLw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEPSKzPOavmkqOQO93SzqSS0xOnXj1AHocI2Zr5MQZ2ETu5cjDLif3KhdCEq3i2IBMa64VRMfHWPA&oh=00_Afi0yd5nXA5u7eHpYtb18JLbPxurXKCpNFDeqJG3yno6RA&oe=691B80C6",
               "width": 250
             },
-            "source": "https://scontent-lhr6-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNpdw2D0h1oilP_45Qc4tdnqwTz9A98yuJOEAXpEs4CZ6Q4IuVVtI2NM46g22W_0csXUKD68bYRD8X2-ESKVpyfVC60KljSuXXVPqcuwLJMEw.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.xx.fbcdn.net&_nc_ohc=asFio2_iyuEQ7kNvwHviSL3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzM3NjIyMDE5NzExODQsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dbb0297d8ee2801c&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8wMDQxQjBDMTZEM0YzRkVDQUFFMUI2MTRGODIyMTNBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgp_fU0smDBBUCKAJDMywXQExu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZCeAQA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeF6DcE5eV10ZnFFdTwVtimyWek69hpPZkhZ6Tr2Gk9mSHBH-K44-SmA7LqFSp_5q0Uvo25UsctcV9FgCiRs2kN-&_nc_tpa=Q5bMBQGMDp2T-UMTEva_3f2aZEDkRCSoDCNXAhLdWN8P11RzLwsYoklKAwmNczyZ69o3rPoPIWJCFFKVnw&oh=00_Afjv7NSUsDv567BgDbRFQPxJdgOdNRM7q7i1T5oys9LZxA&oe=691B7297&bitrate=0&tag=dash_h264-basic-gen2_720p"
+            "source": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNpdw2D0h1oilP_45Qc4tdnqwTz9A98yuJOEAXpEs4CZ6Q4IuVVtI2NM46g22W_0csXUKD68bYRD8X2-ESKVpyfVC60KljSuXXVPqcuwLJMEw.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=asFio2_iyuEQ7kNvwEu57Ni&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzM3NjIyMDE5NzExODQsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dbb0297d8ee2801c&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8wMDQxQjBDMTZEM0YzRkVDQUFFMUI2MTRGODIyMTNBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgp_fU0smDBBUCKAJDMywXQExu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZCeAQA&_nc_gid=stTKECqovgI4YUez6mtCPw&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeF6DcE5eV10ZnFFdTwVtimyWek69hpPZkhZ6Tr2Gk9mSHBH-K44-SmA7LqFSp_5q0Uvo25UsctcV9FgCiRs2kN-&_nc_tpa=Q5bMBQGYjOaUuLDUb1BW3KKw-B9qbWrxI0Zb6Sc3uwXSNE6WQeY71w48PZATbD_mlK32E-ORObG6j44jJg&oh=00_AfgT-tp9YfBCXmlylfDMcDWnBO9ByC-w8Uskd7mHsCiZfg&oe=691B7297&bitrate=0&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "740909078916605",
@@ -572,7 +572,7 @@
   {
     "message": "La Asociación de Ingenieros de Minas del Ecuador – AIME conmemoró con orgullo el Día del Trabajador Minero Ecuatoriano, en un emotivo encuentro que reunió a autoridades, gremios, empresas, academia, estudiantes y representantes diplomáticos comprometidos con el futuro de la minería nacional.\n\n🌍 Durante la jornada se destacaron proyectos que reflejan el aporte del sector al desarrollo sostenible y se suscribieron convenios de cooperación técnica orientados a fortalecer la capacitación y el crecimiento profesional.\n\n🤝 En un momento clave para la gobernanza minera del país, se consolidó además un lazo de cooperación directa entre la Asamblea Nacional y AIME, abriendo espacios de diálogo y articulación institucional que marcan un precedente para la construcción de políticas públicas mineras con visión de Estado.\n\n🎶 La jornada cerró con música, integración y networking, que sellaron este homenaje en el marco de un propósito común: una minería responsable, inclusiva y sostenible para el Ecuador.\n\n💛 Desde AIME agradecemos a todos quienes hicieron posible esta conmemoración y reafirmamos nuestro compromiso con el espíritu que nos inspira:\n#UnSoloCorazónMinero ⚒️",
     "created_time": "2025-09-06T20:39:11+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/545407139_795925933087219_4133175346815284767_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2b0sBM9hIW9xtMNprNQe4bIRGBLhXJ0FshEYEuFcnQWx8hWYSrzfGnRIQrYE-a7EXvsHQN7bql6lBmLVAbsY7&_nc_ohc=YZ8mK8F4ORIQ7kNvwGvaifh&_nc_oc=AdkrwS0M5oJMsgGLSRVi61Gj-B3tjXVM0eMkEV_2RG9VaCsHdRPYp8tz1RnQT78gR9M&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGtJYNlsinS1vias9tDq-7dU5_kVTSCv8JvGWu9Ozye2wwAghBywwCLAXrLw06KCgOMNITygcWsug&oh=00_AfgRENLFoviUAGsTuL6bVNCgVZym2hlJhau0uKuWdxv04Q&oe=691B8965",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/545407139_795925933087219_4133175346815284767_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2b0sBM9hIW9xtMNprNQe4bIRGBLhXJ0FshEYEuFcnQWx8hWYSrzfGnRIQrYE-a7EXvsHQN7bql6lBmLVAbsY7&_nc_ohc=YZ8mK8F4ORIQ7kNvwHCRtkS&_nc_oc=Adn7yasEH9foWE_obLerdFr-MnqV-P-vHjbBb5dLP4gbD-D6zi9Q57Gz9t0fdhHaVPo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGdj4xK3r-llMW0OMa0EdGFc_7rZkt_sAXs8O5O1HJnQif3tWDhbiYO74R5GZtObIN-szpVQqfzww&oh=00_AfgfmCOAfAF3wO_6DMWjGfrjKbBB7EXhVcUEYmmPQiT-yg&oe=691B8965",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/795926439753835",
     "attachments": {
       "data": [
@@ -580,7 +580,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/545407139_795925933087219_4133175346815284767_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2b0sBM9hIW9xtMNprNQe4bIRGBLhXJ0FshEYEuFcnQWx8hWYSrzfGnRIQrYE-a7EXvsHQN7bql6lBmLVAbsY7&_nc_ohc=YZ8mK8F4ORIQ7kNvwGvaifh&_nc_oc=AdkrwS0M5oJMsgGLSRVi61Gj-B3tjXVM0eMkEV_2RG9VaCsHdRPYp8tz1RnQT78gR9M&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEK3696YN2HkmJDqkh7-X1iX7MRu-jeggkI4U7JEZiXAyxrn70vDmSgldcHrjERO-qEP09MuwHywA&oh=00_Afi7a3uImGa3MVJ66PWnXZ2SqIYoYtr7Mva-KIQGxkGhNQ&oe=691B8965",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/545407139_795925933087219_4133175346815284767_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2b0sBM9hIW9xtMNprNQe4bIRGBLhXJ0FshEYEuFcnQWx8hWYSrzfGnRIQrYE-a7EXvsHQN7bql6lBmLVAbsY7&_nc_ohc=YZ8mK8F4ORIQ7kNvwHCRtkS&_nc_oc=Adn7yasEH9foWE_obLerdFr-MnqV-P-vHjbBb5dLP4gbD-D6zi9Q57Gz9t0fdhHaVPo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFWXJGBCMdmjV7WcSyg142BlI7r01gPqTI8lWQHXK-YBjFUOwCpYPvl1pU_CCwqIJnLyqOXTN0EPA&oh=00_AfgQ8AaONZZYt3yQeCdDpJsUCu3crO4mxbkHdf_oxgdskA&oe=691B8965",
               "width": 720
             }
           },
@@ -590,7 +590,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/545407139_795925933087219_4133175346815284767_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2b0sBM9hIW9xtMNprNQe4bIRGBLhXJ0FshEYEuFcnQWx8hWYSrzfGnRIQrYE-a7EXvsHQN7bql6lBmLVAbsY7&_nc_ohc=YZ8mK8F4ORIQ7kNvwGvaifh&_nc_oc=AdkrwS0M5oJMsgGLSRVi61Gj-B3tjXVM0eMkEV_2RG9VaCsHdRPYp8tz1RnQT78gR9M&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQF6OrOTZuSPn6unQqMflsEe6gVJYg_W9-6zJhGfikLUyS0_6i8fOviI0haEaD3ugVeyquEzQygduw&oh=00_AfhxnPZB5SQgg_Gddr3WRcxwW9c-aHhMbTEgoSsXixh3Vg&oe=691B8965",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/545407139_795925933087219_4133175346815284767_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF2b0sBM9hIW9xtMNprNQe4bIRGBLhXJ0FshEYEuFcnQWx8hWYSrzfGnRIQrYE-a7EXvsHQN7bql6lBmLVAbsY7&_nc_ohc=YZ8mK8F4ORIQ7kNvwHCRtkS&_nc_oc=Adn7yasEH9foWE_obLerdFr-MnqV-P-vHjbBb5dLP4gbD-D6zi9Q57Gz9t0fdhHaVPo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHyl7L3QdCeVv1K_QbqskUpfu87iPk4gc4HNrLXxIOuaaI1uTbdotxPE6S6QCGUmR10bb9oVWAiCw&oh=00_Afh8QQPrRsYdJj-ZvkOGb4G7K69WhqWlAjrCXdR5cGRoQQ&oe=691B8965",
                     "width": 720
                   }
                 },
@@ -605,7 +605,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/542759601_795926266420519_6367348448730974291_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHRkgLh_W5s2R2sH-a4nsZG4L3mLECjTTngveYsQKNNOWKMzIZzGx0jdDUOGyX94fAg4BMIxnme73YT22AXdzLD&_nc_ohc=BliyAxjWbU4Q7kNvwFjrn1x&_nc_oc=AdnfFGMUWdN-h_XuCJK_fSjWOZubDmKgKGMVu63S6bqQnnnuEWUHgQ4u2bXfX7G52SM&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFC61t8mar5BvtJ7oW_725EOm0WZAzXmVozIcl926-UwMharFy8MnLPA4_m1StwcqBJCyf9JEsKIQ&oh=00_AfhPEBeLvJNfD1N_Z_AKI9NNX-stEcqXnyYGVSdjoVwoeA&oe=691B8CF8",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/542759601_795926266420519_6367348448730974291_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHRkgLh_W5s2R2sH-a4nsZG4L3mLECjTTngveYsQKNNOWKMzIZzGx0jdDUOGyX94fAg4BMIxnme73YT22AXdzLD&_nc_ohc=BliyAxjWbU4Q7kNvwHYDKx8&_nc_oc=AdmKTP-3p19JteK8KSm33bKb4hitY4_pS_7L8jKtvDLQFJq1qIvawvuK37_ANIIgcsg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFugYnOYOmjJqgn-btavxU9YU3UshXDu1U1IoeUKaW2uWc5FFVEx_DZYPCnhs-2HGl3upvLDT9MKA&oh=00_AfilczZ04NOcnj51wdsK1Qh6U8LXHq19Npm1bJQKDEyBfg&oe=691B8CF8",
                     "width": 720
                   }
                 },
@@ -620,7 +620,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/544492981_795925963087216_4615769877381515128_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGcyVK3hL51xKQxllju6Oh7-lLtLoB1HtH6Uu0ugHUe0bP5GVrmJoJdKQSsaqlyMIHCJHIPmoQ_nDPVUTybbyUD&_nc_ohc=np5v0OfZ_E8Q7kNvwEJQlUA&_nc_oc=AdlZ0W4YJ2nUArOPS1dksm0puJcPAHZJyVdTXrWOZSEWgKJAa3XoIFqLzElKG4BHYrQ&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEGk_2ge4SIc5QSmV3ZBoR68qy9GsPISB5kQcZMo5UXQd2mpPFDAjwb-wm7D7hLYd1B3PX3D10iNw&oh=00_AfjRyq5wf3AFPB9FtvnEkJv3O7zCIc1azvPiFUM9_x84YA&oe=691B6389",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/544492981_795925963087216_4615769877381515128_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGcyVK3hL51xKQxllju6Oh7-lLtLoB1HtH6Uu0ugHUe0bP5GVrmJoJdKQSsaqlyMIHCJHIPmoQ_nDPVUTybbyUD&_nc_ohc=np5v0OfZ_E8Q7kNvwHM5dtG&_nc_oc=AdkDBbp2X-vZqTSNgUHIHCYyCFEmoGDj1Gbb8ggtghX-HxxkMLi8TNhY2_Ec3OvsKBM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEEnXZsP_qnJeY8ZnXhS18cAiib1lAcSYj2asq5zZvMoOss1n3Q_iPTAkz_wtVBplcumqHN85LnJw&oh=00_AfjmdS-PznrZgsav_UvDSf-aMHd5rr7p7yOJN6pCNWRv1A&oe=691B9BC9",
                     "width": 720
                   }
                 },
@@ -635,7 +635,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/544438742_795925913087221_2283683791922578695_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEBDEmDv3bllORScM4t3L_OGJDveyDTLqQYkO97INMupGFxjZbKOjq0TTW2VQf-nr3Z_Rg9RpxjNfOzB8q_JrV3&_nc_ohc=2NlLinWrl5EQ7kNvwEyTGOp&_nc_oc=AdlV7HFXs2-hrpUPCtqlv5O59GxXexUly6HSYqz6xhoanimLmkiprL_qa5YHhvbdJLo&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHVZHFsPo7_rBCUdpj1Qt3FlEqFRKZWwFnJZXSQC9DnWuYFqfAJ3VbA0QIFsST8wWFx9LyxXI1iQQ&oh=00_AfgASBopLTYyhkEBpbAHRb9xXFMq6KfsQeyCDgBsAiRQTg&oe=691B5F1E",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/544438742_795925913087221_2283683791922578695_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEBDEmDv3bllORScM4t3L_OGJDveyDTLqQYkO97INMupGFxjZbKOjq0TTW2VQf-nr3Z_Rg9RpxjNfOzB8q_JrV3&_nc_ohc=2NlLinWrl5EQ7kNvwGiJFq1&_nc_oc=Adk680m_Fl1EdlHUu_eMWwz67a0XEo5BeH_hB7hR1ilQ5KrauGzn3yiIfdd9-6XwD3o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQElb40MiriX-u8cLxKn5zfu2n9PWp28v1T6TMOca9Iu5_CUdaRIr3iItK1cebHDfv0svm54_Dye4w&oh=00_AfhdBNA5N7FcKGF94K46AQNfmZR1fmsvmKWvVblTIgXPeQ&oe=691B975E",
                     "width": 720
                   }
                 },
@@ -650,7 +650,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/545139629_795925909753888_398674594501506847_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE3UTOXxFwH5aToOM-hAsZA3pO8vTe-B57ek7y9N74HngAbBlLmjQgLPB-j7GaC9SPHXlneI5dPw4LEWmfZaEjo&_nc_ohc=6um5gjSyNZMQ7kNvwFMTT1S&_nc_oc=Adl0YnbaL4XwR2Rj3s79ywmjuFAegljSrepJQs-NaqrHQ3UxS-aDVWUTSW_hcqsDqfU&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHN3bha4YOdgMVY-Sh85ODLdrVAetG4usaK6Lb4XH4RebYEenflGmPbUAaRwSUhaPOGTnFr_q1_bw&oh=00_Afi2GYl_BUU5fQn1DG3CBfwAsdB6ToKp28USJYyX-Y4Gyw&oe=691B6C2D",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/545139629_795925909753888_398674594501506847_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE3UTOXxFwH5aToOM-hAsZA3pO8vTe-B57ek7y9N74HngAbBlLmjQgLPB-j7GaC9SPHXlneI5dPw4LEWmfZaEjo&_nc_ohc=6um5gjSyNZMQ7kNvwF7MijD&_nc_oc=AdknsP1ZR4AKb7wxgf-_UuQhm2VvhwK2VsvF0aMrUZZ7y5uVc8aQBHGZIRRbqz3UGyg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGTSFhja7S5v1y-dTCj2JwWuLXof0swZ9V7LoAgsOVay1zum-JA8kBvsQ1-tGE6RtxbJQC-dlt1Ng&oh=00_AfjXOVx_YD-_oU0utCRCBxu6isikzpKA9V_0A3mmNdodNg&oe=691B6C2D",
                     "width": 720
                   }
                 },
@@ -665,7 +665,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/543377801_795925959753883_7389236125069095588_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEsUWhxuZPy05iaA27RrmuBEw7j7gBg85cTDuPuAGDzl11s4JiEsfhgNJpCwe0B5PmBZDt2drUyss3RuiB5_b1-&_nc_ohc=-CgMt-hT3RcQ7kNvwFvh_WW&_nc_oc=AdkS5NBIEgArUGWgw_cADfks_2_6enkAjFl1VP_8c1iYRK9h3IHqwIJ67714Dhjn24g&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQF1ZcLpaifLul61yWJpTAcv0MQ5Q4ubQ0Uj3K38GG_4VT7P6JDjaWi4WgwWjvax-NP25vka6H6tXQ&oh=00_AfiFosy6F2dWfDYeCN6v_woCbRoSZL2rdZvrOAmLHyZlqw&oe=691B8DAE",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/543377801_795925959753883_7389236125069095588_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEsUWhxuZPy05iaA27RrmuBEw7j7gBg85cTDuPuAGDzl11s4JiEsfhgNJpCwe0B5PmBZDt2drUyss3RuiB5_b1-&_nc_ohc=-CgMt-hT3RcQ7kNvwHQbttK&_nc_oc=Adnxh3wnYea8FFlCdgicapHU9nflKY8Qvz4O_FaZq3rK2GKN6tdHLSKrKHajBxzdfOY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQH1dwEYYC_75Jt10QXWqACRxx0HQ394YslyYrFu5jVixLxgaG0rh7_jj_IYidhQ0ASlcU1Md9ssYQ&oh=00_Afi-d58ZP1b4fxIzzxoBoE_rIpr3trvwqEZ0eJuo2kW13g&oe=691B8DAE",
                     "width": 720
                   }
                 },
@@ -680,7 +680,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/542759812_795925999753879_8933107953501282300_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF9g1ZkOLbSkteQpOMUcuFK2lYgfztVXvTaViB_O1Ve9OjWd00KtPiNmxSMETO6KjHLzlvGBk7n1sgkkYQFOp68&_nc_ohc=BslqHJcGwr8Q7kNvwGXmd8H&_nc_oc=AdkbE-VfXBAX7CvaDFW-msQauf8-_4Nggp7aY3ajIUWfn19_lNmF6hNyToWet0MpEL8&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFRpRh8epodR6g14sGZGZo7lLzpYSNNnDRp2tS2brSL-I_jTgB6Uy9x93QAVnHBUjBW8OhQZMisGw&oh=00_Afho-uFodXHTB6UmIbY-g-YFndcU0JwRNi2gbaLfzzeP4A&oe=691B7E0A",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/542759812_795925999753879_8933107953501282300_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF9g1ZkOLbSkteQpOMUcuFK2lYgfztVXvTaViB_O1Ve9OjWd00KtPiNmxSMETO6KjHLzlvGBk7n1sgkkYQFOp68&_nc_ohc=BslqHJcGwr8Q7kNvwFxWzcG&_nc_oc=AdkpfQ3kvKDiQmErdr1QqB3-X9bIgnnYfAWZ9MlZgNHxVFQQ3933ZXHKN1qIMhI2STo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHTcbhqVJvzatvKzRQ1Zh0KFTpPnq0i9fH5j2qyc7EKDK1z-NtljmBl-JyknV_TyFuCZB4B26o8_A&oh=00_AfhhdNlKoBDibOWFlLsNDlBEBDRafcol-Ydh_A9LismslA&oe=691B7E0A",
                     "width": 720
                   }
                 },
@@ -695,7 +695,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/540903529_795926013087211_1737004119501827093_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFcCjhz6bCUaVGEdiM0rv2lmwak0T9przybBqTRP2mvPOFN5FPCIcjPo0CI6lkpLqaVTYg3Qcb41sY3iekAiuQS&_nc_ohc=_MMzVy1MEDIQ7kNvwGI3C8b&_nc_oc=AdniHc6e5DLQ73auY6GF_kxthO8wsAHHaQIX1Yw-eLw2rp1-pfTM8hMMh65OE5gnAWs&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFP8QsoUqXU0ax581sIIfZ-2b5P5wlHYJmEELlMvIcajh7_2Qmb33tH74HGGd3XOo6JMkvXOFMePg&oh=00_AfijMeSj7hzBFH9Wkgre4h7LoOr4hZoMzmWtsQeqD2QEmg&oe=691B7A46",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540903529_795926013087211_1737004119501827093_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFcCjhz6bCUaVGEdiM0rv2lmwak0T9przybBqTRP2mvPOFN5FPCIcjPo0CI6lkpLqaVTYg3Qcb41sY3iekAiuQS&_nc_ohc=_MMzVy1MEDIQ7kNvwHEf2_D&_nc_oc=AdlquDEP6aER5QQHlpD2eZXO48f4qUB7ObWL-hQiXfuCVP_hp4hZoo4KLXeIe_1SPWM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFc4N9vUB68685V4VScFnysXb4y0joiP95kTEnxIq_mAH_btWhtOHNzM2tibPPq_wLRQccFHNfzmg&oh=00_AfjVQcldKJJgBlexe6teExQ7voDrOuXZZLWvzwA1fC-aUQ&oe=691B7A46",
                     "width": 720
                   }
                 },
@@ -710,7 +710,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/544921155_795926043087208_7791919378018156758_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFntxsYeePjHI807eQA7J07xMPQjaInHWbEw9CNoicdZr8VUlJm-ygUMrYKx1OCQhm3q8yXRqccHco34UCj_nVX&_nc_ohc=-Ox_mgtPfsIQ7kNvwGw6QQa&_nc_oc=AdntOUfzZ3NnubQwYX0X7juzfrR7RXbUo-eKKfWPTzcaxytMheQeLzh95rhKWBRqnns&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFbqN5KnHS8uR0z-Hi4SEnvMjTesi-Fsg6rveskvJcT2ZQVFiGUxNGj9p2jri68yUj5cm1GoBab1w&oh=00_AfgM6sLsIQuh1jhxRhkwSvAviBHTpV5SRBu9uP8vxRDVOg&oe=691B6B13",
+                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/544921155_795926043087208_7791919378018156758_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFntxsYeePjHI807eQA7J07xMPQjaInHWbEw9CNoicdZr8VUlJm-ygUMrYKx1OCQhm3q8yXRqccHco34UCj_nVX&_nc_ohc=-Ox_mgtPfsIQ7kNvwGVhGH9&_nc_oc=AdlsGikt1LFYa0byCYPxCeLqll-SI7oQXMtP_0ceC8mWABTdLqHgxHBClIy6dj9iTVQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEf_iG9wACuNJ7j9OPgou0GcarglSJHlpNPp8N9VWOPg-vVPy0CiSWrJbIKs_0mpgIdqTprqKnJGw&oh=00_Afg6AJk2m28cbbYB4UKt-LLtsEi8133kcj9eP8hI_mttqQ&oe=691B6B13",
                     "width": 720
                   }
                 },
@@ -725,7 +725,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/543404320_795926063087206_7394526864115370914_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeETLYkZWJKyuJizrCijnMzCKsTjB4-hgg0qxOMHj6GCDYc9PY65cHsO373YIEcKzDl6VVopuGCjKcsKFS78eNMX&_nc_ohc=zApBofQIdpcQ7kNvwF4JWcr&_nc_oc=Adn-A7oQJqG4vjVnebJ6MMHXAebIy559G2dB1-yUzFCrbqX8Sq5FgViIZHsh9m9FAiY&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEMPOTm4B5D8rllUCZtTTXn0q16SduLEnA4n6Wn6Pw5k_CYcynYTRMfjH1b55wpbe8zTx6BP06ozQ&oh=00_AfhhdKh873POt9UywSTHc9cfoUMU7u9XORw0AfxgWN3w4g&oe=691B8891",
+                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/543404320_795926063087206_7394526864115370914_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeETLYkZWJKyuJizrCijnMzCKsTjB4-hgg0qxOMHj6GCDYc9PY65cHsO373YIEcKzDl6VVopuGCjKcsKFS78eNMX&_nc_ohc=zApBofQIdpcQ7kNvwHqhi-W&_nc_oc=AdlPHFrhQsYOohb244aua38Pad0mhKSorP6Q3WUo7H9uIwRZyzXiJPo5O4j1-6ZLAxY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQErCwJiTZvj-3xiy1YP-F1iLOHPaP9EyJZTYmL0CCXKP0Sdp660wYRzNTEFdUfeB33pn-vO4hthyA&oh=00_AfgTyqIlFN9UucaesU5EPybQD0uL5zK-Gm15-LsW0C7SLQ&oe=691B8891",
                     "width": 720
                   }
                 },
@@ -767,7 +767,7 @@
   {
     "message": "🌍👷‍♀️👷‍♂️ La minería del futuro se construye con el trabajo y la dedicación de su gente.\nEste 5 de septiembre realizamos un evento especial en honor al Día del Trabajador Minero Ecuatoriano, que se celebra oficialmente el 7 de septiembre.\n🙌 Gracias a Datamine  por unirse a este reconocimiento.\n\n📲 Conéctate a la transmisión en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-04T17:00:47+0000",
-    "full_picture": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHmhLv20cXnxM_rp9dsYCiP58YwmUHFb6bnxjCZQcVvpu_Sc0si2gizy0s2pdd_307VsOWOsDjzRFCOXJUaR7R7&_nc_ohc=6xIfGjxX-YkQ7kNvwHMUbzp&_nc_oc=AdliLIbBBw8auxiTMwnPeKzZGHhHdvkAgZYJLqK9bsdFqCD-fE_kLZXIhG-yKbN9VRA&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGHz8PrWg2JRp0SHetecRnVDyJ3e99NcCoZ1MOAeiV9rgGTpOfTCeVo7tVCPintbT5bdpnf48RzZQ&oh=00_AfgxypXyK2VMhN8THYphazJUb6nQg8i2e7tZ2YA_ggDu1w&oe=691B78CE",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHmhLv20cXnxM_rp9dsYCiP58YwmUHFb6bnxjCZQcVvpu_Sc0si2gizy0s2pdd_307VsOWOsDjzRFCOXJUaR7R7&_nc_ohc=6xIfGjxX-YkQ7kNvwEdfcjs&_nc_oc=AdmPyMeTAvghyhtQbHR9uxdwLf_mXfj-Kyz4Sw0b6CDR7Sxd1uIOkgDyTH6cxSNOdLc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEiUK0-JKvE9KmkWBV6e61FesFdT6H20qK7fakblAcbzNtwTHtZxcohcNL26gf2UNzLVscUOWmCcg&oh=00_Afim2KB5Mhk3Lykb3UCjhN6rnuHM8SWI-XHzN02BEwRszw&oe=691B78CE",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/794262683253544",
     "attachments": {
       "data": [
@@ -785,7 +785,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHmhLv20cXnxM_rp9dsYCiP58YwmUHFb6bnxjCZQcVvpu_Sc0si2gizy0s2pdd_307VsOWOsDjzRFCOXJUaR7R7&_nc_ohc=6xIfGjxX-YkQ7kNvwHMUbzp&_nc_oc=AdliLIbBBw8auxiTMwnPeKzZGHhHdvkAgZYJLqK9bsdFqCD-fE_kLZXIhG-yKbN9VRA&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGCm24nAeIXpkuDCUluSOrsQWeaW6xahzBb76x_dRYODZay8Mf3wfP5YRVI5UGQFGsFj8Giy58C9Q&oh=00_Afh1vQ2N1G3yrX7s2QXrxnNuHJRV4ubFL2YqzgRGmCoCoA&oe=691B78CE",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/542757085_794235336589612_5214128081088276866_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHmhLv20cXnxM_rp9dsYCiP58YwmUHFb6bnxjCZQcVvpu_Sc0si2gizy0s2pdd_307VsOWOsDjzRFCOXJUaR7R7&_nc_ohc=6xIfGjxX-YkQ7kNvwEdfcjs&_nc_oc=AdmPyMeTAvghyhtQbHR9uxdwLf_mXfj-Kyz4Sw0b6CDR7Sxd1uIOkgDyTH6cxSNOdLc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEKPkmWiY741EYspV3_NOMIaNxsuNf6Q3upKtaub0R-u-n5YOp6fNgfwYJMb-F5d3NR_ZxNLSKaMw&oh=00_Afhof0fcmIjOCa0OPxRfSmQe8ZJU9pZKWx-rRQNN3u0GWw&oe=691B78CE",
               "width": 719
             }
           },
@@ -803,7 +803,7 @@
   {
     "message": "⚒️💛 El corazón de la minería late gracias al esfuerzo incansable de sus trabajadores.\nEste 5 de septiembre rendimos homenaje en el marco del Día del Trabajador Minero Ecuatoriano, conmemorado oficialmente el 7 de septiembre.\n🙌 Agradecemos a Solaris Resources Inc. por apoyar esta celebración.\n\n📲 Síguelo en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-04T16:07:02+0000",
-    "full_picture": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFIj3liSv9PTOTVLTYRfImLWaN-etL7wMpZo3560vvAyoNx38yVjI_ZJoiagLqGxemJoGI8pMYbWW1eIQ8Yp6t4&_nc_ohc=03ScJH604bYQ7kNvwFKPCnt&_nc_oc=Admcq1K3YAuKe_mwcG3CAv2XF3OQUh7WXVg4wABEjMSchP8P_79doow6krVO_-Cu6UA&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQF1f9T6JrlLfQhHClzRoFMnjGSQeEZm29gaESwO-fRh9OVJBYkB8FK40FsRRyAs3Gnc_hg_7rCTug&oh=00_Afj2TxqS2kPdsbbW8H_RmuFOq_aFtYq2rrekX8c0h87Pcw&oe=691B7F35",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFIj3liSv9PTOTVLTYRfImLWaN-etL7wMpZo3560vvAyoNx38yVjI_ZJoiagLqGxemJoGI8pMYbWW1eIQ8Yp6t4&_nc_ohc=03ScJH604bYQ7kNvwH4fJBf&_nc_oc=AdnL0TUGY5n8EHQdknQ6RbMWDYM5zW4oTsgWKyZyesqPFfoPyJ_yi0UGqhaXX9SHFW4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHo92q2r1NV4kOu2MbgMlQEtfz-ZDNDa4CPue4AD8RPyAsyCFNrSxTYJgD69BB6CmsHfQypkWi5Gg&oh=00_AfjffG-A7rusl1tEy8gSlDEiQ6tGihvv00wTg86ONT6Ctw&oe=691B7F35",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/794228459923633",
     "attachments": {
       "data": [
@@ -821,7 +821,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFIj3liSv9PTOTVLTYRfImLWaN-etL7wMpZo3560vvAyoNx38yVjI_ZJoiagLqGxemJoGI8pMYbWW1eIQ8Yp6t4&_nc_ohc=03ScJH604bYQ7kNvwFKPCnt&_nc_oc=Admcq1K3YAuKe_mwcG3CAv2XF3OQUh7WXVg4wABEjMSchP8P_79doow6krVO_-Cu6UA&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFowec9u2pe_CE_cNOE7l9bJuKE_3XPiiZKm02neh_nEIVtk0iWf2NwHipHbuXS0Q1UYihL1yczBQ&oh=00_AfgHtYbwlx5HH6dlKNG_mNBJ5HhuIxbGOOkOs6S3rfta4Q&oe=691B7F35",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540728164_794225276590618_6493631631933619916_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFIj3liSv9PTOTVLTYRfImLWaN-etL7wMpZo3560vvAyoNx38yVjI_ZJoiagLqGxemJoGI8pMYbWW1eIQ8Yp6t4&_nc_ohc=03ScJH604bYQ7kNvwH4fJBf&_nc_oc=AdnL0TUGY5n8EHQdknQ6RbMWDYM5zW4oTsgWKyZyesqPFfoPyJ_yi0UGqhaXX9SHFW4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQElrmmgkfa2K-sPatnPC8bQG9gxXEvHr1_7N0TjjBpycV3MqzOFG9n8YRRvIvnM578cCEBia0QBKw&oh=00_AfgNkJ6sjR4UaeLhokITqdghhpj2GxrJfVxieD4Brl4F6g&oe=691B7F35",
               "width": 719
             }
           },
@@ -839,7 +839,7 @@
   {
     "message": "🌟👷‍♀️👷‍♂️ La minería responsable tiene como pilar la entrega y compromiso de sus trabajadores.\nEste 5 de septiembre conmemoramos juntos el Día del Trabajador Minero Ecuatoriano, que se celebra oficialmente el 7 de septiembre.\n🤝 Gracias a 𝐒𝐀𝐋𝐀𝐙𝐀𝐑 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 𝐋𝐓𝐃. por respaldar este homenaje.\n\n📲 Conéctate y vive la transmisión en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-04T15:41:16+0000",
-    "full_picture": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFflqOUHdVL7YNakHdjxAf-bWVJ5n629RNtZUnmfrb1E3jBAH-NPapkRZNEKhvyhhaEebiX-llzqoWeaTdIW2Qu&_nc_ohc=2dDe9X73kycQ7kNvwHlC8xB&_nc_oc=AdlikM6TZph6_LWwlK7eaMKEtu_gdsq8LVTfKFEem0hI2njR0jdlrp4qlCHmmWCkEag&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQF9rBFfJZAD751LYRLL_RVWwM94da9SXNXOas8HZSUiUN9-DySXphO4wUU81X0qcRv3kIRIz7JrEA&oh=00_AfgOaN1q8_SvFXFLwt8nt8RNKC7RO4mkecC1TeLEIloTWA&oe=691B86A2",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFflqOUHdVL7YNakHdjxAf-bWVJ5n629RNtZUnmfrb1E3jBAH-NPapkRZNEKhvyhhaEebiX-llzqoWeaTdIW2Qu&_nc_ohc=2dDe9X73kycQ7kNvwES5hTi&_nc_oc=AdlJ1NmQsuYk1I8v2P1qfTAgHPF4Mp_9EmHTvbMNdevwsmTt9ue91BmilerFZlQ-dPA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEFC4VS8_QYRvvziGp-C9l7GR72WTGdQ71RMK2J-AC-hjKYuKGyMpMJDUHkLemG13_tXvurC8e2cg&oh=00_AfhTK484qi3Aa7BK4C16w4XL0HjhO2cLrC8lJ0WWIyaYqQ&oe=691B86A2",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/794210863258726",
     "attachments": {
       "data": [
@@ -848,7 +848,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFflqOUHdVL7YNakHdjxAf-bWVJ5n629RNtZUnmfrb1E3jBAH-NPapkRZNEKhvyhhaEebiX-llzqoWeaTdIW2Qu&_nc_ohc=2dDe9X73kycQ7kNvwHlC8xB&_nc_oc=AdlikM6TZph6_LWwlK7eaMKEtu_gdsq8LVTfKFEem0hI2njR0jdlrp4qlCHmmWCkEag&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQG8kBTlTH40QHWtZ6lGpb2yYNAvwlYXb9mQtQoU-Nw6pP0PRyxtciVKiFXwRTXf9sVwylM2s_BRVQ&oh=00_AfgkyAbcfoXoJAQDYASoh4JSJwEFz_Q_cS58O46wSWiTbA&oe=691B86A2",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/541789032_794210296592116_6243779319921854287_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFflqOUHdVL7YNakHdjxAf-bWVJ5n629RNtZUnmfrb1E3jBAH-NPapkRZNEKhvyhhaEebiX-llzqoWeaTdIW2Qu&_nc_ohc=2dDe9X73kycQ7kNvwES5hTi&_nc_oc=AdlJ1NmQsuYk1I8v2P1qfTAgHPF4Mp_9EmHTvbMNdevwsmTt9ue91BmilerFZlQ-dPA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQF40lyYT1IW8QhU15WUrucnQePfCmHc3N6ltRg3Y271h6epIz6ICnCLXHVBEbIhVtV1gcAYEraJRQ&oh=00_AfhKpMlIS9vNVJyw5_odhkJ6_pLgshnkaIXcljs8C9mvwQ&oe=691B86A2",
               "width": 719
             }
           },
@@ -866,7 +866,7 @@
   {
     "message": "👷‍♀️👷‍♂️ La grandeza de la minería ecuatoriana está en el esfuerzo de sus trabajadores.\nEste 5 de septiembre celebramos un evento especial en homenaje al Día del Trabajador Minero Ecuatoriano, instituido oficialmente el 7 de septiembre.\n🙌 Nuestro agradecimiento a Tecnovoladuras S.A por sumarse a este reconocimiento.\n\n📲 Vive esta conmemoración en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-03T19:44:01+0000",
-    "full_picture": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHPvRZjgAkBhg80RXUO6TUkFKu1rdLn0-oUq7Wt0ufT6uqQ81Kpbao3r4V2YgLiqp7y6PjN5-YpfEJTvJ-321mJ&_nc_ohc=6XcncXoPESAQ7kNvwHlEqTZ&_nc_oc=AdkcJ8VTZ-el-5PbDk_Ocep8Mtj1Q_NbOnenxRVfV22XFIDB3pyZSPss1eEBwhwPTF0&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQH7kgiylawO4whH2-ERV0VGasM7LpoEG5QggPvJzt2FhgcgdmofWTSXOeouEvqXJ6Q7FTTSM9Zcmg&oh=00_AfhibmBynskTZa2yGjlIKakaCumeCP2PKIwantbY3KFyiQ&oe=691B5F81",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHPvRZjgAkBhg80RXUO6TUkFKu1rdLn0-oUq7Wt0ufT6uqQ81Kpbao3r4V2YgLiqp7y6PjN5-YpfEJTvJ-321mJ&_nc_ohc=6XcncXoPESAQ7kNvwFGpRPC&_nc_oc=AdkXRbdJjmHuKvt-D9EcpqJn4nI9f8YCBF_HBXMXFrmdcES49-TBu3etp6ZvT749Lts&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQEMN6H8br7oo1_SOSDoJXIxku-akcg4KgpuAJGQAntyyVVMJ4tHZkqCMDxSu4fLl8zAtrzRwBdw1A&oh=00_AfiZDbb9LpxmGQznlbcfBlUJ2ryj5rlpNuTpSMUGsmyKDQ&oe=691B97C1",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793577683322044",
     "attachments": {
       "data": [
@@ -884,7 +884,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHPvRZjgAkBhg80RXUO6TUkFKu1rdLn0-oUq7Wt0ufT6uqQ81Kpbao3r4V2YgLiqp7y6PjN5-YpfEJTvJ-321mJ&_nc_ohc=6XcncXoPESAQ7kNvwHlEqTZ&_nc_oc=AdkcJ8VTZ-el-5PbDk_Ocep8Mtj1Q_NbOnenxRVfV22XFIDB3pyZSPss1eEBwhwPTF0&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGc9jT_JkbOpQ9fIM3XwmDPnHwG6knxyYkzqAK6It-mOtQqVrDoB579Ehfq3T3wfn7nlWRU2DlQIQ&oh=00_AfiC7LFFVXTWdzeZHQY1qj1R9Rn9fA7tmDESv3VobM9iWQ&oe=691B5F81",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/541339484_793577303322082_1377615156988637909_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHPvRZjgAkBhg80RXUO6TUkFKu1rdLn0-oUq7Wt0ufT6uqQ81Kpbao3r4V2YgLiqp7y6PjN5-YpfEJTvJ-321mJ&_nc_ohc=6XcncXoPESAQ7kNvwFGpRPC&_nc_oc=AdkXRbdJjmHuKvt-D9EcpqJn4nI9f8YCBF_HBXMXFrmdcES49-TBu3etp6ZvT749Lts&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHcp4zVtua0_gydG0tW-B_pNjF1QXN1kFF6BcA4t-xXBwciYlJuBmaggBqSGrBEVoxlaJfLpnCL1w&oh=00_Afi9rbmyqyfUacqZlAduzjkXPU7lATLDv_iIZQe0uOHebQ&oe=691B97C1",
               "width": 719
             }
           },
@@ -901,7 +901,7 @@
   },
   {
     "created_time": "2025-09-03T18:16:05+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwGDaYh_&_nc_oc=AdkVHQnvY9MB01JyfFrY1nmj3PvU471iPo7ejHApgQNfWPFnQ0iKDzNCZGAIeassShs&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHtgp7tQUjsPWmlmXo6iivB3lHQ6LqtuHmPcrmQ6_1rQv67DHkZfp83Dk9u_XajxhIjiaPE-e37Gw&oh=00_Afgrx9FvmON8ie7WsI0FEhuJK9DJcXdTwwE0XAaAB_GTdg&oe=691B853D",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwHCyzdp&_nc_oc=Adklsx8NdKEV-DGRkaS9SRxuoZP0O8t1PjbPxglDUOFbQxBQcISfvTv3snZgzMC_JJk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGv2k0ZFMIIh92sjXou2FzJE06-fgjwoenDyzzmtuYb8jUVc153IliYGtxxlB4nuKccbUz-TX94GA&oh=00_Afh-_2CljO6y0Qm81NR9TniCmLh3Df06Uv8n9GFVCMi8TQ&oe=691B853D",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793532893326523",
     "attachments": {
       "data": [
@@ -910,7 +910,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwGDaYh_&_nc_oc=AdkVHQnvY9MB01JyfFrY1nmj3PvU471iPo7ejHApgQNfWPFnQ0iKDzNCZGAIeassShs&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQH_NU-3Vwm9U16ivWaX8SxFmpPeXMhz39bN-lz5mYGUPEgip5E3NYXK4zy7i9kjNt9ErK5D2qj8rg&oh=00_Afj3kNqjGKYCAehz77XkVn__YBGbsVUVdpwI9JkuSDr2Uw&oe=691B853D",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwHCyzdp&_nc_oc=Adklsx8NdKEV-DGRkaS9SRxuoZP0O8t1PjbPxglDUOFbQxBQcISfvTv3snZgzMC_JJk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQF1h9UhIDnQ8hfOhcOVR4NJ7z-o5L1Nyhw3SrRA7zosSmaRh69uROcx2eWXC1j8sVWvqGJ9y390WA&oh=00_Afgf-JsFlxOMj-Zzmzwxh4GeUAH65_5jnBJd-uHtYTHOpA&oe=691B853D",
               "width": 720
             }
           },
@@ -928,7 +928,7 @@
   {
     "message": "⛏️✨ Un Solo Corazón Minero ✨⛏️\nEl 7 de septiembre celebramos el Día del Trabajador Minero Ecuatoriano, fecha establecida por el Acuerdo Ministerial Nro. MERNNR-MERNNR-2021-0016-AM como un reconocimiento al esfuerzo, compromiso y valentía de quienes impulsan el desarrollo del país.\n\nEste 5 de septiembre de 2025, en el Hotel Holiday Inn de Quito, la Asociación de Ingenieros de Minas del Ecuador – AIME llevará a cabo el Evento Conmemorativo, rindiendo homenaje a todos los trabajadores que con pasión y entrega construyen una minería responsable y sostenible.\n\n💛 Porque en cada mina, en cada proyecto y en cada trabajador…\n¡Nos une un mismo latido: Un Solo Corazón Minero!\n\n#DíaDelTrabajadorMinero #UnSoloCorazónMinero #AIME",
     "created_time": "2025-09-03T18:14:09+0000",
-    "full_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwGDaYh_&_nc_oc=AdkVHQnvY9MB01JyfFrY1nmj3PvU471iPo7ejHApgQNfWPFnQ0iKDzNCZGAIeassShs&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHtgp7tQUjsPWmlmXo6iivB3lHQ6LqtuHmPcrmQ6_1rQv67DHkZfp83Dk9u_XajxhIjiaPE-e37Gw&oh=00_Afgrx9FvmON8ie7WsI0FEhuJK9DJcXdTwwE0XAaAB_GTdg&oe=691B853D",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwHCyzdp&_nc_oc=Adklsx8NdKEV-DGRkaS9SRxuoZP0O8t1PjbPxglDUOFbQxBQcISfvTv3snZgzMC_JJk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGv2k0ZFMIIh92sjXou2FzJE06-fgjwoenDyzzmtuYb8jUVc153IliYGtxxlB4nuKccbUz-TX94GA&oh=00_Afh-_2CljO6y0Qm81NR9TniCmLh3Df06Uv8n9GFVCMi8TQ&oe=691B853D",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793531859993293",
     "attachments": {
       "data": [
@@ -937,7 +937,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwGDaYh_&_nc_oc=AdkVHQnvY9MB01JyfFrY1nmj3PvU471iPo7ejHApgQNfWPFnQ0iKDzNCZGAIeassShs&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQH_NU-3Vwm9U16ivWaX8SxFmpPeXMhz39bN-lz5mYGUPEgip5E3NYXK4zy7i9kjNt9ErK5D2qj8rg&oh=00_Afj3kNqjGKYCAehz77XkVn__YBGbsVUVdpwI9JkuSDr2Uw&oe=691B853D",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540758931_793523403327472_1181778850318053291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF5bChG01HKsCnmyctfHdv74-Fm7lzobbbj4WbuXOhttk5F3VM_0i1MFpNytZ9RhufiEk7nAu2cW-X8rXnBPtdp&_nc_ohc=QFaTH0CwPTgQ7kNvwHCyzdp&_nc_oc=Adklsx8NdKEV-DGRkaS9SRxuoZP0O8t1PjbPxglDUOFbQxBQcISfvTv3snZgzMC_JJk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQF1h9UhIDnQ8hfOhcOVR4NJ7z-o5L1Nyhw3SrRA7zosSmaRh69uROcx2eWXC1j8sVWvqGJ9y390WA&oh=00_Afgf-JsFlxOMj-Zzmzwxh4GeUAH65_5jnBJd-uHtYTHOpA&oe=691B853D",
               "width": 720
             }
           },
@@ -955,7 +955,7 @@
   {
     "message": "🌍👷‍♀️👷‍♂️ El verdadero valor de la minería está en su gente.\nEste 5 de septiembre rendimos homenaje a quienes con esfuerzo y dedicación construyen el futuro del país en el marco del Día del Trabajador Minero Ecuatoriano, conmemorado oficialmente el 7 de septiembre.\n💛 Gracias a Dundee Precious Metals Ecuador por apoyar este reconocimiento.\n\n📲 Acompáñanos y sigue la transmisión en vivo por Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-03T15:30:23+0000",
-    "full_picture": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF8Qkyyc3nXuYqsWawxxErYOOnZWcwwtcY46dlZzDC1xrB3OfN1R46e55K_WkZpz2KfPvN4WHnkelxf5Ky5cESN&_nc_ohc=wZCLkR_7GSUQ7kNvwHQsAwi&_nc_oc=AdkCftgiojCBavXRoTWrjn6XqTe5jn1h3oMxM-qlaG0zlbsZ-ayEMq5Ob0wHKxYfL74&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQEFwie_xnx7fdCjy6MRqlMzIsuskbSMjOvMTgnwyOMJeYKCLCs61gKpzNsVx6__aTH8cY1Or9hSLQ&oh=00_Afhqg8F4OtZcV3YU7GYQ8jYMKo-mcn8p410AdqOT-G7_aw&oe=691B7268",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF8Qkyyc3nXuYqsWawxxErYOOnZWcwwtcY46dlZzDC1xrB3OfN1R46e55K_WkZpz2KfPvN4WHnkelxf5Ky5cESN&_nc_ohc=wZCLkR_7GSUQ7kNvwF5iiBx&_nc_oc=AdkxvRt6yzY00_CJDo3A6uEFch80WbGBYnHGgkYMLzAMWKUiAdqxWL-9YvERfMHpsdY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFnllVFsxK6fAk98Dhtlbhu5w2cWYdOgSSzOM2AjzWeZFdAGXI36lF7sLkn6VbX1LaW5KshQPN1YA&oh=00_AfhwsSrBrQMxtjx4ZdG7wfIFfwRX0H8FKT_p2beyHccfgw&oe=691B7268",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/793433536669792",
     "attachments": {
       "data": [
@@ -973,7 +973,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF8Qkyyc3nXuYqsWawxxErYOOnZWcwwtcY46dlZzDC1xrB3OfN1R46e55K_WkZpz2KfPvN4WHnkelxf5Ky5cESN&_nc_ohc=wZCLkR_7GSUQ7kNvwHQsAwi&_nc_oc=AdkCftgiojCBavXRoTWrjn6XqTe5jn1h3oMxM-qlaG0zlbsZ-ayEMq5Ob0wHKxYfL74&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGe0M3UZDg9lbgIMwLDXRnsit_UQODlfFTkG9AXpUFBeY0d2v5Pl3BP_VlbDEEUO9U0OS6Nmbwu9w&oh=00_AfgOSsJGmPMR4qFUlns8cONm16JS7FDyXYOxFs6aTpjhwg&oe=691B7268",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540692742_793433250003154_4178644422208951750_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF8Qkyyc3nXuYqsWawxxErYOOnZWcwwtcY46dlZzDC1xrB3OfN1R46e55K_WkZpz2KfPvN4WHnkelxf5Ky5cESN&_nc_ohc=wZCLkR_7GSUQ7kNvwF5iiBx&_nc_oc=AdkxvRt6yzY00_CJDo3A6uEFch80WbGBYnHGgkYMLzAMWKUiAdqxWL-9YvERfMHpsdY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQHMeaXa7cwCXf8xI8_W5EUk6ZJTyPaFlAjyhSvXyYDr6Wiv5U-jtmyTx6S_40G_Pz3HkJRptbGmTQ&oh=00_AfhjDF_JKpouLqQBQdG2l6lqvpt5517Imq5ayYT4mxUj-g&oe=691B7268",
               "width": 719
             }
           },
@@ -991,7 +991,7 @@
   {
     "message": "✨👷‍♀️👷‍♂️ El motor de la minería responsable en Ecuador son sus trabajadores.\nEste 5 de septiembre realizaremos un evento especial en homenaje al Día del Trabajador Minero Ecuatoriano, que se conmemora oficialmente el 7 de septiembre.\n🤝 Agradecemos a Kluane Drilling LTD. por sumarse a este reconocimiento.\n\n📲 No te lo pierdas, conéctate en Facebook Live 👉 @aime_ecuador\n#UnSoloCorazónMinero",
     "created_time": "2025-09-02T21:04:02+0000",
-    "full_picture": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa2WwuxU-z-FQrEzcTrlYQH5TSj9YFpv8flNKP1gWm_xgg_h0qkGGFeX1MBPzQ0QbGaX3Nl8O4uQdawVmZ9BHE&_nc_ohc=w8T8dvC85n0Q7kNvwHifePC&_nc_oc=Admf5EGRQQaqjwztekQY-BGx90dKa5mc1tHbkv5Ti-jgEcSEh3iSMyj4nlwxZhg5fB0&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQF25p39qaheTLxQDGXcUwANFNr_6yA3jDprze_f16bt32_277n2L3CyOo_PDp1iQ29DNib4BaDHSA&oh=00_AfjXP0vGKE5UxwpenDWI_MrZ_MfI1GSC1rI-i6o2YAOzFw&oe=691B603F",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa2WwuxU-z-FQrEzcTrlYQH5TSj9YFpv8flNKP1gWm_xgg_h0qkGGFeX1MBPzQ0QbGaX3Nl8O4uQdawVmZ9BHE&_nc_ohc=w8T8dvC85n0Q7kNvwH88VCA&_nc_oc=AdmUFvNvVRpXnf8NQzvdN1tD5tRBCps_ErUrl06xWL49YTm69reiLs49vcEffARPv-Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGnl-4hAvO1iXhdVY51uu3ZtjESzynNeyFBEnmSs6E9RuJJDlHi3xJwR9FsEWK_Lh0ncLeCdenXrQ&oh=00_Afj1nt2D8_d6sKDhSYLUbrNdvOLiiU1ixXV5NPvmqz5VnA&oe=691B987F",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/792850496728096",
     "attachments": {
       "data": [
@@ -999,7 +999,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa2WwuxU-z-FQrEzcTrlYQH5TSj9YFpv8flNKP1gWm_xgg_h0qkGGFeX1MBPzQ0QbGaX3Nl8O4uQdawVmZ9BHE&_nc_ohc=w8T8dvC85n0Q7kNvwHifePC&_nc_oc=Admf5EGRQQaqjwztekQY-BGx90dKa5mc1tHbkv5Ti-jgEcSEh3iSMyj4nlwxZhg5fB0&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQHnEIyF3JgW18nLw9xMsWfEjabtTwh2gzw3FyOvLZ5RkJDko8pxteQ-4fi2-lH1MQy8rofhN_6AQQ&oh=00_AfhiVoAWOJzkgXKhKdpVOcYoMVMMvzklBbs0qrWA1M1vHQ&oe=691B603F",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/541342867_792857596727386_5502929274014581985_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHa2WwuxU-z-FQrEzcTrlYQH5TSj9YFpv8flNKP1gWm_xgg_h0qkGGFeX1MBPzQ0QbGaX3Nl8O4uQdawVmZ9BHE&_nc_ohc=w8T8dvC85n0Q7kNvwH88VCA&_nc_oc=AdmUFvNvVRpXnf8NQzvdN1tD5tRBCps_ErUrl06xWL49YTm69reiLs49vcEffARPv-Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQGiriI7LqfEOqO_7Va0Zc4VmwlOllyZhipBcoV9IUj7kn73mxvxdVPchcctd1qDmGoru3hLsNm-gQ&oh=00_AfjabHhjY9BXE8kxzRnIg-pLUUbT6McNo4PIJLGn9VSWKw&oe=691B987F",
               "width": 719
             }
           },
@@ -1017,7 +1017,7 @@
   {
     "message": "💛👷‍♀️👷‍♂️ La fuerza de la minería ecuatoriana está en sus trabajadores.\nEste 5 de septiembre celebramos un evento especial en honor al Día del Trabajador Minero Ecuatoriano, fecha instituida el 7 de septiembre.\n🙌 Gracias a SolGold Ecuador por hacerlo posible.\n\n📲 ¡Sigue la transmisión en vivo por Facebook Live en nuestra cuenta @aime_ecuador!\n#UnSoloCorazónMinero",
     "created_time": "2025-09-02T20:06:29+0000",
-    "full_picture": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG_ers-kuu-J7t5mx-x9s-22iROBwd7amfaJE4HB3tqZ83YhOhAHZ1X2CC-uFhersk-VM-4POBP8FvGwEstIjrl&_nc_ohc=xtDt9-OlDrYQ7kNvwE2XFl0&_nc_oc=AdmgfAVOlo-AOfMUq1e7fCoI2vrwj60f0M70dw86QJH6nxmJZN-XYAVFHIwr049hZVk&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGCTuRC2vMSov2oWSDfxxW0FKbxYqP0UZor1d7ps1_49hhn8UW1T84_7SFfDVMtpf130_xxsVzKUw&oh=00_Afhi9zuzVHFmNq9DMmiMi1317CoRL91-tByO0YKc_nrVTw&oe=691B81A8",
+    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG_ers-kuu-J7t5mx-x9s-22iROBwd7amfaJE4HB3tqZ83YhOhAHZ1X2CC-uFhersk-VM-4POBP8FvGwEstIjrl&_nc_ohc=xtDt9-OlDrYQ7kNvwEAXSLu&_nc_oc=AdlKkJz7YvGpj3ljemY_WsgXCQ_LlHb6qG_40Kr9qzKKVtvvDQW8DQvrZW91mvz-wEY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFG7ZJkF2aQS61nNB8BXHnh43z-Mz5uCfDJY93bkzgIHRGmOlJYTkuLnH9cV3_I9HrU2hvTPjSnwQ&oh=00_Afg6_cvwZd-cb-0X-lDZTq8AYxe9Wq2tkRDIvDAmD0XE7A&oe=691B81A8",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/792820013397811",
     "attachments": {
       "data": [
@@ -1035,7 +1035,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG_ers-kuu-J7t5mx-x9s-22iROBwd7amfaJE4HB3tqZ83YhOhAHZ1X2CC-uFhersk-VM-4POBP8FvGwEstIjrl&_nc_ohc=xtDt9-OlDrYQ7kNvwE2XFl0&_nc_oc=AdmgfAVOlo-AOfMUq1e7fCoI2vrwj60f0M70dw86QJH6nxmJZN-XYAVFHIwr049hZVk&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQGe0XECm6v31Pe6kSt_TE33jFpLDGf8jnwl8V1CDvE27u4oqSmABk2KYEJkuxnCDYWuqxC-bjwQug&oh=00_AfjgAutnLXpzXtMKkXms-Zz-KfV7jsyHNsyHCpyibY80TQ&oe=691B81A8",
+              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/541864596_792819876731158_3239053320217491615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG_ers-kuu-J7t5mx-x9s-22iROBwd7amfaJE4HB3tqZ83YhOhAHZ1X2CC-uFhersk-VM-4POBP8FvGwEstIjrl&_nc_ohc=xtDt9-OlDrYQ7kNvwEAXSLu&_nc_oc=AdlKkJz7YvGpj3ljemY_WsgXCQ_LlHb6qG_40Kr9qzKKVtvvDQW8DQvrZW91mvz-wEY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQE_TqMsXWuCP_yqsEOTUOHuvMD2HieVeIkc201ok77NXvzW1atbXsb49OMT0z3YzsIhTq0SAEPJxg&oh=00_AfiULHJXIhNAjaicI3ndcrmC8S1QJ03IJCZnN4ZL2OoELw&oe=691B81A8",
               "width": 719
             }
           },
@@ -1052,7 +1052,7 @@
   },
   {
     "created_time": "2025-09-01T17:47:27+0000",
-    "full_picture": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?stp=dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE0QIf7lVRbS1htKQou7fVBC6T_c23W2FMLpP9zbdbYU772VS6dCeB0EK6GhXQEiECvi__Bsxc1KTImj71PAfC-&_nc_ohc=_k7DLssSI2oQ7kNvwEsHmp7&_nc_oc=AdlaEBNh7eRRgfw3IIo5AVXZniMKtsZpXMgnBkSIAr7QQqzBzQqrTtag4gcH7l8OvHk&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQE1tapHa_1u6cJsZxLsmEPjCjkTssTsxH9psT6j2Kz_a5V0-pXuF1pNkhF2XYm9-M4k648HG0pPpg&oh=00_AfjlB7aW4kKspdwMkXh-72-pokfNAzXYGgBw9oSNrGb70Q&oe=691B5D95",
+    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?stp=dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE0QIf7lVRbS1htKQou7fVBC6T_c23W2FMLpP9zbdbYU772VS6dCeB0EK6GhXQEiECvi__Bsxc1KTImj71PAfC-&_nc_ohc=_k7DLssSI2oQ7kNvwHv_-Er&_nc_oc=Adn8jiMLVmJhai9hXp4MYeBm2doZdOJQyie2rSdvhO_MtrTesCg_Ekpf6tK2RvmKb30&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQFhyJlGF4842ZFO50FLvnLRsfyaU4xPStEGpZiOrVnea0--LoiwztJ78K5EbNzmDq7e-bgmgQpPNw&oh=00_Afg1WxaY6MA86qeuUvfyVucYpqYfv1-6rkbpOmLzZEaTbg&oe=691B95D5",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/791989823480830",
     "attachments": {
       "data": [
@@ -1060,7 +1060,7 @@
           "media": {
             "image": {
               "height": 400,
-              "src": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?stp=dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE0QIf7lVRbS1htKQou7fVBC6T_c23W2FMLpP9zbdbYU772VS6dCeB0EK6GhXQEiECvi__Bsxc1KTImj71PAfC-&_nc_ohc=_k7DLssSI2oQ7kNvwEsHmp7&_nc_oc=AdlaEBNh7eRRgfw3IIo5AVXZniMKtsZpXMgnBkSIAr7QQqzBzQqrTtag4gcH7l8OvHk&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&edm=AKIiGfEEAAAA&_nc_gid=ddtla5iTdZPAfL3pBjrzGg&_nc_tpa=Q5bMBQFANYHWl2Yepa10iDqRKAIetKWypLDUXOCpNtyAYrzLJOx0ADEa3dQNIQR4MexZmPOrLZt3S-81Gg&oh=00_AfhSaRhoY3KcPw4no4JhD0XwoLbA0EsY2xFEnZ_OWB6XLw&oe=691B5D95",
+              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/540696983_791253970221082_8268064740494940508_n.png?stp=dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeE0QIf7lVRbS1htKQou7fVBC6T_c23W2FMLpP9zbdbYU772VS6dCeB0EK6GhXQEiECvi__Bsxc1KTImj71PAfC-&_nc_ohc=_k7DLssSI2oQ7kNvwHv_-Er&_nc_oc=Adn8jiMLVmJhai9hXp4MYeBm2doZdOJQyie2rSdvhO_MtrTesCg_Ekpf6tK2RvmKb30&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=stTKECqovgI4YUez6mtCPw&_nc_tpa=Q5bMBQH5EP4c96p9mhGEu0o2dhrfw5uNnUwm7HHHMSBK6RcP1qiHnWat7PP2LZsV5O36IwBfmgo7XqOHqg&oh=00_AfhVamkd824rL9UvJ3D1IKD6X1R7joQpYdVD1yogmfAkLg&oe=691B95D5",
               "width": 1082
             }
           },
