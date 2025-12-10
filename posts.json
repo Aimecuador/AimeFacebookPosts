@@ -1,7 +1,7 @@
 [
   {
     "created_time": "2025-12-10T01:41:42+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwFeFYKL&_nc_oc=Adkuz4hriT124Y7rE4vtsNw1whZUaZxo5YvWeboXrwf2AYWzxgLSD7zBUOVLqjvdlDM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGc0zgC7hcwsFAtZ-nPlISoIcFdmmYaeOCKozWnNvFRFnsZbb5ZdfR8e65WPaSsDa6uqo3u7ArD3A&oh=00_Afmpv7BQLlQHBnDQBCGgnWF5tQM3z85w4mGoh1-Uhd8v0w&oe=693F2713",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwGpmXHj&_nc_oc=AdmGtFmWvMVEEs6ZrbmfD04Z44yfBLG1Dp6rxUe_pLA6r_2l-bIMJtq3zYoOj8jbRf8&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHBpVLlSIyH3yEOnCNDXr-Phni5gmGDhdYpknIlrTslQ447HaCy6N4RvERSTIT_kjy6kneRNOL6pQ&oh=00_Afk8Vzx9y3EM1fsnaDFnNx7z0UPSypLj0_01DMqFGOkO9Q&oe=693F2713",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/875446001801878",
     "attachments": {
       "data": [
@@ -10,7 +10,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwFeFYKL&_nc_oc=Adkuz4hriT124Y7rE4vtsNw1whZUaZxo5YvWeboXrwf2AYWzxgLSD7zBUOVLqjvdlDM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFt3u1NT4k3zr3Vt7nwLQ_pXAxx9FkKtlalbm3M3wrtJpwEgzrSw4JipbW2fGhms1WvZJG0oCgorw&oh=00_AfkMSIb6bZvYE2gBd6DoPnbKeHyYuScBkf0A_Ti7Dgy57A&oe=693F2713",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwGpmXHj&_nc_oc=AdmGtFmWvMVEEs6ZrbmfD04Z44yfBLG1Dp6rxUe_pLA6r_2l-bIMJtq3zYoOj8jbRf8&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQG-6Yemz5UybjugZN43iKAyQCwqJF8OP4WPcNUcyBpCaDDJgLvRGUMJNI1mUqL7RLb-SgSuz4uwQg&oh=00_Afmqp81-zViE9lrR6TYJqdnWg7NZLsntlT0G1s_CG_7F9Q&oe=693F2713",
               "width": 720
             }
           },
@@ -28,7 +28,7 @@
   {
     "message": "🔶 Foro Minería 360°\nUn espacio donde expertos, instituciones y empresas líderes se unen para dialogar sobre el presente y futuro de la minería responsable en Ecuador. 🌱⛏️\nSé parte de esta jornada de innovación, sostenibilidad y conocimiento.\n\n📅 Organiza: AIME – Asociación de Ingenieros de Minas del Ecuador\n📞 Información: +593 96 820 4060\n🔗 Regístrate aquí: https://forms.gle/iXtSkrUUKFMM1Gcf6\n🌍 www.aimecuador.org",
     "created_time": "2025-12-10T01:41:18+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwFeFYKL&_nc_oc=Adkuz4hriT124Y7rE4vtsNw1whZUaZxo5YvWeboXrwf2AYWzxgLSD7zBUOVLqjvdlDM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGc0zgC7hcwsFAtZ-nPlISoIcFdmmYaeOCKozWnNvFRFnsZbb5ZdfR8e65WPaSsDa6uqo3u7ArD3A&oh=00_Afmpv7BQLlQHBnDQBCGgnWF5tQM3z85w4mGoh1-Uhd8v0w&oe=693F2713",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwGpmXHj&_nc_oc=AdmGtFmWvMVEEs6ZrbmfD04Z44yfBLG1Dp6rxUe_pLA6r_2l-bIMJtq3zYoOj8jbRf8&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHBpVLlSIyH3yEOnCNDXr-Phni5gmGDhdYpknIlrTslQ447HaCy6N4RvERSTIT_kjy6kneRNOL6pQ&oh=00_Afk8Vzx9y3EM1fsnaDFnNx7z0UPSypLj0_01DMqFGOkO9Q&oe=693F2713",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/875445775135234",
     "attachments": {
       "data": [
@@ -37,7 +37,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwFeFYKL&_nc_oc=Adkuz4hriT124Y7rE4vtsNw1whZUaZxo5YvWeboXrwf2AYWzxgLSD7zBUOVLqjvdlDM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFt3u1NT4k3zr3Vt7nwLQ_pXAxx9FkKtlalbm3M3wrtJpwEgzrSw4JipbW2fGhms1WvZJG0oCgorw&oh=00_AfkMSIb6bZvYE2gBd6DoPnbKeHyYuScBkf0A_Ti7Dgy57A&oe=693F2713",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/596786392_875445025135309_8508033657183568428_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSHtIMn5aZiB8nZfxtpCOuoCzL7zohGFKgLMvvOiEYUjLgc2ys9m3ECehMywwQOtcB6PNNg7jS0M3-IjoJ9y3D&_nc_ohc=w5gXKg2cMaEQ7kNvwGpmXHj&_nc_oc=AdmGtFmWvMVEEs6ZrbmfD04Z44yfBLG1Dp6rxUe_pLA6r_2l-bIMJtq3zYoOj8jbRf8&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQG-6Yemz5UybjugZN43iKAyQCwqJF8OP4WPcNUcyBpCaDDJgLvRGUMJNI1mUqL7RLb-SgSuz4uwQg&oh=00_Afmqp81-zViE9lrR6TYJqdnWg7NZLsntlT0G1s_CG_7F9Q&oe=693F2713",
               "width": 720
             }
           },
@@ -55,7 +55,7 @@
   {
     "message": "Foro Minería 360° | 10–11 de diciembre 2025 | 18h00–20h00\nSé parte del evento que reúne tecnología, innovación y sostenibilidad para el futuro del sector minero.\n\n📲 Regístrate escaneando el código QR y participa en el sorteo de un cupo para el PIIMU 2026.\n🎓 Además, recibe tu certificado de participación.\n\n🔴 Transmisión en vivo por Facebook Live\n¡No te lo pierdas!",
     "created_time": "2025-12-08T16:05:12+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596812561_874399445239867_3539140966045703541_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5HGUBEervIwiCTglXtFrg1SVviaqurpDVJW-Jqq6ukCnj_fmF-b2FVLAmT2qRPCnPiroY-zxGiNEzoE2UvpPw&_nc_ohc=zF1GOfl15Q4Q7kNvwG35zlL&_nc_oc=Adl8YEEKjlZdETRCnyJiNXXu_0lvl8FmdL0TcQ7Mp0YPABf_f5oPNwn8lX6Qt2ad6Bo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHfS5iWxOGSwIkFejSiLHQ05qPIBvQICsfY2xx25g48HDo6A0ujexB3mpzof9zHpehivchKEdkxpw&oh=00_Afl9w_oVMkAMw5fKR18Jl08J8767E2Ytc81cy76qOwpZ2A&oe=693F28BF",
+    "full_picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/596812561_874399445239867_3539140966045703541_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5HGUBEervIwiCTglXtFrg1SVviaqurpDVJW-Jqq6ukCnj_fmF-b2FVLAmT2qRPCnPiroY-zxGiNEzoE2UvpPw&_nc_ohc=zF1GOfl15Q4Q7kNvwFOq76D&_nc_oc=Adl4E3kiDm9MOsLkkU1jpN49KGKVAZjqwOrvHJp_rOqLSUBjLculTcTuVv_zJp9SWBk&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHEy-dRqv-YfmbV4DaVr8Oxx-xJiPo_XWItGfoD_RHQtesWBbVNhFvN95MYHsVuPqgkiCiGaUTOGQ&oh=00_Afkeo_AK7HxxdTKZV6BMCQ3LcJvespVQKaXCmlm-JqyXcA&oe=693F28BF",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/874399545239857",
     "attachments": {
       "data": [
@@ -64,7 +64,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596812561_874399445239867_3539140966045703541_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5HGUBEervIwiCTglXtFrg1SVviaqurpDVJW-Jqq6ukCnj_fmF-b2FVLAmT2qRPCnPiroY-zxGiNEzoE2UvpPw&_nc_ohc=zF1GOfl15Q4Q7kNvwG35zlL&_nc_oc=Adl8YEEKjlZdETRCnyJiNXXu_0lvl8FmdL0TcQ7Mp0YPABf_f5oPNwn8lX6Qt2ad6Bo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHUbCMMlxdrUsVY1RWnNFa6ZM7kBYMSYYkJ0_w4rmWgMrT1z0jTtcVIzsHUyAAPZgcWBp_i-6sK5Q&oh=00_Afl56zgsloWoRx-q3Azebs2bZ1fOD8f6t2gh5xunhRDRNQ&oe=693F28BF",
+              "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/596812561_874399445239867_3539140966045703541_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5HGUBEervIwiCTglXtFrg1SVviaqurpDVJW-Jqq6ukCnj_fmF-b2FVLAmT2qRPCnPiroY-zxGiNEzoE2UvpPw&_nc_ohc=zF1GOfl15Q4Q7kNvwFOq76D&_nc_oc=Adl4E3kiDm9MOsLkkU1jpN49KGKVAZjqwOrvHJp_rOqLSUBjLculTcTuVv_zJp9SWBk&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGJQbcOmfgtj5juARZrQqQEj8ovdPqDM0m5YZ9mWgqOm9EehZI003ye9pqoSVeVL3PyHkPiv7K0_A&oh=00_AflOHwnoAUS96gSD6j70CKfDZJfYIJSTath5-u5WCCwjsg&oe=693F28BF",
               "width": 720
             }
           },
@@ -81,16 +81,16 @@
   },
   {
     "created_time": "2025-12-08T00:13:12+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/597769662_873881828624962_5375894682908564445_n.jpg?stp=c488.0.1072.1072a_dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1abd25&_nc_eui2=AeFurxyhsIB_VKehs9if-F_aCqYCC7DPTT0KpgILsM9NPYkkQCkmWzg6eyx4aCEuiOMmEhNTjRMWu1iSzmlJsvLC&_nc_ohc=ThLJ89_EdtgQ7kNvwGWvQXI&_nc_oc=AdmXBKK3UR4PuhXlwadQi29XgJPPmSkY1LySnsGjan6dKbpafPCszT866yrZy313cAY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHEiz5NWhTQbNTDPHSZ3EmJJef83DWciRm6p0ogscufnvq36TsxHgqqj04OkUaMdHsAytlM5DwYzg&oh=00_Afmbe9N8cXHU5SI2aaV4M7jEl8NxdrVizxA2dr8KZ1-Apg&oe=693F3A09",
+    "full_picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/597769662_873881828624962_5375894682908564445_n.jpg?stp=c488.0.1072.1072a_dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1abd25&_nc_eui2=AeFurxyhsIB_VKehs9if-F_aCqYCC7DPTT0KpgILsM9NPYkkQCkmWzg6eyx4aCEuiOMmEhNTjRMWu1iSzmlJsvLC&_nc_ohc=ThLJ89_EdtgQ7kNvwF5_9ta&_nc_oc=AdnVi0cA6j2eLsTWbaoccCnCGsYxk5IcDUmxiGVTc5JT262rBhblO1wc2ucOcwWUCKs&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGN68xrB1xU6NMOqc8v-NEG6DvM00QaJV_-_66lPiqJ-lb5LLT3blK6G-MSE8zAfLMm1i6UhBmUbQ&oh=00_Afnh5mqMoDSh85bFe_SqN2OhrcrA22o7M7VMTSFXs5PK9g&oe=693F3A09",
     "permalink_url": "https://www.facebook.com/events/1366092061562383/",
     "attachments": {
       "data": [
         {
-          "description": "3 asistirán · 2 interesados",
+          "description": "4 asistirán · 2 interesados",
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/597769662_873881828624962_5375894682908564445_n.jpg?stp=c488.0.1072.1072a_dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1abd25&_nc_eui2=AeFurxyhsIB_VKehs9if-F_aCqYCC7DPTT0KpgILsM9NPYkkQCkmWzg6eyx4aCEuiOMmEhNTjRMWu1iSzmlJsvLC&_nc_ohc=ThLJ89_EdtgQ7kNvwGWvQXI&_nc_oc=AdmXBKK3UR4PuhXlwadQi29XgJPPmSkY1LySnsGjan6dKbpafPCszT866yrZy313cAY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHVEX0C2q2MU-LH2_7MPJDXnaAc8bL5f4iopbJVbcY4X9LDgaebdMpZuQNtAzWYAIX8YUSkvmpJfA&oh=00_AflHB-m7v0wquP4GvdqQiGRybLbTo_RAnS-7KmUp6AU_vA&oe=693F3A09",
+              "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/597769662_873881828624962_5375894682908564445_n.jpg?stp=c488.0.1072.1072a_dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1abd25&_nc_eui2=AeFurxyhsIB_VKehs9if-F_aCqYCC7DPTT0KpgILsM9NPYkkQCkmWzg6eyx4aCEuiOMmEhNTjRMWu1iSzmlJsvLC&_nc_ohc=ThLJ89_EdtgQ7kNvwF5_9ta&_nc_oc=AdnVi0cA6j2eLsTWbaoccCnCGsYxk5IcDUmxiGVTc5JT262rBhblO1wc2ucOcwWUCKs&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGXdbUj1MAYRnd2BSGq7rXJG3RVo0WfokPkgZ16uqL_fdTM7WPelCpqtMIDJ7CCdBFWm9ac2BIGxw&oh=00_AfmtmadiU_8B6gFL0ZV6yym-okM-Xx6eb02A4n1J7A6sqA&oe=693F3A09",
               "width": 720
             }
           },
@@ -109,7 +109,7 @@
   {
     "message": "AIME da la bienvenida a Gruentec Environmental Services   como auspiciante del Foro Minería 360°, el evento online que reúne a expertos, empresas y líderes del sector para compartir innovación, tecnología y nuevas tendencias que están impulsando la minería moderna.\n\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Modalidad online\n\n¡Únete a esta edición y conéctate con los protagonistas del desarrollo minero en el país!\n\n👉 Regístrate aquí: https://forms.gle/iXtSkrUUKFMM1Gcf6\n\n¡Gracias, por formar parte de esta edición y apoyar el crecimiento del sector minero!",
     "created_time": "2025-12-07T21:53:15+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596551288_873818521964626_2865587830799681625_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeESw09eVGNU2FGrYq6d96PaHcKtQzoAMxEdwq1DOgAzEexn5oOy8bW1mz9qzgMY835mP4xaj2DRx0mEny4tKBN1&_nc_ohc=XxpnsIp9S24Q7kNvwE9Bb84&_nc_oc=AdmzPwDmRgWNW36ANapEBPy7DHv8Chzsl84M2a6J5vUduy1vIIyT17qw6zCObU_oJo8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQEB2oqlsA2xu3jTiN9dxfQPise6LZDFRNVnvESGcxYFIAMf8xMKEG2jSNVg_nVIObMy6xD2uaUHMw&oh=00_AflOGJ9da0aKgVVZjMkxnBZnU6xJ5rjAaV8Q5EJ8AXP11A&oe=693F12C5",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/596551288_873818521964626_2865587830799681625_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeESw09eVGNU2FGrYq6d96PaHcKtQzoAMxEdwq1DOgAzEexn5oOy8bW1mz9qzgMY835mP4xaj2DRx0mEny4tKBN1&_nc_ohc=XxpnsIp9S24Q7kNvwH6kKjq&_nc_oc=AdlByma1txFfCRhec9pzLGlxlJ_qDEVoG5WH505GPoaa3W22y7didWfuzPc2kVKFN3E&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFuSAsUAjPOVKapM17iFR7IsMgmI0TIukJeeJcgocTrXXl2u56x0MCNLDHNIFtBSXlHUkeUgF6HZQ&oh=00_Afn_dq4RkGEU4heZ8af7-7N0BjThXFFm_LfBDZ_vnNcsQg&oe=693F4B05",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/873821085297703",
     "attachments": {
       "data": [
@@ -118,7 +118,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/596551288_873818521964626_2865587830799681625_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeESw09eVGNU2FGrYq6d96PaHcKtQzoAMxEdwq1DOgAzEexn5oOy8bW1mz9qzgMY835mP4xaj2DRx0mEny4tKBN1&_nc_ohc=XxpnsIp9S24Q7kNvwE9Bb84&_nc_oc=AdmzPwDmRgWNW36ANapEBPy7DHv8Chzsl84M2a6J5vUduy1vIIyT17qw6zCObU_oJo8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHcxskNUZwTAdvGKOxbzh-YF95K82NWNon1XH-ev1_dsc_R6FGQrvERFMvTSBfgoRFn_lPkXbXw2g&oh=00_AfmgO3XjpclWOdesNF1ZS31d6IjZuJ2arRTu8mNeYoVpSw&oe=693F12C5",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/596551288_873818521964626_2865587830799681625_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeESw09eVGNU2FGrYq6d96PaHcKtQzoAMxEdwq1DOgAzEexn5oOy8bW1mz9qzgMY835mP4xaj2DRx0mEny4tKBN1&_nc_ohc=XxpnsIp9S24Q7kNvwH6kKjq&_nc_oc=AdlByma1txFfCRhec9pzLGlxlJ_qDEVoG5WH505GPoaa3W22y7didWfuzPc2kVKFN3E&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEz2W49ELKeac0Xw_cn-3EkSm4kAzrGSf1PuaQZa3jd9NBxd-aNoqN0HWlhjedSZFP9HHDLkFj5OA&oh=00_Afm_iRLyyNGPKccvHhg1676f1UPvHlGQWDpK-1fiJjSyPQ&oe=693F4B05",
               "width": 720
             }
           },
@@ -136,7 +136,7 @@
   {
     "message": "✨ Desde AIME celebramos la grandeza de nuestra querida Quito.\nHonramos su historia, su cultura y la fuerza de su gente.\nSigamos construyendo juntos una ciudad más innovadora, solidaria y humana.\n ¡Que viva Quito! 🎉🏙️💙",
     "created_time": "2025-12-05T22:40:55+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/596000263_872320642114414_2326431462490621059_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEozg-1yg7uoUvfqGr01VJPewuDGfH-ctJ7C4MZ8f5y0nL_o2_TSrZroU_eWXUSVMDWy_RXn9MLFImocO8K52UF&_nc_ohc=zEx-asCWPIoQ7kNvwGxTXuZ&_nc_oc=AdnE4uqxE6sukb2tm4fYqAUgtlEVKW7e8wAco-4lbnODz83weUsuS4pfZIzUrlFq99U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQF0tzalJH92MUZSRKwVFfAGuTldwIJpTuC7ob6-MyVCA66NfpihaL1tmrMtBdO87J1KZjaSQMBbaw&oh=00_AfmTYPGgTR9-0xUnDXmOBZ1RafgMf4q0pLwaGjpXIZcvbA&oe=693F3988",
+    "full_picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/596000263_872320642114414_2326431462490621059_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEozg-1yg7uoUvfqGr01VJPewuDGfH-ctJ7C4MZ8f5y0nL_o2_TSrZroU_eWXUSVMDWy_RXn9MLFImocO8K52UF&_nc_ohc=zEx-asCWPIoQ7kNvwGqtwGV&_nc_oc=AdlD63aT9n6If1jiaEMbbB8A10bfkMOjt8hSFAwSP4hgE7iAkT4hyDZ28UuHzjlwvUc&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQE_gQYtiiZSr2rn15UBLai90m0VAUQ7U4WP8HUUt7v4YwQd8v2TOIotb9odUoVGEgvTWtm9Tc5pIg&oh=00_AfnZhKGQ2zdAsen8HKUJJ4TJkhGRhLwrfC9spoZXMT08tA&oe=693F3988",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/872321402114338",
     "attachments": {
       "data": [
@@ -145,7 +145,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/596000263_872320642114414_2326431462490621059_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEozg-1yg7uoUvfqGr01VJPewuDGfH-ctJ7C4MZ8f5y0nL_o2_TSrZroU_eWXUSVMDWy_RXn9MLFImocO8K52UF&_nc_ohc=zEx-asCWPIoQ7kNvwGxTXuZ&_nc_oc=AdnE4uqxE6sukb2tm4fYqAUgtlEVKW7e8wAco-4lbnODz83weUsuS4pfZIzUrlFq99U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQG-qry1eSFlf32KZp7qdrYck0cJ_yDVFBuZbqYOkHLZZXC0cd-z2fNSk4pFpoSD65LpBUcUl_E7dw&oh=00_AflTV09Z5cDcg4XuhiU5SGN3H0S8gHWOD2Ca_IyGuvO0gg&oe=693F3988",
+              "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/596000263_872320642114414_2326431462490621059_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEozg-1yg7uoUvfqGr01VJPewuDGfH-ctJ7C4MZ8f5y0nL_o2_TSrZroU_eWXUSVMDWy_RXn9MLFImocO8K52UF&_nc_ohc=zEx-asCWPIoQ7kNvwGqtwGV&_nc_oc=AdlD63aT9n6If1jiaEMbbB8A10bfkMOjt8hSFAwSP4hgE7iAkT4hyDZ28UuHzjlwvUc&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFGhHZEQoQOtHi4dQ_T6i4ZymYhG-YOME7uApLJQvC1Fgog2MvRDc5SCX-TahlspbtzETuy_tNkpg&oh=00_AfnkUchbvKF8ai94A8YIc5qClXXgiQZPZYbHNJQl7N5Bqw&oe=693F3988",
               "width": 720
             }
           },
@@ -163,7 +163,7 @@
   {
     "message": "AIME da la bienvenida a ISG pit to ship como auspiciante del Foro Minería 360°, el evento online que reúne a empresas, profesionales y expertos para compartir innovación, tecnología y nuevas tendencias que impulsan el desarrollo del sector minero.\n\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Modalidad online\n\n¡Sé parte de esta edición y conéctate con los actores clave que están transformando la minería en el país!\n\n👉 Regístrate aquí: https://forms.gle/iXtSkrUUKFMM1Gcf6\n\n¡Gracias, ISG, por unirse a esta iniciativa y contribuir al fortalecimiento del sector minero!",
     "created_time": "2025-12-04T23:47:02+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/593892397_871572692189209_8549889311072678052_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEH7_Zo6xRaVW4VyFPkLRA8V7B45P2YJgdXsHjk_ZgmB3r3a_3I_gvV28iUagnhrEdIFOyUxxfBpZv7hBjlD9_L&_nc_ohc=NY6fq9iRW6YQ7kNvwFBjwFr&_nc_oc=AdnewbltrjK0O_LymhQ48tysjQFDxlpdGVCu6g82j93X9bv4mfoehejMiYxYy09Kt1E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQG_D7sP_V6iVFqlbNGwITHILiLtSI-N4tXI7we7ovpqgYOtTBiE6uArAOg2s9SZlA2mPjt4HVIQtw&oh=00_AfmvGv5GhRzge6FAgCa34EvjKzFJKYE1GZani4Aylfx7Qg&oe=693F2DE2",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/593892397_871572692189209_8549889311072678052_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEH7_Zo6xRaVW4VyFPkLRA8V7B45P2YJgdXsHjk_ZgmB3r3a_3I_gvV28iUagnhrEdIFOyUxxfBpZv7hBjlD9_L&_nc_ohc=NY6fq9iRW6YQ7kNvwG03Jf-&_nc_oc=Adnm_dB4X0XrBvd4x0sq4AG0-NyyUKt3yupiPiDvYX2OVsvViCd0wVqXKRdAJhEXF-8&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGzu5VnljE7hN4ZWIQXORS4V9NOI-4H5vI-j2zTSEq3PWn7Zo4W-fDlj3qwIyIv_TYREKEvS4_nag&oh=00_AfkgTSLnyBMHhAF_HPrCSSK35uXBL_h3V-4JazvPT-qVSw&oe=693F2DE2",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/871575912188887",
     "attachments": {
       "data": [
@@ -172,7 +172,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/593892397_871572692189209_8549889311072678052_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEH7_Zo6xRaVW4VyFPkLRA8V7B45P2YJgdXsHjk_ZgmB3r3a_3I_gvV28iUagnhrEdIFOyUxxfBpZv7hBjlD9_L&_nc_ohc=NY6fq9iRW6YQ7kNvwFBjwFr&_nc_oc=AdnewbltrjK0O_LymhQ48tysjQFDxlpdGVCu6g82j93X9bv4mfoehejMiYxYy09Kt1E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQES42YkkOMV2rQe_9FBTvMQSi-pJLVzrt58i7vA_1RpXZq0GVRz8eyN7mD6iwFg7W0W7_7P0-x4HQ&oh=00_AflC4honadPyOVkuf0-9lagi89aYXwZsP_-hCUYJjv-bOA&oe=693F2DE2",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/593892397_871572692189209_8549889311072678052_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEH7_Zo6xRaVW4VyFPkLRA8V7B45P2YJgdXsHjk_ZgmB3r3a_3I_gvV28iUagnhrEdIFOyUxxfBpZv7hBjlD9_L&_nc_ohc=NY6fq9iRW6YQ7kNvwG03Jf-&_nc_oc=Adnm_dB4X0XrBvd4x0sq4AG0-NyyUKt3yupiPiDvYX2OVsvViCd0wVqXKRdAJhEXF-8&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEqqXJeGZQGT8hrGqd4dMUxvC7kWXR1VwBDIkHwjrw18Verz2F_NKL4TEjsUgAy_wR7Gz0tAqdvLQ&oh=00_AfnMJIxtGv518-SN1HirWd5PSu7sPefcFQkb1IkehDluyg&oe=693F2DE2",
               "width": 720
             }
           },
@@ -190,7 +190,7 @@
   {
     "message": "Acompañamos a Michael y Margaret Gibbons Parra por la pérdida de su padre, Sr.Patrick Gibbons.\nExtendemos nuestras condolencias y nuestro apoyo en este momento difícil.\nDescanse en paz.",
     "created_time": "2025-12-04T16:28:09+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/594057930_871348675544944_1057878925621979726_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZt9cogVGW1S7rPuRov1Aqagf0cw98oQRqB_RzD3yhBPsE4vKBdug8klHm-q7y1zp1sSaGwOuCRkUqv0qqmXAn&_nc_ohc=darLQFNzhZsQ7kNvwEBMuV_&_nc_oc=Adma_EmYhCMY34z3KPi3vWhDHtQXbL77AL5QwYhzAWIvigIShm8y_ncgmsF_3HTbiEE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGFtgj4YdXYMr_qerbiydLMsZbJAicYHQyoYRrspAh2PaKf9_P6DEgd3Zdy_NVmqTMAF8iLHbLoSw&oh=00_AfkR_830rb-EEk_wW80PR9MzreaqG1RKO2sRZ3wbYIwAvg&oe=693F2121",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/594057930_871348675544944_1057878925621979726_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZt9cogVGW1S7rPuRov1Aqagf0cw98oQRqB_RzD3yhBPsE4vKBdug8klHm-q7y1zp1sSaGwOuCRkUqv0qqmXAn&_nc_ohc=darLQFNzhZsQ7kNvwFD5K2I&_nc_oc=AdkctS3FS66-p23hmYlOkHUQrYbPLa5QWJrGW8rAl9xSRWhYEgNBSM1MEQEpmWC1JkM&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHWfGRH2dFSafcwm3KQCkNRfioJIfuHNQTQ0aSr4KOQ0mXsoKXoAVgMSZ19FibcwsP4GtFd-0s55Q&oh=00_AfmtJM_5hrUzLJwj9hC9RHqWm4PbD8asRJejpiqpPG1m_g&oe=693F2121",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/871348748878270",
     "attachments": {
       "data": [
@@ -199,7 +199,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/594057930_871348675544944_1057878925621979726_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZt9cogVGW1S7rPuRov1Aqagf0cw98oQRqB_RzD3yhBPsE4vKBdug8klHm-q7y1zp1sSaGwOuCRkUqv0qqmXAn&_nc_ohc=darLQFNzhZsQ7kNvwEBMuV_&_nc_oc=Adma_EmYhCMY34z3KPi3vWhDHtQXbL77AL5QwYhzAWIvigIShm8y_ncgmsF_3HTbiEE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGkVDweZx5tpXzRPPtn4JdOy6h7ki-Gdumano3V79mjhvH_z1GEVXoCp0kIzCR96Kp7TdWbsKQ6Ug&oh=00_Afm0Xp-uY3iaXsncYnQ9juCD5D3R83b8EBPlv2kahLoOkQ&oe=693F2121",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/594057930_871348675544944_1057878925621979726_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZt9cogVGW1S7rPuRov1Aqagf0cw98oQRqB_RzD3yhBPsE4vKBdug8klHm-q7y1zp1sSaGwOuCRkUqv0qqmXAn&_nc_ohc=darLQFNzhZsQ7kNvwFD5K2I&_nc_oc=AdkctS3FS66-p23hmYlOkHUQrYbPLa5QWJrGW8rAl9xSRWhYEgNBSM1MEQEpmWC1JkM&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEIIwv8_iN--6lUDcXmKiPseQBbOQkCLEKIPFEpaNJO_MNGw62vQsk8QhHe5d6AcZBuRpou4OIIsA&oh=00_AfnnhLKUivsBZX6sME5ViSKUaoY-lF0ZrmO6YIn-uzJL6A&oe=693F2121",
               "width": 720
             }
           },
@@ -217,7 +217,7 @@
   {
     "message": "“La minería ecuatoriana necesita visión, liderazgo y diálogo.\nAndrés Ycaza Palacios, Vicepresidente del Directorio de la Cámara de Minería del Ecuador, se suma al FORO MINERÍA 360° para compartir su perspectiva sobre los retos y oportunidades que marcarán el futuro del sector.”\n\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Modalidad online\n🔥 ¡Regístrate hoy y participa en sorteo de un cupo para nuestro programa de intercambio PIIMU 2026.\nhttps://forms.gle/iXtSkrUUKFMM1Gcf6\n🌐 Sé parte del encuentro que impulsa una mirada integral, transparente y sostenible de la minería en el Ecuador.",
     "created_time": "2025-12-04T16:17:14+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595693210_1344384624154811_750040477068080587_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeFaBEK7qXftV8LC3ZJ1aTTfo8bSo2kMI_qjxtKjaQwj-r39gycTWNiuMcrIuPAGU_yAqQemb3BGFEWwuO8Byu4j&_nc_ohc=2fFa3EomtpMQ7kNvwEqgY8x&_nc_oc=AdknsOcCGl7GtDUKTj_x-btSgIU-lcHRNpOpTcOhG5ttEPcwr3sYQyhtkNftI_fxlL8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQE39rfKedPmdGXgSASlAlq29WIwGSXql9mxcSuG6P5CVKmiUJIAetFcoL-5oYcbS4AsEr14J0QnOA&oh=00_AfkbUxmO_zPRmRZam8bAFujyAM4ws2RSq8JvhVzgku_VxA&oe=693F31EF",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/595693210_1344384624154811_750040477068080587_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeFaBEK7qXftV8LC3ZJ1aTTfo8bSo2kMI_qjxtKjaQwj-r39gycTWNiuMcrIuPAGU_yAqQemb3BGFEWwuO8Byu4j&_nc_ohc=2fFa3EomtpMQ7kNvwFCsS44&_nc_oc=AdkiUU2AoCgzEiPkUYSXVakQigFQmft-6Bxl-YUbUwj7f5AKEJCndrFcg4vEMeXX80U&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQENrcj26bC9n4qSpTYjOwUfwBbJ3ErSvVrF1MYR55NJyoQ-qJMKbNQJOGqPegX1_H1aRKrw2IvbqQ&oh=00_AfkUrC72juxCr3MqHYOyYqhtQlV6tPKOufS0dZ_Z2LvJww&oe=693F31EF",
     "permalink_url": "https://www.facebook.com/reel/1375215280643296/",
     "attachments": {
       "data": [
@@ -225,10 +225,10 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595693210_1344384624154811_750040477068080587_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeFaBEK7qXftV8LC3ZJ1aTTfo8bSo2kMI_qjxtKjaQwj-r39gycTWNiuMcrIuPAGU_yAqQemb3BGFEWwuO8Byu4j&_nc_ohc=2fFa3EomtpMQ7kNvwEqgY8x&_nc_oc=AdknsOcCGl7GtDUKTj_x-btSgIU-lcHRNpOpTcOhG5ttEPcwr3sYQyhtkNftI_fxlL8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGxhc6zDQl1I-hCS7BgMApUipvTAgRH0hIFDMcGXWKlXgEcRufgsou4c3J9jhGLntFWfn98ogKWrg&oh=00_AflUzEdjVBjFU8abRtVh5HzKX9T760Kiy07rGzaJpyqZ1Q&oe=693F31EF",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/595693210_1344384624154811_750040477068080587_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeFaBEK7qXftV8LC3ZJ1aTTfo8bSo2kMI_qjxtKjaQwj-r39gycTWNiuMcrIuPAGU_yAqQemb3BGFEWwuO8Byu4j&_nc_ohc=2fFa3EomtpMQ7kNvwFCsS44&_nc_oc=AdkiUU2AoCgzEiPkUYSXVakQigFQmft-6Bxl-YUbUwj7f5AKEJCndrFcg4vEMeXX80U&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGmJRiv8xEQvMj1Tdi_hFvTwxbDDfmrgoWeVT6IH82Hlu4Z-ksmWySclMveP0KldrYhjOdELKmi3A&oh=00_AflJHZ3-udAJtJGZg_aU68pvj-8v5dn-KBDLq8Y9OM1Cvw&oe=693F31EF",
               "width": 405
             },
-            "source": "https://scontent-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPH-d7fJljsMfp_By7-yKkq2C2pLUMZFSGhhQyR8wy8YXVlQWVooj_vRK6OyQiEktI378w3mECSIo0bGH42gUHf2dB83wlCm2es26cLio0JhQ.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-sjc6-1.xx.fbcdn.net&_nc_ohc=GBDyEHMBgzYQ7kNvwHwn2WQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTgxNzczMTUyNTcyNTYsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f29b33ab06c131a2&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC84ODRFRTQ3MTNCNjZBMTA5OTUxMEFGMDJFRTQwOTI4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQ7qvj0Oj7BBUCKAJDMywXQEkIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeGMpH47A6vbvUfJIYdS7lCs-KnLWV96VO34qctZX3pU7dlKA_b-ps1_5ygu9pdh2necHvdEUykRRkcmvqyLbn8S&_nc_tpa=Q5bMBQHGXvRAkJr4FDR7LCHWPV8NGC5qSticNAo_sPD5b5v_52D_PeSa1cYkgFGbwBNkO2-XZutQYjveVg&oh=00_AfkCHmHVrbKC_ck4rD9glv1CNkQvSd8yAOyxp3NFWCIpyA&oe=693F3DD5&bitrate=0&tag=dash_h264-basic-gen2_720p"
+            "source": "https://video-atl3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQPH-d7fJljsMfp_By7-yKkq2C2pLUMZFSGhhQyR8wy8YXVlQWVooj_vRK6OyQiEktI378w3mECSIo0bGH42gUHf2dB83wlCm2es26cLio0JhQ.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=video-atl3-3.xx.fbcdn.net&_nc_ohc=GBDyEHMBgzYQ7kNvwGhy1p4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTgxNzczMTUyNTcyNTYsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f29b33ab06c131a2&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC84ODRFRTQ3MTNCNjZBMTA5OTUxMEFGMDJFRTQwOTI4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQ7qvj0Oj7BBUCKAJDMywXQEkIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeGMpH47A6vbvUfJIYdS7lCs-KnLWV96VO34qctZX3pU7dlKA_b-ps1_5ygu9pdh2necHvdEUykRRkcmvqyLbn8S&_nc_tpa=Q5bMBQHuG3C6SC--tYvZgpdkHyqVDu5PELZ_5GoD-IsCev77N4LQvDbM2mMM0aebwuuHL0V0vZqs9RjuFw&oh=00_Afnnxg4M7cWLttgCXTquHpaMEF6kFMKxPaSyVUiH25hYBQ&oe=693F3DD5&bitrate=0&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "1375215280643296",
@@ -244,7 +244,7 @@
   {
     "message": "AIME da la bienvenida a Geocamb  Geología, Construcción, Ambiente  como auspiciante del Foro Minería 360°, el evento online que reúne a profesionales, empresas y expertos para compartir innovación, tecnología y nuevas perspectivas para el desarrollo minero.\n\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Modalidad online\n\n¡Participa en esta edición y conecta con quienes están impulsando el futuro de la minería en el país!\n\n👉 Regístrate aquí: https://forms.gle/fh3YC6M15W1WWQRy6\n\n¡Gracias, GEOCAMB, por unirse a este espacio y apoyar el crecimiento del sector minero!",
     "created_time": "2025-12-03T22:00:19+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/593992846_870716658941479_860062022779210705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHYkF4BrqZXU987vF-WdRRYuviXHE434de6-JccTjfh15nx2r8XQq6nEX3p85kWN6e35esSt3Cj8Rzp9FFO4Q-F&_nc_ohc=RFSDAXYlIbkQ7kNvwEkB_lP&_nc_oc=AdnLsxZbLrGqQIPyU8TlCU6-0SBVYHn90rqEKdyugT6DCcux8w643kHBlRYbsn4D9Ms&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQEoqadyR6FZF3AQlmn2iXn8IJDbEPuZUgOsELer53B57FA5tMclpIwWs2JRU1k6t2vM5CQdhSRp1w&oh=00_Afl1y6a10Dp6Bdv9W7DSJRymYrubKnQBXoF1l3jKL-5cZA&oe=693F1033",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/593992846_870716658941479_860062022779210705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHYkF4BrqZXU987vF-WdRRYuviXHE434de6-JccTjfh15nx2r8XQq6nEX3p85kWN6e35esSt3Cj8Rzp9FFO4Q-F&_nc_ohc=RFSDAXYlIbkQ7kNvwHogFBM&_nc_oc=Admttl27ULsSXqWmHqO9ON5W0kQOT-VamXwG3ux3ypootiR-ZUrFt2I_3Hhdd-bYLW8&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFBoz6uvxZYaPY9cgl1MtUpFbf2wJpXLY0P0VXIHZN4mqBnRD5WqxCqXQnGltoXCyD-jaEA9j02Zw&oh=00_Afm1DecY4lNi5ofMqe-fZCD8J22-KXDkYFqAmeG144fP2g&oe=693F4873",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/870732265606585",
     "attachments": {
       "data": [
@@ -262,7 +262,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/593992846_870716658941479_860062022779210705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHYkF4BrqZXU987vF-WdRRYuviXHE434de6-JccTjfh15nx2r8XQq6nEX3p85kWN6e35esSt3Cj8Rzp9FFO4Q-F&_nc_ohc=RFSDAXYlIbkQ7kNvwEkB_lP&_nc_oc=AdnLsxZbLrGqQIPyU8TlCU6-0SBVYHn90rqEKdyugT6DCcux8w643kHBlRYbsn4D9Ms&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGR85t0OESIk9MSsrmTpXyWob1cMQJqpSOFz7wNboQJgj-itHG_cjaozxta4t3uRKTZhZWtG9t3oA&oh=00_AfmS1jEMjhU4N15rSGSu8JPPwVIuIQ0XM4MCFauXh-42LQ&oe=693F1033",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/593992846_870716658941479_860062022779210705_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHYkF4BrqZXU987vF-WdRRYuviXHE434de6-JccTjfh15nx2r8XQq6nEX3p85kWN6e35esSt3Cj8Rzp9FFO4Q-F&_nc_ohc=RFSDAXYlIbkQ7kNvwHogFBM&_nc_oc=Admttl27ULsSXqWmHqO9ON5W0kQOT-VamXwG3ux3ypootiR-ZUrFt2I_3Hhdd-bYLW8&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFSjt0nW1MSRaBcuCgLgAHdutorAVTJF4w30TWfbnF59nJ7ccUhCaxa11T-RIqIHw2_565qCVK-Hg&oh=00_Afmfzr_pDAMzZowmRRAWQjcrk75KTGCmOsKt-sld9B5ZSQ&oe=693F4873",
               "width": 720
             }
           },
@@ -280,7 +280,7 @@
   {
     "message": "El FORO MINERÍA 360° se acerca, y voces como la de Vicente Encalada ya forman parte de esta conversación clave para el futuro del sector. 🔍⚙️\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Online\n🔥 ¡Regístrate hoy y participa en el evento que impulsa la minería hacia un nuevo horizonte!\nhttps://forms.gle/iXtSkrUUKFMM1Gcf6",
     "created_time": "2025-12-03T20:55:30+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/593546589_771839975865167_5894713800781622036_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeG7H-1VicKMlSsVGsbJZNmaapfUCExNB8Nql9QITE0Hw4NAIkhYohhlCHtRamqhu-7Ta3UhPWtOh32zMk8Kylzw&_nc_ohc=FLtiM8Dl_M8Q7kNvwF5eT3m&_nc_oc=Adkcw26KEYpTn46TqY8jmdWiwEELXL25zrVyglCxAgmozzq4gwNv-Q4W32J3iKnT_C8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQEhqDp6x1hwvhAfSMh-96w8NRP9WrG3zX_sArQvXtAcHZYLzOz7l-g6-4OlbaEdabxBTLBFw0busA&oh=00_AfkysRd2wQrpwg_E55cL7Rs4hjVJuYNd-u1Ko_2boewXKQ&oe=693F16A1",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/593546589_771839975865167_5894713800781622036_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeG7H-1VicKMlSsVGsbJZNmaapfUCExNB8Nql9QITE0Hw4NAIkhYohhlCHtRamqhu-7Ta3UhPWtOh32zMk8Kylzw&_nc_ohc=FLtiM8Dl_M8Q7kNvwHvtPyS&_nc_oc=Adkr1xUg-uGs4_jb7fDtitKVJEN0qtE8yBgYIoifmvkMPjtoufKXpCMZjWnzMxPODCM&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEaMsDuRKu_SKl9APBP5zvXcGGXKlxuGMyYMxzxpk_j3I8cxU-N60l00Fhm3-65pm3CgCFuAg35jA&oh=00_AfkajDMBo9n9PF0n8j9njvHzsdDyOd_KXdShQDY_xt527Q&oe=693F4EE1",
     "permalink_url": "https://www.facebook.com/reel/881416474448273/",
     "attachments": {
       "data": [
@@ -288,10 +288,10 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/593546589_771839975865167_5894713800781622036_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeG7H-1VicKMlSsVGsbJZNmaapfUCExNB8Nql9QITE0Hw4NAIkhYohhlCHtRamqhu-7Ta3UhPWtOh32zMk8Kylzw&_nc_ohc=FLtiM8Dl_M8Q7kNvwF5eT3m&_nc_oc=Adkcw26KEYpTn46TqY8jmdWiwEELXL25zrVyglCxAgmozzq4gwNv-Q4W32J3iKnT_C8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFkZSw5H9_3kcaoblkyBRxCv0yRPGHTtraFmxjKLxvcWaHr8Irh1aKDlTo--WVFGrpZRo4cXFN_Rw&oh=00_AfmA7dsoTglMEQhO4JQPsXuCQefU09JhdxBl7UbJAspzGg&oe=693F16A1",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/593546589_771839975865167_5894713800781622036_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeG7H-1VicKMlSsVGsbJZNmaapfUCExNB8Nql9QITE0Hw4NAIkhYohhlCHtRamqhu-7Ta3UhPWtOh32zMk8Kylzw&_nc_ohc=FLtiM8Dl_M8Q7kNvwHvtPyS&_nc_oc=Adkr1xUg-uGs4_jb7fDtitKVJEN0qtE8yBgYIoifmvkMPjtoufKXpCMZjWnzMxPODCM&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEAU_X_Vn_8Z4SLxdCALcMDgQvwE1igZuw5lFfNQmpUJxtH6IpkqHH_l0gk1hJiVTlJql7kmyVt0w&oh=00_Afng9OA6-fJs_L8AHfiGDWylraG2wgk62s5iKgNb5g1uwQ&oe=693F4EE1",
               "width": 405
             },
-            "source": "https://scontent-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQODFP5hzq6-u8lVjhQg8FO2D6yGWBO9VrjBuejRv--cvSDDM6RKeY38kt9UqcFyasFordqzbU8M_3u5KS-c2AklvRCMBws9Adq41YdrbB_BFw.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.xx.fbcdn.net&_nc_ohc=9Q5MEo2NNkIQ7kNvwFNoUa4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcyOTc4ODg5MjkyNDIyNiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=26c6784421137ef&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9FRDREM0VFNkQyQUE2QUIzQjcwN0Y1REMyNkE0RDc5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEpcr7pu_LAhUCKAJDMywXQEtqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeEM3-33Yn9H3e2ff9aZdG0mccbyWLrEM8RxxvJYusQzxGzUVXB9sLN1qU-9VL7XViHwBeMuhldKR7ax7jnXdlJg&_nc_tpa=Q5bMBQHTIclwPZQvoSnUnITqfnZXk58QNcktJ5uif3NNeV7tcwfOexvFPN254aaEg_8OeMM4Wq1-3A749Q&oh=00_AflicyKegPzcfcgjnxvDNd5iJmcBwJn2X-BOKrERP_xKfQ&oe=693F27C3&bitrate=0&tag=dash_h264-basic-gen2_720p"
+            "source": "https://video-atl3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQODFP5hzq6-u8lVjhQg8FO2D6yGWBO9VrjBuejRv--cvSDDM6RKeY38kt9UqcFyasFordqzbU8M_3u5KS-c2AklvRCMBws9Adq41YdrbB_BFw.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=video-atl3-2.xx.fbcdn.net&_nc_ohc=9Q5MEo2NNkIQ7kNvwEwrM8a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcyOTc4ODg5MjkyNDIyNiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=26c6784421137ef&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9FRDREM0VFNkQyQUE2QUIzQjcwN0Y1REMyNkE0RDc5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEpcr7pu_LAhUCKAJDMywXQEtqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeEM3-33Yn9H3e2ff9aZdG0mccbyWLrEM8RxxvJYusQzxGzUVXB9sLN1qU-9VL7XViHwBeMuhldKR7ax7jnXdlJg&_nc_tpa=Q5bMBQHT0ekuos7JYaSND1h45FZRGLLUW9Jd7iTSRueyu2qOfikRIAYslGP9Ga_3sQWAPa0CmQMLxADAew&oh=00_Afk-ZqVnEvQ8s2VhE7RBHCjx7S9Kjs7EV8oQGy2yeZoU6w&oe=693F27C3&bitrate=0&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "881416474448273",
@@ -307,7 +307,7 @@
   {
     "message": "AIME da la bienvenida a Kluane Drilling LTD. como auspiciante del Foro Minería 360°, un evento online que reúne a los líderes y especialistas del sector para explorar innovación, tecnología y nuevas perspectivas para la minería.\n\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Modalidad online\n\n¡Sé parte de esta edición y conecta con las empresas y expertos que están impulsando el futuro de la industria!\n\n👉 Regístrate aquí: [Enlace de registro]\n\n¡Gracias, Kluane Drilling LTD.Kluane Drilling LTD., por unirse a esta iniciativa y apoyar el desarrollo minero del país!",
     "created_time": "2025-12-02T23:44:08+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/593883661_870024545677357_5736797275463398112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE8xcB9IZf4L99XQUq0fU5qPz4Uee34DA8_PhR57fgMD7rd4fQG-0LHpSWvMbUzBU-flB0iscWziMQNVTULpncW&_nc_ohc=S6MJaIaL5wQQ7kNvwEDv5DA&_nc_oc=Adnh0G6h3_RgW13nS1cRYn8OWXsH3qo4XZ4loPw-sf85ooSSv1ABIzQaE5SX24mD4aA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHZD7RFdKmYQTEvO87t0oVpm02bfFpfbHn_YipyqxE70gikHjW7nc145TTs6Qv4tXsYb_chIcdmgw&oh=00_AfkJqC8Q13-dixz4ZxBVgXVJYNq_LnUVMcvCEEzaMRdAsA&oe=693F2359",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/593883661_870024545677357_5736797275463398112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE8xcB9IZf4L99XQUq0fU5qPz4Uee34DA8_PhR57fgMD7rd4fQG-0LHpSWvMbUzBU-flB0iscWziMQNVTULpncW&_nc_ohc=S6MJaIaL5wQQ7kNvwHnTxo2&_nc_oc=AdlaWZ2_zI8DM-HXBw-hbxX_iY99jZY3e86_RHHrqRZxvacIuGp0HsMSnplcG6tEhSE&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHFvpW3eQtr_xEQVyfYM9vR0q6eOBrYrtUQBqHLEavZwTxmNJ4ZuVivd26Q9yeu9mkZVXstLp863A&oh=00_AfnFg-feN8B0SpGgNf35YCiEeiX4va-MT6wOYzSjahCjpA&oe=693F2359",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/870041555675656",
     "attachments": {
       "data": [
@@ -332,7 +332,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/593883661_870024545677357_5736797275463398112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE8xcB9IZf4L99XQUq0fU5qPz4Uee34DA8_PhR57fgMD7rd4fQG-0LHpSWvMbUzBU-flB0iscWziMQNVTULpncW&_nc_ohc=S6MJaIaL5wQQ7kNvwEDv5DA&_nc_oc=Adnh0G6h3_RgW13nS1cRYn8OWXsH3qo4XZ4loPw-sf85ooSSv1ABIzQaE5SX24mD4aA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGYgQnzkZmPr44M9FR1ON6ZnVfyxbKlkk4W-9A7QJC9aeF5azs-ePA1ojS4iXDAqTeKuVbtom_amQ&oh=00_AfkHZ3KUgQ3RbuTgt4Cd3RjAdgoT6i-f341F5L3MykWsjA&oe=693F2359",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/593883661_870024545677357_5736797275463398112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE8xcB9IZf4L99XQUq0fU5qPz4Uee34DA8_PhR57fgMD7rd4fQG-0LHpSWvMbUzBU-flB0iscWziMQNVTULpncW&_nc_ohc=S6MJaIaL5wQQ7kNvwHnTxo2&_nc_oc=AdlaWZ2_zI8DM-HXBw-hbxX_iY99jZY3e86_RHHrqRZxvacIuGp0HsMSnplcG6tEhSE&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGfGR2LSZ5rHJlzFawMiEiOrGgN3yeM89-X4kk7teIJLZOBZyXbct39gHyNFA9ZV0y_10JzAXLGfw&oh=00_Afmy2MoVHSy2d9taXQbbqSBxtCY7GDoHBrfFDxHQctdMUg&oe=693F2359",
               "width": 720
             }
           },
@@ -350,7 +350,7 @@
   {
     "message": "AIME da la bienvenida a SolGold Ecuador  como auspiciante del Foro Minería 360°, un espacio online donde la industria minera se conecta con la innovación, la tecnología y las nuevas oportunidades de crecimiento.\n\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Modalidad online\n\n¡Únete a este evento que reúne a los protagonistas del sector y descubre las tendencias que están transformando la minería!\n\n👉 Regístrate aquí:https://docs.google.com/forms/d/e/1FAIpQLScEgLNlJYjYd427tmNCnOOSNuGR4wE34Ic-dl7MBRRPONTARg/viewform\n\n¡Gracias, SolGold Ecuador  , por ser parte de esta edición y potenciar el desarrollo minero del país!",
     "created_time": "2025-12-01T16:55:07+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/593758439_869097005770111_1102481706187445314_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE1Ldg1ECAWm1jwOxojzMff960TW7TYuJH3rRNbtNi4kebYC-Wd7wuW9EloHxqOTVg8UL7ZJcaFF7PBEhSUDfUN&_nc_ohc=7R_hzsqae60Q7kNvwHjSfD5&_nc_oc=AdlS64f6wLjX6FcKI322CH02oY5E6qKdTD2tOHCkIkpQoFWef-sWLc7MmZv6NUH7SpI&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFeVu6fpI06y7OITapfti8jLGvHAmwxqYRFYF_b5SEu8EEuKMsNENX_yTLJnksvpbMkaTGQFaBnAA&oh=00_AfnBLVNBOOkhUenD-ekI77GfQeIzUB2a0tvfyQVxg5RQgg&oe=693F0E0A",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/593758439_869097005770111_1102481706187445314_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE1Ldg1ECAWm1jwOxojzMff960TW7TYuJH3rRNbtNi4kebYC-Wd7wuW9EloHxqOTVg8UL7ZJcaFF7PBEhSUDfUN&_nc_ohc=7R_hzsqae60Q7kNvwExCGvF&_nc_oc=AdmbHYllRMwJu7NcActIQnbGxzEl1UEk1vX322fOtaN37jrcBAsrTYtXGeLXA7qcK3Q&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHq5WcRpMQE5BrnRm-znSXKn-tLgCKpA9g8yAYZuIr7iwnPw1YNQG3PY5PnPyebhgCdJh_KqDBOFQ&oh=00_AflQl42oqp9CnqvVMEIhwX9e-2CAV6VBP5qAql2e8OH4NQ&oe=693F464A",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/869103609102784",
     "attachments": {
       "data": [
@@ -375,7 +375,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/593758439_869097005770111_1102481706187445314_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE1Ldg1ECAWm1jwOxojzMff960TW7TYuJH3rRNbtNi4kebYC-Wd7wuW9EloHxqOTVg8UL7ZJcaFF7PBEhSUDfUN&_nc_ohc=7R_hzsqae60Q7kNvwHjSfD5&_nc_oc=AdlS64f6wLjX6FcKI322CH02oY5E6qKdTD2tOHCkIkpQoFWef-sWLc7MmZv6NUH7SpI&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQE0sJbqe2MKOuO7ajJtSLFcA38FoUDEJ1cGvvKULq1xWuXATBQH2JGQqDx8PkM2O7lMJU-Lyvyf2w&oh=00_AfkqfP2coNm4-iyuLV7l1q49BBLwQXOIGW2_sdjRoLDZmg&oe=693F0E0A",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/593758439_869097005770111_1102481706187445314_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE1Ldg1ECAWm1jwOxojzMff960TW7TYuJH3rRNbtNi4kebYC-Wd7wuW9EloHxqOTVg8UL7ZJcaFF7PBEhSUDfUN&_nc_ohc=7R_hzsqae60Q7kNvwExCGvF&_nc_oc=AdmbHYllRMwJu7NcActIQnbGxzEl1UEk1vX322fOtaN37jrcBAsrTYtXGeLXA7qcK3Q&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEFMJB1STlurJG8aXrEq1293C-hYcXp3WQ9M4-DT0lmwaLGuRt0rw6QUJYFDL7Te_gOrlac45ieag&oh=00_AfnTpBTDR0aPUSY_LmEVfYvwttP5Er7ESIpGaPsA3JVR3g&oe=693F464A",
               "width": 719
             }
           },
@@ -393,7 +393,7 @@
   {
     "message": "AIME da la bienvenida a Datamine  como auspiciante del Foro Minería 360°, el evento online que reunirá a los actores clave de la industria para impulsar la innovación y las mejores prácticas del sector minero.\n\n📆 10 y 11 de diciembre de 2025\n⏰ 18h00 – 20h00\n💻 Modalidad online\n\n¡Sé parte de esta experiencia que conectará conocimiento, tendencias y tecnología para el futuro de la minería!\n\n👉 Regístrate aquí: https://forms.gle/Y3sNcfFnZhbvc1E68\n¡Gracias, DATAMINE, por apoyar y potenciar esta gran edición del Foro Minería 360°!",
     "created_time": "2025-11-28T23:34:37+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/591897308_867055662640912_9179868992523797112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH6C8qgF_wGx7H9FJN3ukd_I54BAfXnZCYjngEB9edkJk0NOq5qc2UMwgN6z_ifnypd7riHTPa2TwJ89Xj0gT54&_nc_ohc=xlhRqm4dIjsQ7kNvwGEwBDg&_nc_oc=AdmWlzztb_Zz0QljP7RmpZE6dt2jwTFRfyHmmzZpi3v_AX81sVQ_hDarBst9yQBz7l0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFzLYP6AN_o9Fld6Uyui96PJuo5NEhVnVKoVFyITq_uLsjhHUDKoxEjJauB-1oLZrvG9yLloVomAA&oh=00_AflO2tqtrZXvEAKgVh_aylI1PBjJHKoX4wNm1qibDUtxew&oe=693F33A9",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/591897308_867055662640912_9179868992523797112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH6C8qgF_wGx7H9FJN3ukd_I54BAfXnZCYjngEB9edkJk0NOq5qc2UMwgN6z_ifnypd7riHTPa2TwJ89Xj0gT54&_nc_ohc=xlhRqm4dIjsQ7kNvwHA9RUv&_nc_oc=AdmUXUmYK62aXyV7Lq_jQytEj35tw_RzODKIBlPq85xwm752YW10T_VIP6G8DLN5z2Q&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGghwn5jU3jyf70Jr-kBUgOpDf9-KC87qq93pauSqvi8_vIMBXGua51yKaYNc8qDz84CyJlpexdnw&oh=00_Afk7bPKow3xh4p2hlhzKsKqroyEIiVKOP6P5En60KpMcEw&oe=693F33A9",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/867056515974160",
     "attachments": {
       "data": [
@@ -411,7 +411,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/591897308_867055662640912_9179868992523797112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH6C8qgF_wGx7H9FJN3ukd_I54BAfXnZCYjngEB9edkJk0NOq5qc2UMwgN6z_ifnypd7riHTPa2TwJ89Xj0gT54&_nc_ohc=xlhRqm4dIjsQ7kNvwGEwBDg&_nc_oc=AdmWlzztb_Zz0QljP7RmpZE6dt2jwTFRfyHmmzZpi3v_AX81sVQ_hDarBst9yQBz7l0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQEAKa529Kd_tKvQK7zBlh0iZP9Y-fOWZTnEg-2ETon92_bKe-hmYiVEoS527A0Da8jpX0ASxsgjyw&oh=00_Afkq6Z2S3KrG-w33pSrdV1tT_lXwwII6nIS-545dWYDVZg&oe=693F33A9",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/591897308_867055662640912_9179868992523797112_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH6C8qgF_wGx7H9FJN3ukd_I54BAfXnZCYjngEB9edkJk0NOq5qc2UMwgN6z_ifnypd7riHTPa2TwJ89Xj0gT54&_nc_ohc=xlhRqm4dIjsQ7kNvwHA9RUv&_nc_oc=AdmUXUmYK62aXyV7Lq_jQytEj35tw_RzODKIBlPq85xwm752YW10T_VIP6G8DLN5z2Q&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHHle5D8GQUSLv_uP9CV2bX2eUxn50shLrP4vlHupCrgSSQ8sEzZ7yFzolSFk_z9f8hCbFbgTWYIw&oh=00_AflnBDgdG3XG_ZBoyhzv-dQ6lEw3abnqOVHr-hr8RNoj6g&oe=693F33A9",
               "width": 720
             }
           },
@@ -429,7 +429,7 @@
   {
     "message": "AIME fue parte de Inspira Ecuador 2025, un encuentro organizado por Mundo Minero que reunió a los principales representantes del sector minero del país. 🙌⛏️✨\n\nDurante el evento, nuestra institución recibió un reconocimiento especial por su compromiso con la innovación, la sostenibilidad y el desarrollo responsable de la minería ecuatoriana. 🌱⚙️💛\n\nAgradecemos a Inspira Ecuador y a Mundo Minero por destacar el trabajo del gremio y por promover espacios que fortalecen a nuestra industria.\n\nEn AIME seguimos impulsando una minería técnica, ética y orientada al progreso del Ecuador. 🇪🇨💪\n\n👉 www.aimecuador.org\n\n#inspiraecuador2025 #MineríaResponsable #innovación #Sostenibilidad Kluane Drilling LTD. Prensa Minera Ecuador\nPetroenergía Energiamm Lundin Gold Expo Minería y Construcción EcuaCorriente S.A.",
     "created_time": "2025-11-28T00:26:08+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/589726495_866348549378290_4989936935064544167_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2-Qk0iyU2Y1zqxGsqZpHeVAwQzEcVgyFUDBDMRxWDIbsbRoFQrH0DaFSwKhx4DbIkDYL2MAlmXiTF_SuSNov-&_nc_ohc=bay9t8KsjfcQ7kNvwHSD6Wd&_nc_oc=Adkh5LFFkRGJUc3pCQYpV9Tyijh4aIoePXHz7FAQjPnwjQDiqJeuM49Y7iwASutg4BQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHCGnUXxMfwEVKTp2zn4Aso5d2-GTzwHgYdauWZKh7iN8UB98AkUyxxuA4-MpURh1iD2_njRbklAw&oh=00_Afm06E_nef4fJkzgS9pJ6MRUp3bt3m4VvDaSwbKvknZ8vQ&oe=693F0E8D",
+    "full_picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/589726495_866348549378290_4989936935064544167_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2-Qk0iyU2Y1zqxGsqZpHeVAwQzEcVgyFUDBDMRxWDIbsbRoFQrH0DaFSwKhx4DbIkDYL2MAlmXiTF_SuSNov-&_nc_ohc=bay9t8KsjfcQ7kNvwGyP3IJ&_nc_oc=AdkxPmJKGzWNKi4c6dE8LFqOsHZYbYoy1xDHT-aFukP334t1nGGLLN18Pb2B760qTQs&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQF_sEMRLcNBQOjSuph0c-Glk21lXQ0ify49h9xvvkOfR8MoM1avqYBlcgeijrflUs7TkEPETSUfMw&oh=00_Afk3gAWgjHNdv4TrLj-1moprFLh7f7hljydzR44PSqBZUQ&oe=693F46CD",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/866324822713996",
     "attachments": {
       "data": [
@@ -437,7 +437,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/589726495_866348549378290_4989936935064544167_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2-Qk0iyU2Y1zqxGsqZpHeVAwQzEcVgyFUDBDMRxWDIbsbRoFQrH0DaFSwKhx4DbIkDYL2MAlmXiTF_SuSNov-&_nc_ohc=bay9t8KsjfcQ7kNvwHSD6Wd&_nc_oc=Adkh5LFFkRGJUc3pCQYpV9Tyijh4aIoePXHz7FAQjPnwjQDiqJeuM49Y7iwASutg4BQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHy5sneJoSbqDRkVRpImQIhz8exvMXIBMcORSSLMpp6juGX7lY_qKeCn0V6LAERwcGkp2Aex_8wcg&oh=00_AfneLWC43PoRYbybJbcPNJvwV7K4g_5qBJkj5qIj2UNMOA&oe=693F0E8D",
+              "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/589726495_866348549378290_4989936935064544167_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2-Qk0iyU2Y1zqxGsqZpHeVAwQzEcVgyFUDBDMRxWDIbsbRoFQrH0DaFSwKhx4DbIkDYL2MAlmXiTF_SuSNov-&_nc_ohc=bay9t8KsjfcQ7kNvwGyP3IJ&_nc_oc=AdkxPmJKGzWNKi4c6dE8LFqOsHZYbYoy1xDHT-aFukP334t1nGGLLN18Pb2B760qTQs&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFKWzBapPJ9YFIS3kR-h2ecn05wGiyScdgojBoE374dz8ax62ZsRGs4vPNQsua5CacmnYBqZu5SOA&oh=00_Afn-lzdrDz-JgibNtgKJ-tyq6QlP52BTMw9aUZlVoi7fKA&oe=693F46CD",
               "width": 720
             }
           },
@@ -447,7 +447,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/589726495_866348549378290_4989936935064544167_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2-Qk0iyU2Y1zqxGsqZpHeVAwQzEcVgyFUDBDMRxWDIbsbRoFQrH0DaFSwKhx4DbIkDYL2MAlmXiTF_SuSNov-&_nc_ohc=bay9t8KsjfcQ7kNvwHSD6Wd&_nc_oc=Adkh5LFFkRGJUc3pCQYpV9Tyijh4aIoePXHz7FAQjPnwjQDiqJeuM49Y7iwASutg4BQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFZBdhful-KtrkQztNcsJL8AFSKGBvxVhyT5CaPGOk3Wo_D3GW4X6qmITmvuyY1PHvs3Tfc3G2ITw&oh=00_AflBozb9C5BqX_vxrQRSLDVWIw2I5UpDIBbaW6RZ-bWVtA&oe=693F0E8D",
+                    "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/589726495_866348549378290_4989936935064544167_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2-Qk0iyU2Y1zqxGsqZpHeVAwQzEcVgyFUDBDMRxWDIbsbRoFQrH0DaFSwKhx4DbIkDYL2MAlmXiTF_SuSNov-&_nc_ohc=bay9t8KsjfcQ7kNvwGyP3IJ&_nc_oc=AdkxPmJKGzWNKi4c6dE8LFqOsHZYbYoy1xDHT-aFukP334t1nGGLLN18Pb2B760qTQs&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEiSOhE8y_TjG_NTQLqkhMbJffnvfAbW9yxzyzx7VabmNM7n3HChtvFRSdZbUM9RKCFeHyaiYjApg&oh=00_Afn9tRnzbNrHlTgftPn1QtwqUlb6XcYhSPlBRi5LW_Pvcg&oe=693F46CD",
                     "width": 720
                   }
                 },
@@ -462,7 +462,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/590299249_866324392714039_1326758637238807942_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGCR4vVA8UkHGta9mEJogm-gYoEq3MnpIWBigSrcyekhdrUPAISO5IK8cPceFtUhE1CuzScu-4Ao-XYrx_ptr7j&_nc_ohc=olbIH0tjpAQQ7kNvwFombBp&_nc_oc=AdlmjdkbbuHu-JA2YluwIhsBe3bbbSfsd2pb_SoK_rFDI85pPsEhqLGI7-0Qyv_-h64&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHtlYo_Saty6lSzDnhSPryw3frXESv3csE28M79lR9bOH3xJI-QwgwjkbjBPKuLizM4I5gFygv9XA&oh=00_Afm43-kmSZNU5n5nAVr_QJX1i6TXQfLr2dzXHSsrbl6DFA&oe=693F42A1",
+                    "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/590299249_866324392714039_1326758637238807942_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGCR4vVA8UkHGta9mEJogm-gYoEq3MnpIWBigSrcyekhdrUPAISO5IK8cPceFtUhE1CuzScu-4Ao-XYrx_ptr7j&_nc_ohc=olbIH0tjpAQQ7kNvwFKqv4y&_nc_oc=AdmUYXopBgL0JsK79L9SUlunU-JaDK2p4FCoGNI2PvxemN6LgowBnkNtyLNsNB6Stzk&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGGcu73M9Sx42X7nepKTzqPyJ5nZuT4AShHH6qowrwqoSVDVyKRCg7W9ud3_-ZeALgDso0EtnYgQA&oh=00_Aflgw6GqdlySQbczJ1oD74gbLFtCERseHRa6SShfwT7uqg&oe=693F42A1",
                     "width": 720
                   }
                 },
@@ -477,7 +477,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/591433208_866324432714035_5755183733138496451_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFfjS3RBr5kx1PX3ZQwrlrvf4aZ0iuvxpN_hpnSK6_GkyJ2fCpBgItIyGu5eaYXXDRJc9B7pLRUtN7WfoMmTpSk&_nc_ohc=pvjttzAkkJ0Q7kNvwFxA0gr&_nc_oc=Adkhg9SlYj4HqcANzal6alKpaO9PkUrXc9u12fxLCBztRocnz8XLBfFFADEyI_i3W74&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGLLp4CjhwWTt1ZZpeYlqf9rg-7bhXgodCnLtC3K4pYkmNT8g78FVexJcO-VKyJWPKjTu8cfROMJQ&oh=00_AflnwT1gEdmfXY2LqgHuUsntjUNr8MWy6PgpKF2kl6O9Pw&oe=693F3302",
+                    "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/591433208_866324432714035_5755183733138496451_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFfjS3RBr5kx1PX3ZQwrlrvf4aZ0iuvxpN_hpnSK6_GkyJ2fCpBgItIyGu5eaYXXDRJc9B7pLRUtN7WfoMmTpSk&_nc_ohc=pvjttzAkkJ0Q7kNvwEIIPOB&_nc_oc=Adk6G_UCZsEDXaTrA1FhmxOybJ4WWeXkKQEH_9UF1v6D-Sc9Koml1d66gzEeUYhaTzc&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGGfR2krZxSOlgoDUhhbNjKce_6I4_JrlE-luzHQpWmtwB6THHTZYACPf9GWoN1aGhvQSZKSV60pQ&oh=00_AfkXDHuK5vAS-BtbDwEmFdGNo2kWoNVzfykrPv8zfR3mqQ&oe=693F3302",
                     "width": 720
                   }
                 },
@@ -505,7 +505,7 @@
   {
     "message": "📣 Convocatoria Oficial a Elecciones AIME 2026–2027\n\nSe convoca a todos los socios activos de la AIME a formar parte del proceso democrático para la elección de autoridades del período 2026–2027.\nSu participación es fundamental para asegurar la transparencia, la legitimidad y el fortalecimiento institucional de nuestra Asociación.",
     "created_time": "2025-11-27T22:51:39+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/588699752_866279872718491_4041425472015007893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFGSjq408iMGj4-eSF0gJCGsvpJWAl7_ECy-klYCXv8QCEwl4_QCwJAtRhUidK3NjD_eytw3cLryEalwu6wTGHd&_nc_ohc=mniFAi5_0i8Q7kNvwGVOgzj&_nc_oc=AdmigC6kku417KUp92RoztT63tfI_75Q6JYAw--b867wH2607zvpwTkQffKsZB603b8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQG2vLJK8seS-cbYkOTJu881kJf0vMOPILTxzTFE47JwmXJzQNN2oYvGHMgHK2JkFcvnMgm3g5ncxw&oh=00_AfkkAebL4j1oBncd95XFtcY2gFYGTKmA70i5i3zBKOYmJQ&oe=693F3704",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/588699752_866279872718491_4041425472015007893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFGSjq408iMGj4-eSF0gJCGsvpJWAl7_ECy-klYCXv8QCEwl4_QCwJAtRhUidK3NjD_eytw3cLryEalwu6wTGHd&_nc_ohc=mniFAi5_0i8Q7kNvwGvCtHi&_nc_oc=AdnLEupvrRmea7dZZ2Ez23yDjRh1sbidUJOSiylYr5Gk1nFjOVPiNVkENS8WNiKoRmw&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHAWdhLr5LVLrSudp4AsxZiBFR9hozfR9xtkITffWYLtpYD3VFRMdKvzM-t-0kX_UPf4txjX_FLKA&oh=00_AfkclvcStiy5WHzjN1IPTqg-wMSfQxyirjIH7dwWp9Osmg&oe=693F3704",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/866279972718481",
     "attachments": {
       "data": [
@@ -513,7 +513,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/588699752_866279872718491_4041425472015007893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFGSjq408iMGj4-eSF0gJCGsvpJWAl7_ECy-klYCXv8QCEwl4_QCwJAtRhUidK3NjD_eytw3cLryEalwu6wTGHd&_nc_ohc=mniFAi5_0i8Q7kNvwGVOgzj&_nc_oc=AdmigC6kku417KUp92RoztT63tfI_75Q6JYAw--b867wH2607zvpwTkQffKsZB603b8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHddn97JwIZ3KqOtOMZO9hY-Fjr60ZpN5sUhF1b6n9qlk00CBF-hhU5ETc_yTcI9EJ8zgVZ3xBgdQ&oh=00_AflBYLVPzlzAy087rLpr-8bAqRD25G1Om6InZRtdQHoOow&oe=693F3704",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/588699752_866279872718491_4041425472015007893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFGSjq408iMGj4-eSF0gJCGsvpJWAl7_ECy-klYCXv8QCEwl4_QCwJAtRhUidK3NjD_eytw3cLryEalwu6wTGHd&_nc_ohc=mniFAi5_0i8Q7kNvwGvCtHi&_nc_oc=AdnLEupvrRmea7dZZ2Ez23yDjRh1sbidUJOSiylYr5Gk1nFjOVPiNVkENS8WNiKoRmw&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFlQSQOx1RMSoMs2k3G8OicwjoT5ddkY6qtiJUFUCKo9bCYMrKujWo9dLLuh33ydBccWuVqGWDM3Q&oh=00_AfkpdaphGcRcSufdVOidT1-viABejmT-89OZ0_2ZkPsjXg&oe=693F3704",
               "width": 720
             }
           },
@@ -523,7 +523,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/588699752_866279872718491_4041425472015007893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFGSjq408iMGj4-eSF0gJCGsvpJWAl7_ECy-klYCXv8QCEwl4_QCwJAtRhUidK3NjD_eytw3cLryEalwu6wTGHd&_nc_ohc=mniFAi5_0i8Q7kNvwGVOgzj&_nc_oc=AdmigC6kku417KUp92RoztT63tfI_75Q6JYAw--b867wH2607zvpwTkQffKsZB603b8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHLtxzn0pw7hghQEd48d_jlLPm4316IegEZZitZrZpvYb3QjBwtm_KvbSwVOv53xpyslTprEDtYVg&oh=00_Afm1jidZ10Q5E08LZK5i93NVGCfYBGK_BgXvHdVt-rkVVg&oe=693F3704",
+                    "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/588699752_866279872718491_4041425472015007893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFGSjq408iMGj4-eSF0gJCGsvpJWAl7_ECy-klYCXv8QCEwl4_QCwJAtRhUidK3NjD_eytw3cLryEalwu6wTGHd&_nc_ohc=mniFAi5_0i8Q7kNvwGvCtHi&_nc_oc=AdnLEupvrRmea7dZZ2Ez23yDjRh1sbidUJOSiylYr5Gk1nFjOVPiNVkENS8WNiKoRmw&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFdeGwiYLzOtkfEkWkOBbfKff2TlF4WUkEmIVe0I0vc93V6undbbbWH1-z1sdwfB551QB0XxWTSLg&oh=00_AfmAs2de2qj62Nj7R-hF65c0ZsdXSjcjAXai4-FU9fm4eQ&oe=693F3704",
                     "width": 720
                   }
                 },
@@ -538,7 +538,7 @@
                 "media": {
                   "image": {
                     "height": 900,
-                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/590659726_866279679385177_4156658493562762754_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeExLWaKONNlD9CRZcQsDeapUXFdcYGZEG5RcV1xgZkQbtqDvcn4XY6RSg2hkfeP2RcwNQOOiPD0c6S4-RttgrGA&_nc_ohc=esuFJDe1nsYQ7kNvwH39Vid&_nc_oc=AdnGo-2xa_KabSZw8EQD_IgnXtu8TQGGJ0yEYarNZXvvTe2eSnQShAoXNLcbJkXVq_Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHESHZT8EU1WcEwzGNsUjp-VJgc8rz4WDFo6hga1294QWMi1cTybVF7Z8YlGiDNOiINDitc2avQuA&oh=00_AfleW2ZZX_Bb3eauQpxlKxCjuP5CGQ5LuFi9gV86RME9oA&oe=693F1C8B",
+                    "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/590659726_866279679385177_4156658493562762754_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeExLWaKONNlD9CRZcQsDeapUXFdcYGZEG5RcV1xgZkQbtqDvcn4XY6RSg2hkfeP2RcwNQOOiPD0c6S4-RttgrGA&_nc_ohc=esuFJDe1nsYQ7kNvwHfFVLX&_nc_oc=AdlBBdQWV98njOipeYThn6aBBEs2zSCzeSDT0jpd-u6Yq3Vdvo-ksjODwDKo6-YEQ_U&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQH24AjdqYs57bQi_P7IR8eKRDmEjDESF886EpetpiYaFmT4ETQ6BpjPqDo4vLOL0wToTcoxR0c_dA&oh=00_Afmk4A2yAmOyotBc_DqrFJN16NVpj1M4FTsLtnm6emq9Wg&oe=693F1C8B",
                     "width": 720
                   }
                 },
@@ -566,7 +566,7 @@
   {
     "message": "🚀 ¡La minería está cambiando y tú tienes que estar ahí!\nÚnete al Foro Minería 360°, el evento que reúne tendencias, innovación y tecnología que están marcando el futuro del sector.\n\nSi trabajas en minería, ingeniería, medio ambiente o simplemente te apasiona el desarrollo tecnológico, este es tu espacio para aprender, conectar y crecer.\n\n📅 No te quedes sin tu lugar.\n📝 Regístrate aquí: https://forms.gle/Y3sNcfFnZhbvc1E68\n\nCompártelo y ayúdanos a llegar a más profesionales 💬",
     "created_time": "2025-11-27T21:16:56+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/590026522_2007731743113858_7027691150971667331_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeGAkkWThgCMOOSDDz6cvJqYV08jUzIuN0ZXTyNTMi43RtB31nXqPkUqbpmjGCvUTE4AVsUEw8yro9wsHTYiIRR-&_nc_ohc=-ak24oD0ICIQ7kNvwHBf9Ye&_nc_oc=AdmIHWWWjZCFnAQpFAFTPOcfHzXkpLjjfg7mL4u58X6l71HYZWZo-NwpRyNgTMacGJ4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQEChf2XusRKGdtmisrWynlaXLk0rV1eiGJMW7i49q1fYkPFeAHQIvj7I2NgWwL8dj4TEDjWuj2jdQ&oh=00_Afk90onZbqpsCG4WAsbwzMniNECyU1uJsmmOeU2Xmz3szw&oe=693F2DB5",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/590026522_2007731743113858_7027691150971667331_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeGAkkWThgCMOOSDDz6cvJqYV08jUzIuN0ZXTyNTMi43RtB31nXqPkUqbpmjGCvUTE4AVsUEw8yro9wsHTYiIRR-&_nc_ohc=-ak24oD0ICIQ7kNvwF3SAdQ&_nc_oc=AdmnA8TOfkQMQRQERuKyzj-Ry1JfGOLUYQQARfeErsppJcn4i6wcCcf54yPdp_vAZrg&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFPO09aUg-S2n3YK7EsNo05gyw0jDthYqSJD6DsISnFtBxtTT-VIQ4l_BmvhmNZ-JqeR66H6cxSGg&oh=00_AfnyYh69m_pB5xEhbb9C_WGeB1wod4rQbSfIncZTSNLEng&oe=693F2DB5",
     "permalink_url": "https://www.facebook.com/reel/850906037294788/",
     "attachments": {
       "data": [
@@ -574,10 +574,10 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/590026522_2007731743113858_7027691150971667331_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeGAkkWThgCMOOSDDz6cvJqYV08jUzIuN0ZXTyNTMi43RtB31nXqPkUqbpmjGCvUTE4AVsUEw8yro9wsHTYiIRR-&_nc_ohc=-ak24oD0ICIQ7kNvwHBf9Ye&_nc_oc=AdmIHWWWjZCFnAQpFAFTPOcfHzXkpLjjfg7mL4u58X6l71HYZWZo-NwpRyNgTMacGJ4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGab43nuGhxnC8RA1yU5HKw_nXzhkYEMiHAyoUv6NaihUsytTfQ1RtHyFMNSdcBpm3-oSeWC3Ta4A&oh=00_AfmioxY1lUocoEoe_DFY99R3wZ--O7NuIOAWlBnz-iRmmg&oe=693F2DB5",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/590026522_2007731743113858_7027691150971667331_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeGAkkWThgCMOOSDDz6cvJqYV08jUzIuN0ZXTyNTMi43RtB31nXqPkUqbpmjGCvUTE4AVsUEw8yro9wsHTYiIRR-&_nc_ohc=-ak24oD0ICIQ7kNvwF3SAdQ&_nc_oc=AdmnA8TOfkQMQRQERuKyzj-Ry1JfGOLUYQQARfeErsppJcn4i6wcCcf54yPdp_vAZrg&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQF6jH9ecYQLBt2v_uob8EB5sb0VaDB80uhGZO-UP7Xk6alkZDURjq2phGPEmxSSVlf6ZX-eQ1mfCg&oh=00_Afn-ECo0xJw13-bP_CbW0v4ykq6kxmkuHS9wjwBWqj2QEg&oe=693F2DB5",
               "width": 405
             },
-            "source": "https://scontent-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNK6yXxOWy9I4e1l5ZMzc_kBRazNYqe2WWpKlPRKoJ8R2JN6N96GkRkGG1YLBjLvE1vbMugJgw6ntiJ_g_xZOxpvVziTce1ypZbblYGd0FLcA.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-sjc6-1.xx.fbcdn.net&_nc_ohc=oqda3iw6a70Q7kNvwG0a4Yu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTk3NjYwMDY2MzQyNzEsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c02ac3862c76ec99&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8wNzRCQjI5RjVFQzcyREYwNzI4N0VDMzZCRjFBN0M5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-3Mb43NeqBBUCKAJDMywXQEnRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeEF8TmDPXbSV0H2AlX8HZqOfMctW_BXcp18xy1b8FdynaFURyN0ZvwXYfhc00Rm-9VArL7_L-2J51WyL_1w5QSg&_nc_tpa=Q5bMBQFK26QrbJGarrJjmrVS5WboWOwbX4Z1smzmZxyK3EjoAn7VOlggd2M-Z5sayMeU_YlcLsAz-AqUgA&oh=00_AfkaLh9N0YkSHhdD2j0MnZkXQ0wIOqzT5bbL0aolKovFCA&oe=693F26DB&bitrate=0&tag=dash_h264-basic-gen2_720p"
+            "source": "https://video-atl3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQNK6yXxOWy9I4e1l5ZMzc_kBRazNYqe2WWpKlPRKoJ8R2JN6N96GkRkGG1YLBjLvE1vbMugJgw6ntiJ_g_xZOxpvVziTce1ypZbblYGd0FLcA.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-atl3-3.xx.fbcdn.net&_nc_ohc=oqda3iw6a70Q7kNvwFT8OYK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTk3NjYwMDY2MzQyNzEsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c02ac3862c76ec99&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8wNzRCQjI5RjVFQzcyREYwNzI4N0VDMzZCRjFBN0M5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-3Mb43NeqBBUCKAJDMywXQEnRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeEF8TmDPXbSV0H2AlX8HZqOfMctW_BXcp18xy1b8FdynaFURyN0ZvwXYfhc00Rm-9VArL7_L-2J51WyL_1w5QSg&_nc_tpa=Q5bMBQEnUlAI4cUA_qTho-5_yfuGTYXNhTPav7Wur9K2qYfKbhiFlpW2cmig7sOPL3kDKvHxmSkCu5vGwQ&oh=00_AfkLc-HsAE2mGlLgTweqHsqrl_sCliuw7Sh4GkAT2kHgIw&oe=693F26DB&bitrate=0&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "850906037294788",
@@ -593,7 +593,7 @@
   {
     "message": "⛏️🤝 ¡Continuamos con el FORO MINERÍA 360° – Día 2!\nEste 11 de diciembre de 2025, abordamos un eje fundamental para el desarrollo minero del país: Seguridad y Responsabilidad Social.\nUn espacio creado para dialogar, aprender y construir una minería más segura, sostenible y cercana a las comunidades.\n\n🛠️ Foro 3 | 18h10 – 19h10\n“La Minería como Impulsora del Emprendimiento Local Sostenible”\nConoce cómo el sector minero puede fortalecer iniciativas locales y generar desarrollo territorial.\n\n💬 Foro 4 | 19h15 – 20h00\n“El Gran Diálogo: Desafíos y Oportunidades para la Unificación del Sector Minero Ecuatoriano”\nUna conversación clave sobre el futuro del sector y la importancia de trabajar articuladamente.\n\n📲 REGÍSTRATE AQUÍ:\n👉 https://forms.gle/Y3sNcfFnZhbvc1E68\n\n🔴 Transmisión en vivo por Facebook Live\n\nOrganiza: AIME – Asociación de Ingenieros de Minas del Ecuador\n📞 WhatsApp: +593 96 820 4060\n🌐 www.aimecuador.org",
     "created_time": "2025-11-27T01:20:57+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/589289668_865577652788713_6871234828761358385_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5WHYoBvKv3lkqcdaUnQJ5-WzHdviQqJ75bMd2-JConsSqSUjsIWunqJ1F7Wj53V9dD-4KDev7w8iwdzOk_iGt&_nc_ohc=pLxZTMgFr34Q7kNvwH5heTk&_nc_oc=AdlR5ioDiRCmk_sQ6vpV9qT5fvCuC3N44RDT1P7qIt89uiwnvwlCk5hM2CTaG2gJoB8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHBAWYrYnpSnu3yz2JVZ95D31lTRzSScpW3ZT2FDIUS8kAnBIGLP5j5wIemfgnx_z5qzPae6ky97Q&oh=00_AfnxKPdHQcpEquxMvZj61iPRvB2i5LpdwlMwWOG9NsUZyg&oe=693F3425",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/589289668_865577652788713_6871234828761358385_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5WHYoBvKv3lkqcdaUnQJ5-WzHdviQqJ75bMd2-JConsSqSUjsIWunqJ1F7Wj53V9dD-4KDev7w8iwdzOk_iGt&_nc_ohc=pLxZTMgFr34Q7kNvwG5G44x&_nc_oc=AdnJxyzb2IIAfexpkDPtkmWtNJwC5Q_lcdKHdgHCT31gSLVAc3u9fmRAoP4JIHF0J9w&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQE9huh3NO3EuIOV_Vf5iwZDsY73798v1OVRu--htI5EAqDlYhidBL2qbYrfezMUfBheBby81AUUhA&oh=00_AflzBzf6WbJ8-y4LmNqwIfQqdBILAzFZy6spnKz-k4VjFA&oe=693F3425",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/865579419455203",
     "attachments": {
       "data": [
@@ -602,7 +602,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/589289668_865577652788713_6871234828761358385_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5WHYoBvKv3lkqcdaUnQJ5-WzHdviQqJ75bMd2-JConsSqSUjsIWunqJ1F7Wj53V9dD-4KDev7w8iwdzOk_iGt&_nc_ohc=pLxZTMgFr34Q7kNvwH5heTk&_nc_oc=AdlR5ioDiRCmk_sQ6vpV9qT5fvCuC3N44RDT1P7qIt89uiwnvwlCk5hM2CTaG2gJoB8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHq0XgwS7t1Ui3uZKjM1RReri7oDV5tKKQrvYb9D6GsLoag3h7FYkmcA3qTuWKdt9DnAa1xxnA_gA&oh=00_Afnqf0fVdU3-JUg2uczpZX4NzbA8twqe38NyE6dEPMElXQ&oe=693F3425",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/589289668_865577652788713_6871234828761358385_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5WHYoBvKv3lkqcdaUnQJ5-WzHdviQqJ75bMd2-JConsSqSUjsIWunqJ1F7Wj53V9dD-4KDev7w8iwdzOk_iGt&_nc_ohc=pLxZTMgFr34Q7kNvwG5G44x&_nc_oc=AdnJxyzb2IIAfexpkDPtkmWtNJwC5Q_lcdKHdgHCT31gSLVAc3u9fmRAoP4JIHF0J9w&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEwEq2QFGMoXVCm66o5WMMhIlTVrB3nC7JBsQrWL8QnO7FnJh1MAU-VTOlTmwHAN-eGnVbpScdatw&oh=00_AfmAWzfQZlW_gBotIIxBY7AVZhpfs5VD43BNvrRHnLgyAw&oe=693F3425",
               "width": 720
             }
           },
@@ -620,7 +620,7 @@
   {
     "message": "La AIME y el Colegio de Economistas de Pichincha dieron un importante paso para fortalecer la minería responsable en Ecuador. 🙌\n\nEn una primera reunión de acercamiento, ambas instituciones analizaron el rol estratégico de la minería en la reactivación económica y revisaron los avances de la Agenda Sectorial 20–50.\n\n🤝 Como resultado, se acordó una hoja de trabajo conjunta que incluye una reunión técnica y la futura firma de un convenio de cooperación para transparentar las exportaciones de metales y aprovechar el favorable contexto internacional.\n\n¡Un esfuerzo clave para promover una minería transparente, técnica y comprometida con el desarrollo del país! 🇪🇨✨",
     "created_time": "2025-11-26T14:15:22+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/588407885_865216179491527_9016027100737467_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEoDVTjPJBZAooMl4StL1Rncba4leljw4dxtriV6WPDh0bOCvJvfHyNNctTc9i5OGgu0rfy_2OE6mvS_2wlSl27&_nc_ohc=iX02J-hhp0QQ7kNvwHaV1vx&_nc_oc=Adm6GPcE4i1XAIfGK7Y1-DFx9JMQQY35WKkFb4KDtK10STq8DaKU4u-tGR41JCZe8FU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQH0uzcQrnNrQv6u2rnWfxTDy_F9PvnlQMsMli9FpZgNrWK1FpAflKUMiwZUUdrlQd6EFnQzIz-lIg&oh=00_AfnPrif_oMbW_0UeDa41Bqfj08Ft2Q9ltzyUYpm_lbt8zw&oe=693F184C",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/588407885_865216179491527_9016027100737467_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEoDVTjPJBZAooMl4StL1Rncba4leljw4dxtriV6WPDh0bOCvJvfHyNNctTc9i5OGgu0rfy_2OE6mvS_2wlSl27&_nc_ohc=iX02J-hhp0QQ7kNvwFobR_O&_nc_oc=AdltZN89fuvQofKWQbV221lfP2LSbon5QRxg7Dl3GN1TStRETgJoMdvGgPH6X5KPIoc&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFLoLyH2eLGRMAQ-WHHSN1GjHdqwNSrQIb4NPIFN176h1ZCYdQPkWaYPH4chLf1J9Vqcp3LpIh0rA&oh=00_AfmtGl9djHBj5pZY5ty3DvSd_SSGagnslANgYCnrDiqT5g&oe=693F508C",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/865216122824866",
     "attachments": {
       "data": [
@@ -628,7 +628,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/588407885_865216179491527_9016027100737467_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEoDVTjPJBZAooMl4StL1Rncba4leljw4dxtriV6WPDh0bOCvJvfHyNNctTc9i5OGgu0rfy_2OE6mvS_2wlSl27&_nc_ohc=iX02J-hhp0QQ7kNvwHaV1vx&_nc_oc=Adm6GPcE4i1XAIfGK7Y1-DFx9JMQQY35WKkFb4KDtK10STq8DaKU4u-tGR41JCZe8FU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGYv3oA6pgreKUFbdEAsmLq0zyMoBaAywkVahtlx-OSosi3kSVjkjaHf-33b5cJ4mV7Q9NiFVFy9Q&oh=00_Afk2eSAXnuf-Uv4qFf_SC7k1AWyU44Teu13VkkGZeycP3w&oe=693F184C",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/588407885_865216179491527_9016027100737467_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEoDVTjPJBZAooMl4StL1Rncba4leljw4dxtriV6WPDh0bOCvJvfHyNNctTc9i5OGgu0rfy_2OE6mvS_2wlSl27&_nc_ohc=iX02J-hhp0QQ7kNvwFobR_O&_nc_oc=AdltZN89fuvQofKWQbV221lfP2LSbon5QRxg7Dl3GN1TStRETgJoMdvGgPH6X5KPIoc&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFsLRI5GaqWjqlHOW10vy4soBaUH9KAUWv90mtounuqsn8xWpehFaDliBKLWyEKzfdON_X6270Ypw&oh=00_Afltc_DT4k87-g3f1xRchkjE4Lb_S-nRpqgBMhjhuNyAIA&oe=693F508C",
               "width": 720
             }
           },
@@ -638,7 +638,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/588407885_865216179491527_9016027100737467_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEoDVTjPJBZAooMl4StL1Rncba4leljw4dxtriV6WPDh0bOCvJvfHyNNctTc9i5OGgu0rfy_2OE6mvS_2wlSl27&_nc_ohc=iX02J-hhp0QQ7kNvwHaV1vx&_nc_oc=Adm6GPcE4i1XAIfGK7Y1-DFx9JMQQY35WKkFb4KDtK10STq8DaKU4u-tGR41JCZe8FU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGllmFl-UERnJSj0g-y5U8yFi4L-qeEyhVxtHW8r7nbOLGv5KW8O8hnQwfmk90c_s2k0F02X1ghbQ&oh=00_AfkYhHJmgUvrH1ordYBTlf740MXtnI69qGkH-kFlY2b6UA&oe=693F184C",
+                    "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/588407885_865216179491527_9016027100737467_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEoDVTjPJBZAooMl4StL1Rncba4leljw4dxtriV6WPDh0bOCvJvfHyNNctTc9i5OGgu0rfy_2OE6mvS_2wlSl27&_nc_ohc=iX02J-hhp0QQ7kNvwFobR_O&_nc_oc=AdltZN89fuvQofKWQbV221lfP2LSbon5QRxg7Dl3GN1TStRETgJoMdvGgPH6X5KPIoc&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEF05jUorX3MXjybfH8kooslfWYEuFrvZgk7Ljn2n-LdaN_sr8N-NZFdBaCJO9PKODLMbsJGY2LOg&oh=00_AfnSiEybjOCf15LZVPBGtVkdcc_FUAJlVkIp4WNOBK9N_A&oe=693F508C",
                     "width": 720
                   }
                 },
@@ -653,7 +653,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/587052396_865216232824855_5898973877544125721_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHkWUkxajxVI24RDH3NJWJHNrd6PDGOT6c2t3o8MY5Pp5LrndnOYt0ZN3K9kBQCyuwiwNooHUzN2NhnJGCodvDL&_nc_ohc=bXpc1AtD5oIQ7kNvwHATILz&_nc_oc=AdniF7OIcNG5iBLVX3CLWvYyRPoxcfW677eHDxXwF29b1GEHRoF87Lx6E98u13qBnqU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQE71IFSlvHoe4YicSnFPhFEZt_ozp52qXNI7wUfaHlEYcP8lYukGasp_jTHQxmi0964VV2Ww8BBHg&oh=00_AfnXA6A55dCb_KKilG5wJhNvGPcorvfsVlkKzdO8qcSbUA&oe=693F1CBD",
+                    "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/587052396_865216232824855_5898973877544125721_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHkWUkxajxVI24RDH3NJWJHNrd6PDGOT6c2t3o8MY5Pp5LrndnOYt0ZN3K9kBQCyuwiwNooHUzN2NhnJGCodvDL&_nc_ohc=bXpc1AtD5oIQ7kNvwGN9zVn&_nc_oc=AdmAmzja12RdzNIl37Nqz3sLLgW2e9MLkweCGSsDToX7efJb9JK3RA3gLx3AfMkeZGU&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQE_DtqvJ2o1Vlfa3-_joMgCkpd8Y0kWQZ-eTtd4gxGK-RVHk4L2CNYazQP4fRVqYsVfEgI7RmALQQ&oh=00_Aflc6NsFXBOkMjVyaxcXKNtU7cMstV3nsS35UezOjX5JJQ&oe=693F1CBD",
                     "width": 720
                   }
                 },
@@ -681,7 +681,7 @@
   {
     "message": "⛏️🌱 ¡Este 10 de diciembre inicia el FORO MINERÍA 360° – Día 1!\nPrepárate para un evento que reunirá a expertos, estudiantes, profesionales y apasionados del sector minero para hablar de educación, talento y gestión ambiental, tres pilares esenciales para la minería del futuro.\n\n👷‍♂️👷‍♀️ Foro 1 | 18h10 – 19h10\n“El Talento Minero del Futuro”\nConversaremos sobre las competencias, habilidades y visión que los nuevos profesionales de la minería deben desarrollar para enfrentar los desafíos del sector.\n\n🌍💡 Foro 2 | 19h15 – 20h00\n“La Licencia Ambiental: Tecnología e Innovación como Aliados Clave”\nUna charla imprescindible para entender cómo la tecnología y las buenas prácticas impulsan una minería más responsable y sostenible.\n\n📲 REGÍSTRATE AQUÍ:\n👉 https://forms.gle/Y3sNcfFnZhbvc1E68\n\n🔴 Transmisión en vivo por Facebook Live\n\nOrganiza: AIME – Asociación de Ingenieros de Minas del Ecuador\n📞 WhatsApp: +593 96 820 4060\n🌐 www.aimecuador.org",
     "created_time": "2025-11-25T01:38:30+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/586834728_863968372949641_4840937809577386756_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHtnykADwjLaqyXuDm1DC-BAi_e7tb57H0CL97u1vnsfeRlPcRHqp_uZen5J0X1QLWmueR8qkN8BGfwY_-g_NXK&_nc_ohc=iVTRvqMAHJAQ7kNvwE1ZZTT&_nc_oc=AdkOF4CzH66kyXARw0NrGCCV8JwNl4eBBN9yTseDIuURHaKzMSBTIOQu8k9m_MfVQcQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQG-3GRzScb5X1f_v59pL9oPrBbUix0VZqt-u70XnmfN0NxR5QWatBXiof1uO1U6o1D93brJ_AsPfw&oh=00_AfnO3xujlsNflEAXpqbewdAbk_sNyUGVC4UwyIOqKkcO6g&oe=693F11CE",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/586834728_863968372949641_4840937809577386756_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHtnykADwjLaqyXuDm1DC-BAi_e7tb57H0CL97u1vnsfeRlPcRHqp_uZen5J0X1QLWmueR8qkN8BGfwY_-g_NXK&_nc_ohc=iVTRvqMAHJAQ7kNvwFc7EEx&_nc_oc=AdmSH_e7-oU7uJigOZZXDr3Padfw3FmTsw2x4rONDPfTKp4rAYoLXyFFQc4nNouYMbY&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFWpsfR3F0CIC9mOmi7fnhjbQJIjh3nY16QHVnwv__9w581Zw1fbzecF17AdFJmN0iBlP7giLa0xQ&oh=00_AfmoHi5y1x0-6ZTjFhgh5yZXwRE2axB1QeBxB1lLedUUGw&oe=693F4A0E",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/863968859616259",
     "attachments": {
       "data": [
@@ -690,7 +690,7 @@
           "media": {
             "image": {
               "height": 900,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/586834728_863968372949641_4840937809577386756_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHtnykADwjLaqyXuDm1DC-BAi_e7tb57H0CL97u1vnsfeRlPcRHqp_uZen5J0X1QLWmueR8qkN8BGfwY_-g_NXK&_nc_ohc=iVTRvqMAHJAQ7kNvwE1ZZTT&_nc_oc=AdkOF4CzH66kyXARw0NrGCCV8JwNl4eBBN9yTseDIuURHaKzMSBTIOQu8k9m_MfVQcQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQE1kNZ6xB7M79UniA3nZWejUVEg7PGk2piL-sMeFvnq3hOYDT_Ym3vnv0v-Q1xWuB_caEswtASOIw&oh=00_AfmgcEvcf1kyLZ3XLRF4Wm53IG2DRK-HZJ61X7pVjWFNXg&oe=693F11CE",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/586834728_863968372949641_4840937809577386756_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHtnykADwjLaqyXuDm1DC-BAi_e7tb57H0CL97u1vnsfeRlPcRHqp_uZen5J0X1QLWmueR8qkN8BGfwY_-g_NXK&_nc_ohc=iVTRvqMAHJAQ7kNvwFc7EEx&_nc_oc=AdmSH_e7-oU7uJigOZZXDr3Padfw3FmTsw2x4rONDPfTKp4rAYoLXyFFQc4nNouYMbY&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFPtuTX0FlyINu1cfHrMVM8Sqb3t1kErlMDwQiSwVl8sHT2szcrdR5MH1XVk0Oe8FSHXSFAd8-AuQ&oh=00_AflUGYL2-G5qandNHO0_ODt61DcR8iQTDJUiILny1NxMiQ&oe=693F4A0E",
               "width": 720
             }
           },
@@ -708,7 +708,7 @@
   {
     "message": "✨ El futuro de la minería se construye hoy.\nTalento, innovación y sostenibilidad en un solo espacio.\n\n📅 10 y 11 de diciembre – Quito\n🔵 Foro Minería 360°\nRegístrate aquí 👉 https://forms.gle/Y3sNcfFnZhbvc1E68",
     "created_time": "2025-11-19T00:43:32+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/584086262_1926711824557084_4832336157005664787_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeFwHNCZeO27fyfxsl-2XkmI_AbL18QcBp_8BsvXxBwGnwMGrBFdsC64SljMbtYcTZphWOv7FUtrorHj2cd3Icvl&_nc_ohc=qRln6K5FUYEQ7kNvwGmnzg9&_nc_oc=Adm54VjYTyn1sYHh9bPw1mmi2RW0ylf7GlfBJrDGBdrTrEtTJcvArZYfhxs_-rZfCoM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFSB-YC0Q9wJN6SLgaoXFFwbqI_bsYASHPe-do-Ys7B7KQ2espRRtmHOHdlUfU6cJpLqcOewzENIA&oh=00_AfkD7R0AmCWP8rwALsvSjs75_RgRgMp7WCJ8HNP_545IOw&oe=693F0D03",
+    "full_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/584086262_1926711824557084_4832336157005664787_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeFwHNCZeO27fyfxsl-2XkmI_AbL18QcBp_8BsvXxBwGnwMGrBFdsC64SljMbtYcTZphWOv7FUtrorHj2cd3Icvl&_nc_ohc=qRln6K5FUYEQ7kNvwHh27xH&_nc_oc=AdnnRbqkOU4PDK0AKvvdQECVvjFWDAwFmZBby-WXUiEktvwSkq6Dd8gyqYBaQsRvV6g&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFbIBFECg7pxKxBLr27FUoAEwmXmBWrCvDkV0z5DSNsNPJYxqduqcj6igmNXGCx0D8pLx63yg1lnA&oh=00_AfkVelTmSiWhX_Wy48XHdSd1wtjU1aEC98oqoJ4_NPVoPA&oe=693F4543",
     "permalink_url": "https://www.facebook.com/reel/1150616453864600/",
     "attachments": {
       "data": [
@@ -716,10 +716,10 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/584086262_1926711824557084_4832336157005664787_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeFwHNCZeO27fyfxsl-2XkmI_AbL18QcBp_8BsvXxBwGnwMGrBFdsC64SljMbtYcTZphWOv7FUtrorHj2cd3Icvl&_nc_ohc=qRln6K5FUYEQ7kNvwGmnzg9&_nc_oc=Adm54VjYTyn1sYHh9bPw1mmi2RW0ylf7GlfBJrDGBdrTrEtTJcvArZYfhxs_-rZfCoM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFvDIoVOFRkxWTQLgx9zBbKU7fhQkqxkuImSMb5juvjoKVmhEvt9sp6fhY0RczEGjsaT0V_K-yFww&oh=00_AfmSlnZAWv4tz7ij4C8OFyjfims3hjHFg6gWKDzhyNI2NA&oe=693F0D03",
+              "src": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/584086262_1926711824557084_4832336157005664787_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_eui2=AeFwHNCZeO27fyfxsl-2XkmI_AbL18QcBp_8BsvXxBwGnwMGrBFdsC64SljMbtYcTZphWOv7FUtrorHj2cd3Icvl&_nc_ohc=qRln6K5FUYEQ7kNvwHh27xH&_nc_oc=AdnnRbqkOU4PDK0AKvvdQECVvjFWDAwFmZBby-WXUiEktvwSkq6Dd8gyqYBaQsRvV6g&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGbxgtWJydese617jyHgbVnRJJE0Jx-usFRRA9pL2-hZ4OGqbEML9M89NMXByT8v6Vt8g9a_5Rbgg&oh=00_AfkcsH7whcXNU1ceji0-xvQgOLFj5XWXaTf8AWMBQgvDSQ&oe=693F4543",
               "width": 405
             },
-            "source": "https://scontent-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMctnsThtHkObFJz0G44-YuZRgv8uQHRNM4r3rFuWkJyyY7_Jl66gJdOCYV3El1kBhkvok-QiV67Jzq-RSRHmlfv9-BahAgF02xdPMkwQUEhw.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.xx.fbcdn.net&_nc_ohc=3ieigd1bl3AQ7kNvwHqlWZ-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQyOTI0MjY5NTQ0MTQ1NzIsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=264df1e30a06259e&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8yNTQ4MEUzQUI1NTNDNEJCMTY0MTIzNTlDQThDRUFBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY57z9kPyfDxUCKAJDMywXQDeiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeHGceICi6RIIW02HZgLEMUmfaBfxWzgqyJ9oF_FbOCrIqS9vtTQFvGql-83LPyY3lIj7kbI19d5276Po5tXIHiX&_nc_tpa=Q5bMBQEsWEMNR11TWA0Lwb60Wmi0ppSzWQtHKE2_D-GCTK8AoOPyNt-QeCnwwctXxX1bRAgk0EJyJQZBRA&oh=00_AfldEt0YVysQ-nzZLfZbWiGAmqq2WPJfnA98z3eqijXgXQ&oe=693F2D4A&bitrate=0&tag=dash_h264-basic-gen2_720p"
+            "source": "https://video-atl3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQMctnsThtHkObFJz0G44-YuZRgv8uQHRNM4r3rFuWkJyyY7_Jl66gJdOCYV3El1kBhkvok-QiV67Jzq-RSRHmlfv9-BahAgF02xdPMkwQUEhw.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=video-atl3-3.xx.fbcdn.net&_nc_ohc=3ieigd1bl3AQ7kNvwFvfyJZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQyOTI0MjY5NTQ0MTQ1NzIsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=264df1e30a06259e&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8yNTQ4MEUzQUI1NTNDNEJCMTY0MTIzNTlDQThDRUFBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY57z9kPyfDxUCKAJDMywXQDeiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeHGceICi6RIIW02HZgLEMUmfaBfxWzgqyJ9oF_FbOCrIqS9vtTQFvGql-83LPyY3lIj7kbI19d5276Po5tXIHiX&_nc_tpa=Q5bMBQHjzlBx_Mubn1-ENip_WLhqGJdq-3GceyfdWiqtX5yP2s9sq-5p-L2iH244GI5NunmmHx3NBWX_0A&oh=00_AfkUIKGYbjTgMF33AKqa5h-bMDNsz41br5KEgcGC8KTpyA&oe=693F2D4A&bitrate=0&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "1150616453864600",
@@ -735,7 +735,7 @@
   {
     "message": "✨ El futuro de la minería se construye hoy.\nTalento, innovación y sostenibilidad en un solo espacio.\n\n📅 10 y 11 de diciembre – Quito\n🔵 Foro Minería 360°\nRegístrate aquí 👉 https://forms.gle/Y3sNcfFnZhbvc1E68",
     "created_time": "2025-11-19T00:34:30+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/584000892_1578621520237292_984339130164633822_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeHN4nPNidofvMAjBdzWqMC6rMkvUGy9cN2syS9QbL1w3Vo7PO8EKvGRYZRkk5BRH8GdvSQjonUp-YaI91DWW_dX&_nc_ohc=4o0-5eW80NMQ7kNvwHTQ7zR&_nc_oc=Adn3NjRWkAgUFNZqtALSgWqFsZ3nfVxDC1koftDXeiSy4F5R1UXZpnbIp7N7-KWj5Kk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFTXwWPj05Vw4Va3fu_XNz6j1l2jfPpiFX_DqgpYR-ke6_-8NK39Hq-h5NdDQDCs0qtfG9tPGtmxQ&oh=00_AfkceAvvL0d5hTMH7ugEoVCcpYCUXLL7P3KtmQRNRt1n0A&oe=693F1393",
+    "full_picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/584000892_1578621520237292_984339130164633822_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeHN4nPNidofvMAjBdzWqMC6rMkvUGy9cN2syS9QbL1w3Vo7PO8EKvGRYZRkk5BRH8GdvSQjonUp-YaI91DWW_dX&_nc_ohc=4o0-5eW80NMQ7kNvwEEicvX&_nc_oc=AdmDnO0uKQ2X_1FhBGHaxqctUzO5LV93KCVgsSOQavP3_xosIzeFHrqgSdDiAaqkc0c&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEGYpQEFcGOskvkww2mfTFTHjX-ChkA-q0OCO7A0bCwEjb_loJhh54gJOHtyBTw_3b3T2or0CzAJQ&oh=00_Afkr_SDjkrnyUa6cQPaElZq84VHrULJMQaaQsH97ZXZsAw&oe=693F4BD3",
     "permalink_url": "https://www.facebook.com/reel/835689049263098/",
     "attachments": {
       "data": [
@@ -743,10 +743,10 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/584000892_1578621520237292_984339130164633822_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeHN4nPNidofvMAjBdzWqMC6rMkvUGy9cN2syS9QbL1w3Vo7PO8EKvGRYZRkk5BRH8GdvSQjonUp-YaI91DWW_dX&_nc_ohc=4o0-5eW80NMQ7kNvwHTQ7zR&_nc_oc=Adn3NjRWkAgUFNZqtALSgWqFsZ3nfVxDC1koftDXeiSy4F5R1UXZpnbIp7N7-KWj5Kk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQFsV3t8RYD_UQz2M7RaGyzH2kDEFt4kKmfA-OjKsxbkqhSmv2uSPt2h5czMJfB9V9EilU4zkl7pUQ&oh=00_AfmzqWQwi9Pdmtjkm8k_Hc2YA_SKA1saRV4FrPcHv5bajQ&oe=693F1393",
+              "src": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/584000892_1578621520237292_984339130164633822_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=d2b52d&_nc_eui2=AeHN4nPNidofvMAjBdzWqMC6rMkvUGy9cN2syS9QbL1w3Vo7PO8EKvGRYZRkk5BRH8GdvSQjonUp-YaI91DWW_dX&_nc_ohc=4o0-5eW80NMQ7kNvwEEicvX&_nc_oc=AdmDnO0uKQ2X_1FhBGHaxqctUzO5LV93KCVgsSOQavP3_xosIzeFHrqgSdDiAaqkc0c&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQETMwV15MaXgmegQUWHXYnKh9oGWgEux5cBL7RO6pPZNQGKPCCT7gfjbljAj9aAVAbJ14kavqAMpw&oh=00_AflOyUjTebcXl-GtGDE8oHlOgd8fK7WnbSaFdrKm8Kemjg&oe=693F4BD3",
               "width": 405
             },
-            "source": "https://scontent-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM97u7AWSiFv71cM0Sq4AxE2XDYCuX0Eqa-IZVSVAuEptjCv8hPskUgH1IXkSUssqixTLJfMTtHCLIz8eqkmsrqoU600ZkSHGujMg2yOzd0BQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-sjc6-1.xx.fbcdn.net&_nc_ohc=UZLCWfwQ4ukQ7kNvwFlWZ7T&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjU3NTIxNTUwNjg3ODgsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b598163e74ba420d&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC83OTQyNUQ1QzcxM0MwNzA5MTA3OTJDNkEyNkM3OUQ4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5cqx2o-SBBUCKAJDMywXQDeiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeEMKbOda0GocmEsCZlgvsUEwqjgWn4CWn3CqOBafgJafQNcph0HMeYZR_aM8nEj6ULd7k0EZcBradc5BY_QTa77&_nc_tpa=Q5bMBQFnF8rMqfrrLG0wdcA1IlFir7HTZEFDeFj1T68yxNAMgxJhuP-IDqkXVGGud-3OROZJMljLSRPxIA&oh=00_AfmKl_uwQRSMpVCf0U4dOQCrYjwM-7egpZevcn-JiavtVA&oe=693F40BC&bitrate=0&tag=dash_h264-basic-gen2_720p"
+            "source": "https://video-atl3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQM97u7AWSiFv71cM0Sq4AxE2XDYCuX0Eqa-IZVSVAuEptjCv8hPskUgH1IXkSUssqixTLJfMTtHCLIz8eqkmsrqoU600ZkSHGujMg2yOzd0BQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=video-atl3-3.xx.fbcdn.net&_nc_ohc=UZLCWfwQ4ukQ7kNvwHOndgj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjU3NTIxNTUwNjg3ODgsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b598163e74ba420d&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC83OTQyNUQ1QzcxM0MwNzA5MTA3OTJDNkEyNkM3OUQ4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5cqx2o-SBBUCKAJDMywXQDeiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&edm=AKIiGfEEAAAA&_nc_zt=28&_nc_eui2=AeEMKbOda0GocmEsCZlgvsUEwqjgWn4CWn3CqOBafgJafQNcph0HMeYZR_aM8nEj6ULd7k0EZcBradc5BY_QTa77&_nc_tpa=Q5bMBQG4MiktXFDr4xyEcGnp2tdkf-I1_UjJz2SUElXFiJbPtZ_OeEk9qHxsiQv_2NyLJTKTzGU4M1kerA&oh=00_AfmiI838WO-8QB8w2nKZAsiEw4jciu-RAJhkHUwOSrz2EA&oe=693F40BC&bitrate=0&tag=dash_h264-basic-gen2_720p"
           },
           "target": {
             "id": "835689049263098",
@@ -763,7 +763,7 @@
   {
     "message": "✨🇪🇨 En la conmemoración de la Independencia de Loja, la AIME celebra a una ciudad símbolo de arte 🎨, tradición 🎶 y visión de futuro 🌟.\nSu espíritu libre nos motiva a seguir trabajando por un Ecuador más justo 🤝, sostenible 🌱 y lleno de oportunidades para todos 💎.\n🇪🇨 ¡Viva Loja independiente!",
     "created_time": "2025-11-18T22:44:31+0000",
-    "full_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/583901080_859004043446074_7241979257313766502_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHH81VqtwWuIY-fZfR5cctKxeX0eQDfbV7F5fR5AN9tXmjTWK3DrbQNBPttr1yJA2t915g_6XLbd9pUdsLWNLMH&_nc_ohc=Rn9ByliBsX8Q7kNvwF29-TF&_nc_oc=Admu0TH9wkONJatPL4HirM0vPxwNIh79XtomHZhd_rWAXdT6TgOHIm9UJixAXAVNoIs&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHzw1lgCTBYBh6Jb_QAzybXYEpIbyGjTfrpdDyDZzF_VFW3mLfvTIn7EjJQeg5xRhI9eQEGJoANWA&oh=00_AflsxixzYPMHYbAha1U8BUTjU2Vg5YtmzfYjHziqlXj8Mw&oe=693F2671",
+    "full_picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/583901080_859004043446074_7241979257313766502_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHH81VqtwWuIY-fZfR5cctKxeX0eQDfbV7F5fR5AN9tXmjTWK3DrbQNBPttr1yJA2t915g_6XLbd9pUdsLWNLMH&_nc_ohc=Rn9ByliBsX8Q7kNvwHIMESp&_nc_oc=AdlIuuaF3dNp6AUqrz_xGqv6BRjd84m5j7zPP6u9IZYULzgCxlONVGr9xXf1Ho_otWE&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHI5HYZ7sB6ToTblV63atkVOLNjAJ4mDqSJkC-ArdsL-MUO9NW4nOgI6_neNC-YNGtoVeQT8bstkA&oh=00_AfmjDxLU2n98SOa-N5JQlvAR20JTW0gdCTeDXyVbcpn5HQ&oe=693F2671",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/859004756779336",
     "attachments": {
       "data": [
@@ -772,7 +772,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/583901080_859004043446074_7241979257313766502_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHH81VqtwWuIY-fZfR5cctKxeX0eQDfbV7F5fR5AN9tXmjTWK3DrbQNBPttr1yJA2t915g_6XLbd9pUdsLWNLMH&_nc_ohc=Rn9ByliBsX8Q7kNvwF29-TF&_nc_oc=Admu0TH9wkONJatPL4HirM0vPxwNIh79XtomHZhd_rWAXdT6TgOHIm9UJixAXAVNoIs&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQF9JzXgzVqVUO1OT7uXtVXjjd01EM40vJOEaj6hPZMD5tmaUpygbuTO77CgyJa0nvgIAbo8zJOjOA&oh=00_AfkI2OepkON4BntCYKMK_lzjLxi81i_Tu8SqjbFJCt7iCw&oe=693F2671",
+              "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/583901080_859004043446074_7241979257313766502_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHH81VqtwWuIY-fZfR5cctKxeX0eQDfbV7F5fR5AN9tXmjTWK3DrbQNBPttr1yJA2t915g_6XLbd9pUdsLWNLMH&_nc_ohc=Rn9ByliBsX8Q7kNvwHIMESp&_nc_oc=AdlIuuaF3dNp6AUqrz_xGqv6BRjd84m5j7zPP6u9IZYULzgCxlONVGr9xXf1Ho_otWE&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQFtioQP-kzXJrfLBQW_kyVaga-7J8gynIlD71fXcWg4hxpTS5muLTdWyULJCl-aeR28idQUOe1Q6g&oh=00_Aflq1DepT_JBwuNF405eP5EgQhJ7CpOJZOAKWU8_d4P9lQ&oe=693F2671",
               "width": 720
             }
           },
@@ -790,7 +790,7 @@
   {
     "message": "⛏ AIME presente en la Mesa Sectorial de Minería – Agenda Ecuador 2040 🇪🇨\n\nHoy participamos en la Mesa Sectorial de Minería, un espacio de diálogo entre el sector público, privado y académico para construir la Agenda de Crecimiento Ecuador 2040 🤝📘.\n\nDurante el encuentro, resaltamos que el profesionalismo, la técnica y la capacitación continua son fundamentales para impulsar una minería responsable, sostenible y competitiva en el país 🌱⚙.\n\nDesde AIME, reafirmamos nuestro compromiso con el desarrollo sostenible de la minería en el Ecuador y con la construcción de propuestas que fortalezcan al sector y aporten al crecimiento nacional 💪🇪🇨.\n\n#AIME #MineríaEcuador #Agenda2040 #MineríaResponsable #DesarrolloSostenible",
     "created_time": "2025-11-14T01:36:57+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/583419963_855067083839770_8706791541596594170_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES4oWuZJXzpHFFwbByPNHCI8UB7T3HA9kjxQHtPccD2cb6GE2YR_wmMTs5M-v7SciwN-0O1xQUFH7S4tz4mZ5p&_nc_ohc=weynejYYJlUQ7kNvwEJrlH3&_nc_oc=AdlRjP9FjXPW7PYA5VjsESfh_fRrq9RfAZ_LMVUWd2DGu4fXXMhK9Z74uAb0tuRiI-Y&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQGmXHXCIte3LbaIThcZ7BxFS7YfArNxw9r_CeMLQ6Yq3qNDohnrXUhbk7DYJvsc3X3VihHJqpX2qQ&oh=00_AfnonBHFAFB5moiNtz9ydxdgE-fuZBwAIOr822RAeW8EQw&oe=693F23E3",
+    "full_picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/583419963_855067083839770_8706791541596594170_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES4oWuZJXzpHFFwbByPNHCI8UB7T3HA9kjxQHtPccD2cb6GE2YR_wmMTs5M-v7SciwN-0O1xQUFH7S4tz4mZ5p&_nc_ohc=weynejYYJlUQ7kNvwH8TnKl&_nc_oc=Adk2CjKeGw3DcINPZpicT89M_kM_KuyzjSu0x6Eo-YhVsutOouYcAQC1cRbGatBdzHw&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQGDxfxgSFHi6_GD4qnFvnrZiroWn7SKDdAS8DfqTE6PekCffYn8IBkGhK7EozxMfQ6Lpeh1WGwoWQ&oh=00_AfkOm8pXeV0iKjkQlrHzWkZ2ZYmVCjJsRIv_EYoE8gia8A&oe=693F23E3",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/855067570506388",
     "attachments": {
       "data": [
@@ -798,7 +798,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/583419963_855067083839770_8706791541596594170_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES4oWuZJXzpHFFwbByPNHCI8UB7T3HA9kjxQHtPccD2cb6GE2YR_wmMTs5M-v7SciwN-0O1xQUFH7S4tz4mZ5p&_nc_ohc=weynejYYJlUQ7kNvwEJrlH3&_nc_oc=AdlRjP9FjXPW7PYA5VjsESfh_fRrq9RfAZ_LMVUWd2DGu4fXXMhK9Z74uAb0tuRiI-Y&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQEzSjkhGBn2EIdR_epcLgaTo96u3gYCEEYo9LqpFSNtwaXgntgbc75HOZTQ2HZ1B2YM8xz7_mJ6uA&oh=00_Afl3J5tSteN3_ViMhTNK6XxeBKBlwc43P3waIiWlF37MGg&oe=693F23E3",
+              "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/583419963_855067083839770_8706791541596594170_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES4oWuZJXzpHFFwbByPNHCI8UB7T3HA9kjxQHtPccD2cb6GE2YR_wmMTs5M-v7SciwN-0O1xQUFH7S4tz4mZ5p&_nc_ohc=weynejYYJlUQ7kNvwH8TnKl&_nc_oc=Adk2CjKeGw3DcINPZpicT89M_kM_KuyzjSu0x6Eo-YhVsutOouYcAQC1cRbGatBdzHw&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEoDbT2CqtOyFl9J7MD22Z8zX8PRNvwSmBuOPwrxhkc6X_CbWFx0XpfykGo_n1mYw7RpD5N-8zlHw&oh=00_Afm3Z4NFrVtqULUIgdfgdmbmigScbUpTOV3N65P76P-lBQ&oe=693F23E3",
               "width": 720
             }
           },
@@ -808,7 +808,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/583419963_855067083839770_8706791541596594170_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES4oWuZJXzpHFFwbByPNHCI8UB7T3HA9kjxQHtPccD2cb6GE2YR_wmMTs5M-v7SciwN-0O1xQUFH7S4tz4mZ5p&_nc_ohc=weynejYYJlUQ7kNvwEJrlH3&_nc_oc=AdlRjP9FjXPW7PYA5VjsESfh_fRrq9RfAZ_LMVUWd2DGu4fXXMhK9Z74uAb0tuRiI-Y&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQH2WN7YratPUw_kuplBN6f70cyY2gANHTRLVd34ekKdkE-J8Lp9s4oxprrwF0QmBGN-0UJfEZgZ-w&oh=00_AfkACGfZx8V0wYooulBzoBWrtL6KUjBxH7Ir51IcqNwubw&oe=693F23E3",
+                    "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/583419963_855067083839770_8706791541596594170_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES4oWuZJXzpHFFwbByPNHCI8UB7T3HA9kjxQHtPccD2cb6GE2YR_wmMTs5M-v7SciwN-0O1xQUFH7S4tz4mZ5p&_nc_ohc=weynejYYJlUQ7kNvwH8TnKl&_nc_oc=Adk2CjKeGw3DcINPZpicT89M_kM_KuyzjSu0x6Eo-YhVsutOouYcAQC1cRbGatBdzHw&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQHAh-Zmbgx4dH1jNAbkepSSY35rt9M2v_4KfKiovPJlNKz-_IU8ocxzS8mbT9FmfmE5S5yj8pTcog&oh=00_AfmMJob9kdMYyvt45bhj0JhGiHU46dmfPKUpS11ezRj2Hw&oe=693F23E3",
                     "width": 720
                   }
                 },
@@ -823,7 +823,7 @@
                 "media": {
                   "image": {
                     "height": 720,
-                    "src": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/581444646_855067063839772_8403780078760900668_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH6e8VDQV-qp3tdrnG5RnfTf9suCnWno5J_2y4KdaejkiDJFD8uIygv3CZIQyVamBB2YcBRNecudGRVidsnc2u1&_nc_ohc=yf2MvhU0Kf8Q7kNvwGs9ash&_nc_oc=AdnufYynvzBCqFgt8ln_ddP2FZOSBcOFgbHG2wJBvUZD4HxED3kN0VsPb5skRfDW0tk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHZ5qr4-Yb3ypB8twLCKiNEstxScp4ud3Km9R8c4bl5rk3s0c-zWaKnE6d40WOSngMZ4E7jhoPHrw&oh=00_Afn6AoskF3r9BrJFZ2oX8EEGQSiMHf6_mWyz2ZBPPT2F3A&oe=693F369B",
+                    "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/581444646_855067063839772_8403780078760900668_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH6e8VDQV-qp3tdrnG5RnfTf9suCnWno5J_2y4KdaejkiDJFD8uIygv3CZIQyVamBB2YcBRNecudGRVidsnc2u1&_nc_ohc=yf2MvhU0Kf8Q7kNvwFron_S&_nc_oc=AdkWMTF6S_gUELyVwCCB_4G4J05sEFbyENmv_qis9iteRgdkR91YxukuQMjmqOnT9K0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQH8HxQkWZAmB_lCav0-rpsnfbLA6VzJXkCo2RgCWiltefSbXYo1lUf-tXM3-GiIzFV8JoDcZcnPLQ&oh=00_AfnqLPMfFhpViipiW448GdB8DODZrpNlv5FPV03clxpvIQ&oe=693F369B",
                     "width": 720
                   }
                 },
@@ -850,7 +850,7 @@
   },
   {
     "created_time": "2025-11-07T23:08:19+0000",
-    "full_picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=D0kogl1v8xkQ7kNvwGNwmDa&_nc_oc=AdkhLLyUeDYMzXBe4BHP62KAeAEoYsf4tRzVAN3QwuFfguKqI9nfYlJH6DWLMnHZGnE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQF_8W2aIQ9uTRMTTwivS-cELEEnBYzs57yeqi2HWqoRFK9jKmozWxgtkEl4HAmnW1kz1cJfIwccEA&oh=00_AfkUmjDBWLauYHuKDSO6pAbgQJ8gjx3vZKgA4ELr5GaDtQ&oe=693F2E9E",
+    "full_picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=D0kogl1v8xkQ7kNvwEngLsb&_nc_oc=AdlaVrC1JjQw_4dtOfIdYaJ6s1Xje7eOVO3kHPiR3GlbMiS7yIiz-0tNkLEBofEDmwk&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEckdioMNUFYQyDi1SPqm_kkckAr-Fr6tQBMPPP4vSnMkunMMxSCk2Sh3sB3XRwRDKXrSUvgW-_jA&oh=00_AflxrH49tuW4uFVnjkWr8-csBS4kcHZVqW3jTJYeE18HKQ&oe=693F2E9E",
     "permalink_url": "https://www.facebook.com/686939690652511/posts/1457433945317511?substory_index=1457433945317511",
     "attachments": {
       "data": [
@@ -858,7 +858,7 @@
           "media": {
             "image": {
               "height": 720,
-              "src": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=D0kogl1v8xkQ7kNvwGNwmDa&_nc_oc=AdkhLLyUeDYMzXBe4BHP62KAeAEoYsf4tRzVAN3QwuFfguKqI9nfYlJH6DWLMnHZGnE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=oy1cTIxT36PLuG3f8rcYBQ&_nc_tpa=Q5bMBQHOStrgH2gj_2DBS-67bhlB5rIotl3S1Ine781XuWfkJjTOa0Aw85345lzt6T0BhD6pN2DSKTkijA&oh=00_Afn3ndkTOUx4r9pH60SV9p4EjBDj0fH9XWHo3pR723G4kA&oe=693F2E9E",
+              "src": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/579036312_849623314384147_3772789853811390759_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGj-C9gnOitVgUJRYGzlDDgHVoi6fSvYowdWiLp9K9ijPFVl_bxtiC5Kkj5Zr-1I-BtPXK_C4pTz2iwYPnOnXLZ&_nc_ohc=D0kogl1v8xkQ7kNvwEngLsb&_nc_oc=AdlaVrC1JjQw_4dtOfIdYaJ6s1Xje7eOVO3kHPiR3GlbMiS7yIiz-0tNkLEBofEDmwk&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AKIiGfEEAAAA&_nc_gid=sCm77B3q7O0CAC-IvG6l7g&_nc_tpa=Q5bMBQEdiRppCqBFiV_zTgMnUp4hYvnj4vxcsy6np1zPqyFKggPBBHsSGBnQ5GZAvCWO7mSRtUBh4krdlA&oh=00_Afm3Rk1tsvFMP8oS_gi7eN3pTToNUvTIfscF1pPiFQTGrg&oe=693F2E9E",
               "width": 1943
             }
           },
